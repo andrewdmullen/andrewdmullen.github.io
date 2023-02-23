@@ -74,10 +74,7 @@ author_profile: true
 * Scientific American, "Eyes in the Deep", (2016). Print & Online Article. <br>
   Print: [https://www.jstor.org/stable/26047255?seq=2](https://www.jstor.org/stable/26047255?seq=2) <br>
   Online: [https://www.scientificamerican.com/article/a-coral-reef-rsquo-s-battle-for-survival-is-revealed-by-a-new-microscope/](https://www.scientificamerican.com/article/a-coral-reef-rsquo-s-battle-for-survival-is-revealed-by-a-new-microscope/)  
-<p float="center">
-	<img src="/images/media/ScientificAmerican_screenshot.png" 
-	width="400" height="200" style="display: block; margin: auto;"/>
-</p>
+<img src="/images/media/ScientificAmerican_screenshot.png" width="400" height="200" style="display: block; margin: auto;"/>
 
 ### 2016 – Benthic Underwater Microscope, Online Media, In-Depth Features
 * New York Times, “Seafloor Microscope Zooms In on Tiniest Bits of Coral”, (July 2016). Feature ‘Science Take’ Video & Online Article. [http://www.nytimes.com/2016/07/13/science/seafloor-microscope-coral.html](http://www.nytimes.com/2016/07/13/science/seafloor-microscope-coral.html)

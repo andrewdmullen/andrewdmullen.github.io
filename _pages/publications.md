@@ -30,7 +30,7 @@ PED Davis, KW Nicholls, DM Holland, BE Schmidt, P Washam, KL Riverman, RJ Arther
 
 
 * **"Subsurface Science and Search for Life in Ocean Worlds", Planetary Science Journal (2023)** <br>
-JD Lawrence, **AD Mullen**, FE Bryson, CJ Chivers, AM Hanna, T Plattner, EM Spiers, JS Bowman, JJ Buffo, JL Burnett, CE Carr, DJ Dichek, KHG Hughson, W King, EG Lightsey, E Ingall, J McKaig, MR Meister, S Pierson, Y Tomar, BE Schmidt <br>
+JD Lawrence (co-lead), **AD Mullen** (co-lead), FE Bryson, CJ Chivers, AM Hanna, T Plattner, EM Spiers, JS Bowman, JJ Buffo, JL Burnett, CE Carr, DJ Dichek, KHG Hughson, W King, EG Lightsey, E Ingall, J McKaig, MR Meister, S Pierson, Y Tomar, BE Schmidt <br>
 [https://doi.org/10.3847/PSJ/aca6ed](https://doi.org/10.3847/PSJ/aca6ed) (Open Access)
 <br> 
 
@@ -38,7 +38,7 @@ JD Lawrence, **AD Mullen**, FE Bryson, CJ Chivers, AM Hanna, T Plattner, EM Spie
 
 
 * **“Underwater Microscopy for In Situ Studies of Benthic Ecosystems”, Nature Communications (2016)** <br>
-**AD Mullen**, T Treibitz, PLD Roberts, ELA Kelly, R Horwitz, JE Smith, JS Jaffe <br>
+**AD Mullen** (co-lead), T Treibitz (co-lead), PLD Roberts, ELA Kelly, R Horwitz, JE Smith, JS Jaffe <br>
 [https://doi.org/10.1038/ncomms12093](https://doi.org/10.1038/ncomms12093) (Open Access)
 <br> 
 

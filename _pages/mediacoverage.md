@@ -74,7 +74,7 @@ author_profile: true
 * Scientific American, "Eyes in the Deep", (2016). Print & Online Article. <br>
   Print: [https://www.jstor.org/stable/26047255?seq=2](https://www.jstor.org/stable/26047255?seq=2) <br>
   Online: [https://www.scientificamerican.com/article/a-coral-reef-rsquo-s-battle-for-survival-is-revealed-by-a-new-microscope/](https://www.scientificamerican.com/article/a-coral-reef-rsquo-s-battle-for-survival-is-revealed-by-a-new-microscope/)  
-<p float="center"
+<p float="center">
 	<img src="/images/media/ScientificAmerican_screenshot-2.png" 
 	width="400" height="200" style="display: block; margin: auto;"/>
 </p>

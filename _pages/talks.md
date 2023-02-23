@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 ## Invited Talks
-* **AD Mullen**, “Microscopes for Life Detection And Exploration: From Oceans To Space”, Network for Life Detection (NFOLD) Seminar, Virtual (Oct 2020). [Link](https://www.youtube.com/watch?v=1W3-NzVVJeA)
+* **AD Mullen**, “Microscopes for Life Detection And Exploration: From Oceans To Space”, Network for Life Detection (NFOLD) Seminar, Virtual (Oct 2020). [Video](https://www.youtube.com/watch?v=1W3-NzVVJeA)
 * **AD Mullen**, "Microscopes for Earth & Space Exploration” Georgia Tech Planetary Science & Astrobiology Seminar, Atlanta, Georgia (Sept 2020).
 * **AD Mullen**, "Adventures with Underwater Microscopes: From the Tropics to the Poles”, Crary Library, McMurdo Station, Antarctica (Oct 2019).
 * **AD Mullen**, “Microscopic Imaging of Coral & Fluid Motions”, SIO/SDSU Coral Club, San Diego, California (Apr 2018)

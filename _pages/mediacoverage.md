@@ -79,7 +79,7 @@ author_profile: true
 	width="400" height="200" style="display: block; margin: auto;"/>
 </p>
 
-### 2016 – Benthic Underwater Microscope, Online Media, In-Depth Features
+### 2016 – Benthic Underwater Microscope, Online Media
 * New York Times, “Seafloor Microscope Zooms In on Tiniest Bits of Coral”, (July 2016). Feature ‘Science Take’ Video & Online Article. [http://www.nytimes.com/2016/07/13/science/seafloor-microscope-coral.html](http://www.nytimes.com/2016/07/13/science/seafloor-microscope-coral.html)
 * Washington Post, “Watch incredible microscopic video of corals kissing, growing and fighting (July 2016). [https://www.washingtonpost.com/news/speaking-of-science/wp/2016/07/12/this-incredible-underwater-microscope-shows-stunning-corals-like-youve-never-seen-them-before/](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/07/12/this-incredible-underwater-microscope-shows-stunning-corals-like-youve-never-seen-them-before/)
 * BBC, “Microscope observes life of the ocean floor” (July 2016). [http://www.bbc.com/news/science-environment-36785883](http://www.bbc.com/news/science-environment-36785883)

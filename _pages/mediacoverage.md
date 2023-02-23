@@ -78,6 +78,10 @@ author_profile: true
 	<img src="/images/media/ScientificAmerican_screenshot-2.png" 
 	width="400" height="200" style="display: block; margin: auto;"/>
 </p>
+<p float="center">
+	<img src="/images/media/MicroscopyToday_ScreenShot_2.png" 
+	width="400" height="200" style="display: block; margin: auto;"/>
+</p>
 
 ### 2016 – Benthic Underwater Microscope, Online Media
 * New York Times, “Seafloor Microscope Zooms In on Tiniest Bits of Coral”, (July 2016). Feature ‘Science Take’ Video & Online Article. [http://www.nytimes.com/2016/07/13/science/seafloor-microscope-coral.html](http://www.nytimes.com/2016/07/13/science/seafloor-microscope-coral.html)

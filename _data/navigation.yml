@@ -4,19 +4,28 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/ 
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Media Coverage"
+    url: /mediacoverage/ 
+
+  - title: "Videos"
+    url: /videos/ 
+
+  - title: "Field Work"
+    url: /fieldwork/ 
+
+  #- title: "CV"
+  #  url: /cv/
+
+  #- title: "Portfolio"
+  #  url: /portfolio/  
+
+  #- title: "Teaching"
+  #  url: /teaching/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/

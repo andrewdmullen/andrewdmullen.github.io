@@ -8,7 +8,7 @@ author_profile: true
 A list of publications can also be found on my [google scholar page](https://scholar.google.com/citations?user=_MPATb0AAAAJ&hl=en).
 
 
-## Peer Reviewed Journals
+## Peer Reviewed Journal Articles
 
 * **"Heterogeneous melting near the Thwaites Glacier grounding line", Nature (2023)** <br>
 BE Schmidt, P Washam, PED Davis, KW Nicholls, DM Holland, JD Lawrence, KL Riverman, JA Smith, A Spears, DJG Dichek, **AD Mullen**, E Clyne, B Yeager, P Anker, MR Meister, BC Hurwitz, ES Quartini, FE Bryson, A Basinski, C Thomas, J Wake, DG Vaughan, S Anandakrishnan, E Rignot, J Paden, K Makinson <br>
@@ -60,7 +60,7 @@ SE Silliman, BI Borum, M Boukari, N Yalo, S Orou-Oete, D McInnis, C Fertenbaugh,
 | <img src="/images/publications/THESIS_Mullen_Fig3.2_LowRes.png" width="1200" height="600" style="display: block; margin: auto;"/>| Figure 3.2 <br> Underwater μPTV imaging and particle tracking.|
 | <img src="/images/publications/THESIS_Mullen_Fig3.4_LowRes.png" width="1200" height="600" style="display: block; margin: auto;"/>| Figure 3.4 <br> Time averaged μPTV measurements surrounding in situ coral polyps.|
 
-## Conference Publications
+## Conference Articles
 
 * **“A low-cost, submersible, digital holographic microscope for in situ microbial imaging”, Optics and Photonics for Sensing the Environment (2021)** <br>
 AJ Ramirez, BW Schierman, L Zheng, BM Dalporto, L Belvin, TP Burch, **AD Mullen**, JK Wallace <br>

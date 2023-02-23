@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a Senior Research Engineer at [Cornell University](https://astro.cornell.edu/andrew-mullen) in the [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu). Prior to this I was a [NASA Postdoctoral Program (NPP) Scholar](https://cos.gatech.edu/article/andrew-mullen) at the Georgia Institute of Technology. 
+Welcome! I am a Senior Research Engineer at [Cornell University](https://astro.cornell.edu/andrew-mullen) in the [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu). Prior to this I was a [NASA Postdoctoral Program (NPP) Scholar](https://cos.gatech.edu/article/andrew-mullen) at the Georgia Institute of Technology. 
 I received a PhD in Electrical Engineering and a MS in Oceanography from the University of California San Diego while conducting research at the [Scripps Institution of Oceanography](https://jaffeweb.ucsd.edu), and a BS in Civil Engineering from the University of Notre Dame.
 <br><br>
 My research focuses on developing tools for earth and space exploration, with an emphasis on building custom scientifc instruments for extreme environments. 

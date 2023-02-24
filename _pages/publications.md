@@ -19,14 +19,14 @@ table th:first-of-type { width: 80%;}
 table th:nth-of-type(2) {width: 20%;}
 </style>
 
-| <img src="/images/publications/NATURE_Schmidt_2023_Fig1.png" width="1600" height="800" style="display: block; margin: auto;"/> | Figure 1. <br> Ocean thermal driving (degrees above in situ freezing point) measured beneath the Thwaites Glacier in West Antarctica by the underwater robot Icefin.|
-| <img src="/images/publications/NATURE_Schmidt_2023_Fig5.png" width="1600" height="800" style="display: block; margin: auto;"/> | Figure 5. <br> Estimates of spatially varying ice-shelf melt rates beneath the Thwaites Glacier in West Antarctica.|
+| <img src="/images/publications/NATURE_Schmidt_2023_Fig1.png" width="1200" height="600" style="display: block; margin: auto;"/>  Fig 1. Warm water reaches near the ice base and retreating Grounding Line of the Thwaites Eastern Ice Shelf. (Ocean thermal driving measured beneath the Thwaites Glacier in Antarctica by the underwater robot Icefin.)| <img src="/images/publications/NATURE_Schmidt_2023_Video01_gif_07-27sec.gif" width="400" height="200" style="display: block; margin: auto;"/> Supplementary Video 1. Forward-looking video of Icefin’s approach to the Grounding Line of the Thwaites Eastern Ice Shelf shows visual evidence of melting and ice–bed interactions. |
+| <img src="/images/publications/NATURE_Schmidt_2023_Fig5.png" width="1200" height="600" style="display: block; margin: auto;"/> Figure 5. Highly variable melt rates are found beneath the Thwaites Eastern Ice Shelf.| <img src="/images/publications/NATURE_Schmidt_2023_SuppFig8.png" width="400" height="200" style="display: block; margin: auto;"/> Extended Data Fig 8. Topography of terraces under the Thwaites Eastern Ice Shelf demonstrates strongly asymmetric melting and melt processes.|
 
 * **"Suppressed basal melting in the eastern Thwaites Glacier grounding zone", Nature (2023)** <br>
 PED Davis, KW Nicholls, DM Holland, BE Schmidt, P Washam, KL Riverman, RJ Arthern, I Vaňková, C Eayrs, JA Smith, PGD Anker, **AD Mullen**, D Dichek, JD Lawrence, MR Meister, E Clyne, A Basinski-Ferris, E Rignot, BY Queste, L Boehme, KJ Heywood, S Anandakrishnan, K Makinson <br>
 [https://doi.org/10.1038/s41586-022-05586-0](https://doi.org/10.1038/s41586-022-05586-0) (Open Access)
 
-| <img src="/images/publications/NATURE_Davis_2023_Fig4.png" width="1500" height="750" style="display: block; margin: auto;"/> | Figure 4. <br> Ocean currents measured beneath the Thwaites Glacier in West Antarctica by the underwater robot Icefin.|
+| <img src="/images/publications/NATURE_Davis_2023_Fig1.png" width="900" height="450" style="display: block; margin: auto;"/> Fig 1. Map of Thwaites Glacier and location of the observations used in this study. |  <img src="/images/publications/NATURE_Davis_2023_Fig3.png" width="900" height="450" style="display: block; margin: auto;"/> Fig 3. Temporal evolution of hydrographic conditions, meltwater content and basal melt rate. | <img src="/images/publications/NATURE_Davis_2023_Fig4.png" width="1000" height="500" style="display: block; margin: auto;"/> Fig 4. Cross-sections and vertical profiles of current speed and direction. (Ocean currents measured beneath the Thwaites Glacier by the underwater robot Icefin.)|
 
 
 * **"Subsurface Science and Search for Life in Ocean Worlds", Planetary Science Journal (2023)** <br>
@@ -34,7 +34,7 @@ JD Lawrence (co-lead), **AD Mullen** (co-lead), FE Bryson, CJ Chivers, AM Hanna,
 [https://doi.org/10.3847/PSJ/aca6ed](https://doi.org/10.3847/PSJ/aca6ed) (Open Access)
 <br> 
 
-| <img src="/images/publications/SSSLOW_Fig1_FullResolution.png" width="1500" height="750" style="display: block; margin: auto;"/>| Figure 1. <br> A conceptual life detection payload for future sub-surface missions to "Ocean Worlds" such as Europa and Enceladus.|
+| <img src="/images/publications/SSSLOW_Fig1_FullResolution.png" width="500" height="250" style="display: block; margin: auto;"/> Fig 1. Conceptual diagram of the SSSLOW payload. (A life detection package concept for future sub-surface missions to "Ocean Worlds" such as Europa and Enceladus.)|
 
 
 * **“Underwater Microscopy for In Situ Studies of Benthic Ecosystems”, Nature Communications (2016)** <br>
@@ -42,8 +42,8 @@ JD Lawrence (co-lead), **AD Mullen** (co-lead), FE Bryson, CJ Chivers, AM Hanna,
 [https://doi.org/10.1038/ncomms12093](https://doi.org/10.1038/ncomms12093) (Open Access)
 <br> 
 
-| <img src="/images/publications/NCOMMS_Mullen_2016_Fig1.jpg" width="900" height="450" style="display: block; margin: auto;"/>| Figure 1. <br> Design and operations of the Benthic Underwater Microscope.|
-| <img src="/images/publications/NCOMMS_Mullen_2016_Fig2.jpg" width="900" height="450" style="display: block; margin: auto;"/>| Figure 2. <br> Image results from the Benthic Underwater Microscope. Main figure scale bars = 500 μm. Inset scale bars = 50 μm.|
+| <img src="/images/publications/NCOMMS_Mullen_2016_Fig1.jpg" width="700" height="350" style="display: block; margin: auto;"/> Fig 1. Benthic Underwater Microscope design and operation.| <img src="/images/publications/NCOMMS_Mullen_2016_Fig3.jpg" width="700" height="350" style="display: block; margin: auto;"/> Fig 3. Images captured by the Benthic Underwater Microscope. Main figure scale bars = 500 μm. Inset scale bars = 50 μm.|
+| <img src="/images/publications/NCOMMS_Mullen_2016_Fig2.jpg" width="700" height="350" style="display: block; margin: auto;"/> Fig 2. Focal scan using Electronically Tunable Lens and composite image formation. | <img src="/images/publications/NCOMMS_Mullen_2016_Fig4.jpg" width="700" height="350" style="display: block; margin: auto;"/> Fig 4. Videos captures by the Benthic Underwater Microscope.|
 
 
 * **“Issues of sustainability of coastal groundwater resources: Benin, West Africa”, Sustainability (2010)** <br>
@@ -56,9 +56,9 @@ SE Silliman, BI Borum, M Boukari, N Yalo, S Orou-Oete, D McInnis, C Fertenbaugh,
 **AD Mullen** <br>
 [https://escholarship.org/uc/item/1p03v5t1](https://escholarship.org/uc/item/1p03v5t1) (Open Access)
 
-| <img src="/images/publications/THESIS_Mullen_Fig3.1_LowRes.png" width="1200" height="600" style="display: block; margin: auto;"/>| Figure 3.1 <br> Design and operations of the underwater Micro Particle Tracking Velocimetry (μPTV) system.|
-| <img src="/images/publications/THESIS_Mullen_Fig3.2_LowRes.png" width="1200" height="600" style="display: block; margin: auto;"/>| Figure 3.2 <br> Underwater μPTV imaging and particle tracking.|
-| <img src="/images/publications/THESIS_Mullen_Fig3.4_LowRes.png" width="1200" height="600" style="display: block; margin: auto;"/>| Figure 3.4 <br> Time averaged μPTV measurements surrounding in situ coral polyps.|
+| <img src="/images/publications/THESIS_Mullen_Fig3.1_LowRes.png" width="500" height="250" style="display: block; margin: auto;"/> Fig 3.1. Design and operations of the underwater Micro Particle Tracking Velocimetry (μPTV) system.|
+| <img src="/images/publications/THESIS_Mullen_Fig3.2_LowRes.png" width="500" height="250" style="display: block; margin: auto;"/> Fig 3.2. Underwater μPTV imaging and particle tracking.|
+| <img src="/images/publications/THESIS_Mullen_Fig3.4_LowRes.png" width="500" height="250" style="display: block; margin: auto;"/> Fig 3.4. Time averaged μPTV measurements surrounding in situ coral polyps.|
 
 ## Conference Articles
 
@@ -70,7 +70,7 @@ AJ Ramirez, BW Schierman, L Zheng, BM Dalporto, L Belvin, TP Burch, **AD Mullen*
 FE Bryson, M Nassif, PA Szot, CJ Chivers, N Daniel, BE Wiley, T Plattner, A Hanna, Y Tomar, S Rapoport, EM Spiers, S Pierson, A Hodges, J Lawrence, **AD Mullen**, D Dichek, K Hughson, MR Meister, EG Lightsey, BE Schmidt <br>
 [https://doi.org/10.2514/6.2020-4061](https://doi.org/10.2514/6.2020-4061)
 
-| <img src="/images/publications/ASCEND_Bryson_2020_Fig2_LowRes.png" width="700" height="350" style="display: block; margin: auto;"/>| Figure 2. <br> VERNE concept of operations for drilling through Europa's the ice shell.|
+| <img src="/images/publications/ASCEND_Bryson_2020_Fig2_LowRes.png" width="700" height="350" style="display: block; margin: auto;"/> Fig 2. VERNE concept of operations for drilling through Europa's the ice shell.| <img src="/images/publications/ASCEND_Bryson_2020_Fig4_LowRes.png" width="70" height="35" style="display: block; margin: auto;"/> Fig 4. VERNE vehicle conceptual design.| <img src="/images/publications/ASCEND_Bryson_2020_Fig9_LowRes.png" width="300" height="150" style="display: block; margin: auto;"/> Fig 9. Pumped fluid loop design.|
 
 * **“Antarctic Deep Field Deployments and Design of the Icefin ROV”, IEEE Oceanic Engineering Society, Global OCEANS 2020 (2020)** <br>
 M Meister, D Dichek, A Spears, B Hurwitz, F Bryson, **AD Mullen**, J Lawrence, P Washam, E Quartini, S Lopez, L Kassabian, P Anker, D Mandeno, BE Schmidt <br>
@@ -91,8 +91,7 @@ F Bryson, MR Meister, DJ Dichek, **AD Mullen**, BC Hurwitz, JD Lawrence, AM Spea
 **AD Mullen**, DJG Dichek, JD Lawrence, MR Meister, FE Bryson, BC Hurwitz, AM Spears, PM Washam, E Quartini, BE Schmidt <br> 
 [https://doi.org/10.1109/ieeeconf38699.2020.9389327](https://doi.org/10.1109/ieeeconf38699.2020.9389327)
 
-| <img src="/images/publications/OCEANS2020_Mullen_2020_Fig2_LowRes.png" width="700" height="350" style="display: block; margin: auto;"/> | Figure 2. <br> Image of the water sampler, 135 x 210 x 235 mm in size|
-| <img src="/images/publications/OCEANS2020_Mullen_2020_Fig3_LowRes.png" width="700" height="350" style="display: block; margin: auto;"/> | Figure 3. <br> Sequential steps of the manifold design and fabrication: digital design, 3D printed manifold, 3D printed manifold with support structures removed, tapping threads, and mounting components.|
+| <img src="/images/publications/OCEANS2020_Mullen_2020_Fig2_LowRes.png" width="500" height="250" style="display: block; margin: auto;"/> Fig 3. Sequential steps of the manifold design and fabrication: digital design, 3D printed manifold, 3D printed manifold with support structures removed, tapping threads, and mounting components. | <img src="/images/publications/OCEANS2020_Mullen_2020_Fig3_LowRes.png" width="500" height="250" style="display: block; margin: auto;"/> Fig 2. Image of the water sampler, 135 x 210 x 235 mm in size.|
 
 * **“An Underwater Microscope for In Situ Imaging of Seafloor Organism”, Optical Society of America, Novel Techniques in Microscopy (2017)** <br>
 **AD Mullen**, T Treibitz, PLD Roberts, JS Jaffe <br>

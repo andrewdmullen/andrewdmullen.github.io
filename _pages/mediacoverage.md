@@ -26,7 +26,6 @@ author_profile: true
 * Smithsonian Magazine, "A Rare Look Below the ‘Doomsday Glacier’ Reveals Surprising Melting", (Feb 2023). [https://www.smithsonianmag.com/smart-news/a-rare-look-below-the-doomsday-glacier-reveals-surprising-melting-180981657/](https://www.smithsonianmag.com/smart-news/a-rare-look-below-the-doomsday-glacier-reveals-surprising-melting-180981657/)
 * Popular Science, "A torpedo-like robot named Icefin is giving us the full tour of the ‘Doomsday’ glacier", (Feb 2023). [https://www.popsci.com/technology/icefin-robot-thwaites-glacier/](https://www.popsci.com/technology/icefin-robot-thwaites-glacier/)
 * Axios, "Thwaites Glacier findings reveal clues about Antarctic ice melt", (Feb 2023). [https://www.axios.com/2023/02/16/thwaites-glacier-melt-antarctica-sea-level-rise](https://www.axios.com/2023/02/16/thwaites-glacier-melt-antarctica-sea-level-rise)
-* Phys, "Study provides close-up view of melting underneath the Thwaites Glacier", (Feb 2023). [https://phys.org/news/2023-02-close-up-view-thwaites-glacier.html](https://phys.org/news/2023-02-close-up-view-thwaites-glacier.html)
 * Cornell Chronicle "Underwater robot helps explain Antarctic glacier’s retreat", (Feb 2023). [https://news.cornell.edu/stories/2023/02/underwater-robot-helps-explain-antarctic-glaciers-retreat](https://news.cornell.edu/stories/2023/02/underwater-robot-helps-explain-antarctic-glaciers-retreat)
 
 ### 2022 – Icefin, Kamb Ice Stream

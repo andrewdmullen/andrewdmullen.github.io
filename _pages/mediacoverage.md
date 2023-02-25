@@ -4,15 +4,17 @@ title: "Media Coverage"
 permalink: /mediacoverage/
 author_profile: true
 ---
+## Research Engineer & Post Doctoral Fellow
+
 ### 2023 – Icefin, Thwaites Glacer Nature Articles
 * BBC, "Antarctica's Thwaites glacier at mercy of sea warmth increase", (Feb 2023). [https://www.bbc.com/news/science-environment-64640796](https://www.bbc.com/news/science-environment-64640796)
 
 | <img src="/images/media/Icefin_BBC_2023Feb_01.png" width="200" height="100" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_BBC_2023Feb_02.png" width="200" height="100" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_BBC_2023Feb_03.png" width="200" height="100" style="display: block; margin: auto;"/> |
-| <img src="/images/media/BBC_2023_Video/BBC_Clips01-02.gif" width="300" height="150" style="display: block; margin: auto;"/> | <img src="/images/media/BBC_2023_Video/BBC_Clips03-04.gif" width="300" height="150" style="display: block; margin: auto;"/> | <img src="/images/media/BBC_2023_Video/BBC_Clips05-06.gif" width="300" height="150" style="display: block; margin: auto;"/> |
+| <img src="/images/media/BBC_2023_Video/BBC_Clips01-02_3mb.gif" width="300" height="150" style="display: block; margin: auto;"/> | <img src="/images/media/BBC_2023_Video/BBC_Clips03-04_Trimed_3mb.gif" width="300" height="150" style="display: block; margin: auto;"/> | <img src="/images/media/BBC_2023_Video/BBC_Clips05-06_Trimed_4mb.gif" width="300" height="150" style="display: block; margin: auto;"/> |
 
 * New York Times, "Scientists Get a Close-Up Look Beneath a Troubling Ice Shelf in Antarctica", (Feb 2023). [https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html](https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html)
 
-| <img src="/images/media/Icefin_NYT_2023_ScreenShot.png" width="260" height="130" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_NYT_2023_HWDHole_Video.gif" width="200" height="100" style="display: block; margin: auto;"/> | 
+| <img src="/images/media/Icefin_NYT_2023_ScreenShot.png" width="260" height="130" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_NYT_2023_HWDHole_Video_shortened_4mb.gif" width="200" height="100" style="display: block; margin: auto;"/> | 
 
 * Washington Post, "Warming oceans are carving vast trenches into Thwaites glacier", (Feb 2023). [https://www.washingtonpost.com/climate-environment/2023/02/15/glacier-ice-melt-ocean-warming/](ttps://www.washingtonpost.com/climate-environment/2023/02/15/glacier-ice-melt-ocean-warming/)
 <p float="center">
@@ -62,7 +64,7 @@ author_profile: true
 
 * PBS NewsHour, “A risky expedition to study the ‘doomsday glacier’” (Feb 2020). Article & Videos. [https://www.pbs.org/newshour/show/visiting-the-most-vulnerable-place-on-earth-the-doomsday-glacier](https://www.pbs.org/newshour/show/visiting-the-most-vulnerable-place-on-earth-the-doomsday-glacier)
 
-|<img src="/images/media/ITGC_PBS_2020Feb_ScreenShot.png" width="500" height="250" style="display: block; margin: auto;"/> | <img src="/images/media/ITGC_PBS_2020Feb_ScreenShotClipEdited.gif" width="400" height="200" style="display: block; margin: auto;"/> |
+|<img src="/images/media/ITGC_PBS_2020Feb_ScreenShot.png" width="500" height="250" style="display: block; margin: auto;"/> | <img src="/images/media/ITGC_PBS_2020Feb_ScreenShotClip_5mb.gif" width="400" height="200" style="display: block; margin: auto;"/> |
 
 * New York Times, ‘Temperatures at a Florida-Size Glacier in Antarctica Alarm Scientists’, (Jan 2020). Article. [https://www.nytimes.com/2020/01/29/climate/thwaites-glacier-melting-antarctica.html](https://www.nytimes.com/2020/01/29/climate/thwaites-glacier-melting-antarctica.html)
 * Washington Post, “Unprecedented data confirms that Antarctica’s most dangerous glacier is melting from below”, (Jan 2020). Article. [https://www.washingtonpost.com/climate-environment/2020/01/30/unprecedented-data-confirm-that-antarcticas-most-dangerous-glacier-is-melting-below/](https://www.washingtonpost.com/climate-environment/2020/01/30/unprecedented-data-confirm-that-antarcticas-most-dangerous-glacier-is-melting-below/)
@@ -75,7 +77,7 @@ author_profile: true
 ### 2019 – Icefin
 * Wall Street Journal, “Under Antarctica's Ice, Scientists Practice Exploring Space With Robots”, (April 2019). [https://www.wsj.com/video/series/in-depth-features/under-antarctica-ice-scientists-practice-exploring-space-with-robots/94B78439-DE61-4FD6-ADD9-CB92F77C747D](https://www.wsj.com/video/series/in-depth-features/under-antarctica-ice-scientists-practice-exploring-space-with-robots/94B78439-DE61-4FD6-ADD9-CB92F77C747D)
 
-| <img src="/images/media/WSJ_2019_ScreenShot.png" width="300" height="200" style="display: block; margin: auto;"/> | <img src="/images/media/WSJ_2019_ScreenShotClip.gif" width="300" height="200" style="display: block; margin: auto;"/> |
+| <img src="/images/media/WSJ_2019_ScreenShot.png" width="300" height="200" style="display: block; margin: auto;"/> | <img src="/images/media/WSJ_2019_ScreenShotClip_Shortened_4mb.gif" width="300" height="200" style="display: block; margin: auto;"/> |
 
 * PBS, “Exploring Antarctica's Threatened Glaciers (with a Robot)”, (March 2020). [https://www.pbs.org/wgbh/nova/video/antarctic-extremes-thwaits-icefin-threatened-glaciers/](https://www.pbs.org/wgbh/nova/video/antarctic-extremes-thwaits-icefin-threatened-glaciers/)
 
@@ -83,6 +85,9 @@ author_profile: true
 
 * Public Radio International, “Antarctic robot might lead way to life beyond Earth”, (Sept 2019). [https://theworld.org/stories/2019-09-02/arctic-robot-might-lead-way-life-beyond-earth](https://theworld.org/stories/2019-09-02/arctic-robot-might-lead-way-life-beyond-earth)
 
+* Georgia Instute of Technology, "Exploring Under-Ice Marine Environments", (March 2019). [https://cos.gatech.edu/article/andrew-mullen](https://cos.gatech.edu/article/andrew-mullen)
+
+## Graduate Student
 ### 2016 – Benthic Underwater Microscope
 * New York Times, “Seafloor Microscope Zooms In on Tiniest Bits of Coral”, (July 2016). Feature ‘Science Take’ Video & Online Article. [http://www.nytimes.com/2016/07/13/science/seafloor-microscope-coral.html](http://www.nytimes.com/2016/07/13/science/seafloor-microscope-coral.html)
 
@@ -99,14 +104,14 @@ author_profile: true
 * Physics Today, “Underwater microscope brings marine life into focus”, (Sept 2016). Print Article & Magazine Cover. [https://doi.org/10.1063/PT.3.3284](https://doi.org/10.1063/PT.3.3284)
 <p float="center">
 	<img src="/images/media/Physics_Today_Cover.jpg" 
-	width="200" height="100" style="display: block; margin: auto;"/>
+	width="300" height="150" style="display: block; margin: auto;"/>
 </p>
 * Scientific American, "Eyes in the Deep", (2016). Print & Online Article. <br>
   Print: [https://www.jstor.org/stable/26047255?seq=2](https://www.jstor.org/stable/26047255?seq=2) <br>
   Online: [https://www.scientificamerican.com/article/a-coral-reef-rsquo-s-battle-for-survival-is-revealed-by-a-new-microscope/](https://www.scientificamerican.com/article/a-coral-reef-rsquo-s-battle-for-survival-is-revealed-by-a-new-microscope/)  
 <p float="center">
 	<img src="/images/media/ScientificAmerican_Screenshot.png" 
-	width="600" height="300" style="display: block; margin: auto;"/>
+	width="700" height="350" style="display: block; margin: auto;"/>
 </p>
 * Microscopy Today, “2017 Microscopy Today Innovation Awards”, (Sept 2017). Print Article. [https://doi.org/10.1017/S1551929517000840](https://doi.org/10.1017/S1551929517000840)
 <p float="center">
@@ -115,7 +120,7 @@ author_profile: true
 </p>
 <p float="center">
 	<img src="/images/media/MicroscopyToday_ScreenShot_2.png" 
-	width="200" height="100" style="display: block; margin: auto;"/>
+	width="300" height="150" style="display: block; margin: auto;"/>
 </p>
 * Nature, “Microscope can see under the sea”, (July 2016). Print Article, Nature Research Highlights. [https://doi.org/10.1038/535327b](https://doi.org/10.1038/535327b)
 * Popular Mechanics, “The Underwater Microscope That Can Survive on the Ocean Floor”, (Sept 2016). Print & Online Article. [https://www.popularmechanics.com/technology/a22392/underwater-microscope/](https://www.popularmechanics.com/technology/a22392/underwater-microscope/)

@@ -27,12 +27,12 @@ author_profile: true
 ### PhD Student
 * 2017 - San Diego, California (winter quarter, 10 dives) – Teaching assistant for scientific dive course.
 * 2017 - Cayman Islands (2 weeks, 8 dives) – Small-boat deployment of towed microscope to study fish spawning. 
-* 2016 - Eilat, Israel (8 weeks, 25 dives) – SCUBA study of coral micro-fluid dynamics using micro-PTV system. 
+* 2016 - Eilat, Israel (8 weeks, 25 dives) – SCUBA based study of coral micro-fluid dynamics using micro-PTV system, at the Inter-University Institute for Marine Science (IUI). 
 * 2016 - San Diego (3 weeks, 4 dives) – Small-boat deployments of towed microscope & smart drifters.
 * 2016 - Cayman Islands (2 weeks, 8 dives) – Small-boat deployments of towed microscope to study fish spawning. 
-* 2015 - Maui, Hawaii (2 weeks, 11 dives) – SCUBA study of coral bleaching using Benthic Underwater Microscope. - [Australian Broadcasting Company](https://www.abc.net.au/news/2015-11-27/global-reef-bleaching-leaving-behind-coral-graveyards/6972150)
+* 2015 - Maui, Hawaii (2 weeks, 11 dives) – SCUBA based study of coral bleaching using Benthic Underwater Microscope. - [Australian Broadcasting Company](https://www.abc.net.au/news/2015-11-27/global-reef-bleaching-leaving-behind-coral-graveyards/6972150)
 * 2014 - San Diego, California (spring quarter, 17 dives) – SCUBA based ecology field course.
-* 2013 - Eilat, Israel (9 weeks, 38 dives) – SCUBA study of coral behavior using Benthic Underwater Microscope. - [The Conversation](https://theconversation.com/underwater-microscope-provides-new-views-of-ocean-floor-sea-creatures-in-their-natural-setting-62265)
+* 2013 - Eilat, Israel (9 weeks, 38 dives) – SCUBA based study of coral behavior using the Benthic Underwater Microscope, at the Inter-University Institute for Marine Science (IUI). - [The Conversation](https://theconversation.com/underwater-microscope-provides-new-views-of-ocean-floor-sea-creatures-in-their-natural-setting-62265)
 * 2012 - Palau (1 week) - Deployment & recovery of ocean gliders via small-boat.
 * 2011 - South China Sea (3 weeks) - Internal waves study aboard R/V Revelle using fast CTD casts.
 * 2011-18 - San Diego, California (> 6 day trips) – Research & course cruises aboard ocean research vessels.

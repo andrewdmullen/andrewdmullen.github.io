@@ -14,11 +14,6 @@ A list of publications can also be found on my [google scholar page](https://sch
 BE Schmidt, P Washam, PED Davis, KW Nicholls, DM Holland, JD Lawrence, KL Riverman, JA Smith, A Spears, DJG Dichek, **AD Mullen**, E Clyne, B Yeager, P Anker, MR Meister, BC Hurwitz, ES Quartini, FE Bryson, A Basinski, C Thomas, J Wake, DG Vaughan, S Anandakrishnan, E Rignot, J Paden, K Makinson <br>
 [https://doi.org/10.1038/s41586-022-05691-0](https://doi.org/10.1038/s41586-022-05691-0) (Open Access)
 
-<style>
-table th:first-of-type { width: 80%;}
-table th:nth-of-type(2) {width: 20%;}
-</style>
-
 | <img src="/images/publications/NATURE_Schmidt_2023_Fig1.png" width="1200" height="600" style="display: block; margin: auto;"/>  Fig 1. Warm water reaches near the ice base and retreating Grounding Line of the Thwaites Eastern Ice Shelf. (Ocean thermal driving measured beneath the Thwaites Glacier in Antarctica by the underwater robot Icefin.)| <img src="/images/publications/NATURE_Schmidt_2023_SuppFig8.png" width="400" height="200" style="display: block; margin: auto;"/> Extended Data Fig 8. Topography of terraces under the Thwaites Eastern Ice Shelf demonstrates strongly asymmetric melting and melt processes.|
 | <img src="/images/publications/NATURE_Schmidt_2023_Fig5.png" width="1200" height="600" style="display: block; margin: auto;"/> Figure 5. Highly variable melt rates are found beneath the Thwaites Eastern Ice Shelf.| <img src="/images/publications/NATURE_Schmidt_2023_Video01_Trimmed.gif" width="300" height="150" style="display: block; margin: auto;"/> Supplementary Video 1. Forward-looking video of Icefin’s approach to the Grounding Line of the Thwaites Eastern Ice Shelf shows visual evidence of melting and ice–bed interactions. |
 

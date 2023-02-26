@@ -16,14 +16,14 @@ author_profile: true
 
 ### 2023 – Icefin, Thwaites Glacer Nature Articles
 
+* New York Times, "Scientists Get a Close-Up Look Beneath a Troubling Ice Shelf in Antarctica", (Feb 2023). [https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html](https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html)
+
+| <img src="/images/media/Icefin_NYT_2023_ScreenShot.png" width="260" height="130" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_NYT_2023_HWDHole_Video_shortened_4mb.gif" width="200" height="100" style="display: block; margin: auto;"/> | 
+
 * BBC, "Antarctica's Thwaites glacier at mercy of sea warmth increase", (Feb 2023). [https://www.bbc.com/news/science-environment-64640796](https://www.bbc.com/news/science-environment-64640796)
 
 | <img src="/images/media/Icefin_BBC_2023Feb_01.png" width="200" height="100" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_BBC_2023Feb_02.png" width="200" height="100" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_BBC_2023Feb_03.png" width="200" height="100" style="display: block; margin: auto;"/> |
 | <img src="/images/media/BBC_2023_Video/BBC_Clips01-02_3mb.gif" width="300" height="150" style="display: block; margin: auto;"/> | <img src="/images/media/BBC_2023_Video/BBC_Clips03-04_Trimed_3mb.gif" width="300" height="150" style="display: block; margin: auto;"/> | <img src="/images/media/BBC_2023_Video/BBC_Clips05-06_Trimed_4mb.gif" width="300" height="150" style="display: block; margin: auto;"/> |
-
-* New York Times, "Scientists Get a Close-Up Look Beneath a Troubling Ice Shelf in Antarctica", (Feb 2023). [https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html](https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html)
-
-| <img src="/images/media/Icefin_NYT_2023_ScreenShot.png" width="260" height="130" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_NYT_2023_HWDHole_Video_shortened_4mb.gif" width="200" height="100" style="display: block; margin: auto;"/> | 
 
 * Washington Post, "Warming oceans are carving vast trenches into Thwaites glacier", (Feb 2023). [https://www.washingtonpost.com/climate-environment/2023/02/15/glacier-ice-melt-ocean-warming/](https://www.washingtonpost.com/climate-environment/2023/02/15/glacier-ice-melt-ocean-warming/)
 

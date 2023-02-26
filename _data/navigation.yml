@@ -7,7 +7,7 @@ main:
     url: /presentations/ 
 
   - title: "Media & Press"
-    url: /mediacoverage/ 
+    url: /mediaandpress/ 
 
   # - title: "Videos"
   #   url: /videos/ 
@@ -18,8 +18,8 @@ main:
   - title: "Resources & Links"
     url: /resourcesandlinks/ 
 
-  #- title: "CV"
-  #  url: /cv/
+  - title: "CV"
+    url: /cv/
 
   #- title: "Portfolio"
   #  url: /portfolio/  

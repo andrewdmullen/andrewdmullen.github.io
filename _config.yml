@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrew Mullen, Ph.D."
+title                    : "Andrew Mullen"
 title_separator          : "-"
 name                     : &name "Andrew Mullen"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andrew Mullen"
+  name             : "Andrew Mullen, PhD"
   avatar           : "headshot.jpg"
-  bio              : "Senior Research Engineer <br> Cornell University <br> <br> (Website Under Construction)"
+  bio              : "Senior Research Engineer <br> Cornell University"
   location         : "Ithaca, NY"
   employer         : 
   pubmed           :

@@ -13,21 +13,22 @@ My research focuses on developing tools for earth and space exploration, with an
 These efforts have allowed me to work on highly interdisciplinary engineering-science teams. I have had a focus on optical and elelctical engineering, while also contributing to mechanical and software development.
 <br>
 
-### Examples of past and ongoing work include: 
-
-* [Underwater Imaging Systems](https://www.nature.com/articles/ncomms12093): development of a custom submersible diver operated microscope, an underwater particle imaging velocimetry system, and a submersible digital holographic microscope 
-* [Icefin Underwater Robot](https://schmidt.astro.cornell.edu/icefin/?playlist=1769ca3&video=6f76132): member of the operations and development team of Icefin, a custom remotely operated underwater vehicle designed for polar exploration
-* [Life Detection Payloads](https://iopscience.iop.org/article/10.3847/PSJ/aca6ed): development of conceptual life detection payloads and mission concepts to "ocean worlds" such as Europa 
-
-### Results from this work have been published or are forthcoming in:
+### Results published or forthcoming in:
 
 * [Journals](https://andrewdmullen.github.io/publications) including: *Nature*, *Nature Geoscience*, *Nature Communications*, *Planetary Science Journal*  
 * [Media](https://andrewdmullen.github.io/media) outlets including: *New York Times*, *BBC*, *Washington Post*, *Scientific American*
 <br>
 
-### These projects I have had the opportunity to conduct a variety of field work including:
+### Project examples: 
 
-* Field research seasons in: Antarctica (x3), the Arctic (x2), Red Sea (x2), Caribbean (x2), and West Africa (x2)
+* [Underwater Imaging Systems](https://www.nature.com/articles/ncomms12093): development of a custom instruments including submersible diver operated microscope, an underwater particle imaging velocimetry system, and a submersible digital holographic microscope 
+* [Icefin Underwater Robot](https://schmidt.astro.cornell.edu/icefin/?playlist=1769ca3&video=6f76132): member of the operations and development team of Icefin, a custom remotely operated underwater vehicle designed for polar exploration
+* [Life Detection Payloads](https://iopscience.iop.org/article/10.3847/PSJ/aca6ed): development of conceptual life detection payloads and mission concepts to "ocean worlds" such as Europa 
+
+
+### Field work:
+
+* Through these projects I have had the opportunity to conduct a variety of field research seasons in: Antarctica (x3), the Arctic (x2), Red Sea (x2), Caribbean (x2), and West Africa (x2)
 * Performing research: as a scientific diver, aboard research vessels, and utilizing remotely operated vehilces (ROVs). 
 
 Outside of work I enjoy surfing, backpacking, and triathalons.

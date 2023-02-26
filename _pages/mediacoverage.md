@@ -1,12 +1,33 @@
 ---
 layout: archive
-title: "Media Coverage"
+title: "Media & Press"
 permalink: /mediacoverage/
 author_profile: true
 ---
+<style>
+.embed-container {  position: relative; padding-bottom: 40%; height: 0; overflow: hidden;  max-width: 60%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed { position: absolute;  top: 0; left: 0;  width: 100%;  height: 100%;}
+</style>
+
 ## Research Engineer & Post Doctoral Fellow
 
 ### 2023 – Icefin, Thwaites Glacer Nature Articles
+
+* Cornell Chronicle "Underwater robot helps explain Antarctic glacier’s retreat", (Feb 2023). [https://news.cornell.edu/stories/2023/02/underwater-robot-helps-explain-antarctic-glaciers-retreat](https://news.cornell.edu/stories/2023/02/underwater-robot-helps-explain-antarctic-glaciers-retreat)
+
+<center>
+	<div class="embed-container">
+	  <iframe
+	      src="https://www.youtube.com/embed/1jCdAwRML7I"
+	      frameborder="0"
+	      allowfullscreen="false">
+	  </iframe>
+	</div>
+</center>
+
 * BBC, "Antarctica's Thwaites glacier at mercy of sea warmth increase", (Feb 2023). [https://www.bbc.com/news/science-environment-64640796](https://www.bbc.com/news/science-environment-64640796)
 
 | <img src="/images/media/Icefin_BBC_2023Feb_01.png" width="200" height="100" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_BBC_2023Feb_02.png" width="200" height="100" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_BBC_2023Feb_03.png" width="200" height="100" style="display: block; margin: auto;"/> |
@@ -16,11 +37,10 @@ author_profile: true
 
 | <img src="/images/media/Icefin_NYT_2023_ScreenShot.png" width="260" height="130" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_NYT_2023_HWDHole_Video_shortened_4mb.gif" width="200" height="100" style="display: block; margin: auto;"/> | 
 
-* Washington Post, "Warming oceans are carving vast trenches into Thwaites glacier", (Feb 2023). [https://www.washingtonpost.com/climate-environment/2023/02/15/glacier-ice-melt-ocean-warming/](ttps://www.washingtonpost.com/climate-environment/2023/02/15/glacier-ice-melt-ocean-warming/)
-<p float="center">
-	<img src="/images/media/Icefin_WashingtonPost_Screenshot.png" 
-	width="300" height="150" style="display: block; margin: auto;"/>
-</p>
+* Washington Post, "Warming oceans are carving vast trenches into Thwaites glacier", (Feb 2023). [https://www.washingtonpost.com/climate-environment/2023/02/15/glacier-ice-melt-ocean-warming/](https://www.washingtonpost.com/climate-environment/2023/02/15/glacier-ice-melt-ocean-warming/)
+
+| <img src="/images/media/Icefin_WashingtonPost_2023_Screenshot01.png" width="300" height="150" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_WashingtonPost_2023_01.png" width="200" height="100" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_WashingtonPost_2023_02.png" width="200" height="100" style="display: block; margin: auto;"/> |
+
 * Nature, "Glimpse beneath iconic glacier reveals how it’s adding to sea-level rise", (Feb 2023). [https://www.nature.com/articles/d41586-023-00459-6](https://www.nature.com/articles/d41586-023-00459-6) (doi: https://doi.org/10.1038/d41586-023-00459-6)
 * Nature, "High variability reveals complexity under Thwaites Glacier", (Feb 2023). [https://www.nature.com/articles/d41586-023-00395-5](https://www.nature.com/articles/d41586-023-00395-5) (doi: https://doi.org/10.1038/d41586-023-00395-5)
 * Wired, "A Robot Finds More Trouble Under the Doomsday Glacier", (Feb 2023). [https://www.wired.com/story/a-robot-finds-more-trouble-under-the-doomsday-glacier/](https://www.wired.com/story/a-robot-finds-more-trouble-under-the-doomsday-glacier/)
@@ -28,7 +48,6 @@ author_profile: true
 * Smithsonian Magazine, "A Rare Look Below the ‘Doomsday Glacier’ Reveals Surprising Melting", (Feb 2023). [https://www.smithsonianmag.com/smart-news/a-rare-look-below-the-doomsday-glacier-reveals-surprising-melting-180981657/](https://www.smithsonianmag.com/smart-news/a-rare-look-below-the-doomsday-glacier-reveals-surprising-melting-180981657/)
 * Popular Science, "A torpedo-like robot named Icefin is giving us the full tour of the ‘Doomsday’ glacier", (Feb 2023). [https://www.popsci.com/technology/icefin-robot-thwaites-glacier/](https://www.popsci.com/technology/icefin-robot-thwaites-glacier/)
 * Axios, "Thwaites Glacier findings reveal clues about Antarctic ice melt", (Feb 2023). [https://www.axios.com/2023/02/16/thwaites-glacier-melt-antarctica-sea-level-rise](https://www.axios.com/2023/02/16/thwaites-glacier-melt-antarctica-sea-level-rise)
-* Cornell Chronicle "Underwater robot helps explain Antarctic glacier’s retreat", (Feb 2023). [https://news.cornell.edu/stories/2023/02/underwater-robot-helps-explain-antarctic-glaciers-retreat](https://news.cornell.edu/stories/2023/02/underwater-robot-helps-explain-antarctic-glaciers-retreat)
 
 ### 2022 – Icefin, Kamb Ice Stream
 * The Conversation, “Exploring Antarctica’s hidden under-ice rivers and their role in future sea-level rise”, (Feb 2022). [https://theconversation.com/exploring-antarcticas-hidden-under-ice-rivers-and-their-role-in-future-sea-level-rise-176456](https://theconversation.com/exploring-antarcticas-hidden-under-ice-rivers-and-their-role-in-future-sea-level-rise-176456)
@@ -37,10 +56,7 @@ author_profile: true
 * Antarctica New Zealand, "The hippest supercool science on Earth", (Jan 2022). [https://www.antarcticanz.govt.nz/media/news/the-hippest-supercool-science-on-earth](https://www.antarcticanz.govt.nz/media/news/the-hippest-supercool-science-on-earth)
 * Newshub, “Kiwi-led Antarctic HiPSMI project hoped to help with climate change understanding”, (Jan 2022). [https://www.newshub.co.nz/home/technology/2022/01/kiwi-led-antarctic-hipsmi-project-hoped-to-help-with-climate-change-understanding.html](https://www.newshub.co.nz/home/technology/2022/01/kiwi-led-antarctic-hipsmi-project-hoped-to-help-with-climate-change-understanding.html)
 
-<p float="center">
-	<img src="/images/media/HIPSMI_NEWSHUB_2022.jpg" 
-	width="300" height="150" style="display: block; margin: auto;"/>
-</p>
+|	<img src="/images/media/HIPSMI_NEWSHUB_2022.jpg" width="300" height="150" style="display: block; margin: auto;"/> |
 
 ### 2020-2022 – Icefin, Thwaites International Glacier Collaboration ‘MELT’ Team
 * BBC Natural History Unit, Frozen Planet II, Episode 6, “Our Frozen Planet”
@@ -50,6 +66,7 @@ author_profile: true
 | <img src="/images/media/Icefin_BBC_2020_04.png" width="300" height="150" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_BBC_2020_05.png" width="300" height="150" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_BBC_2020_06.png" width="300" height="150" style="display: block; margin: auto;"/> |
 
 * BBC, “Could you handle the most remote campsite on earth?”, (Feb 2020). Video. [https://www.bbc.com/news/av/science-environment-51333191](https://www.bbc.com/news/av/science-environment-51333191)
+
 <center>
 	<div class="embed-container" >
 	  <iframe
@@ -79,6 +96,16 @@ author_profile: true
 
 | <img src="/images/media/WSJ_2019_ScreenShot.png" width="300" height="200" style="display: block; margin: auto;"/> | <img src="/images/media/WSJ_2019_ScreenShotClip_Shortened_4mb.gif" width="300" height="200" style="display: block; margin: auto;"/> |
 
+<center>
+	<div class="embed-container">
+	  <iframe
+	      src="https://www.youtube.com/embed/uXA0AkcrNoo"
+	      frameborder="0"
+	      allowfullscreen="false">
+	  </iframe>
+	</div>
+</center>
+
 * PBS, “Exploring Antarctica's Threatened Glaciers (with a Robot)”, (March 2020). [https://www.pbs.org/wgbh/nova/video/antarctic-extremes-thwaits-icefin-threatened-glaciers/](https://www.pbs.org/wgbh/nova/video/antarctic-extremes-thwaits-icefin-threatened-glaciers/)
 
 | <img src="/images/media/Icefin_PBSNOVA_2020_Screenshot01.png" width="300" height="200" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_PBSNOVA_2020_Screenshot02.png" width="300" height="200" style="display: block; margin: auto;"/> |
@@ -87,11 +114,38 @@ author_profile: true
 
 * Georgia Instute of Technology, "Exploring Under-Ice Marine Environments", (March 2019). [https://cos.gatech.edu/article/andrew-mullen](https://cos.gatech.edu/article/andrew-mullen)
 
+|<img src="/images/media/DHM_GT_2019_Headshot.jpg" width="200" height="100" style="display: block; margin: auto;"/> | <img src="/images/media/DHM_GT_2019_Screenshot01.png" width="500" height="250" style="display: block; margin: auto;"/> |
+
 ## Graduate Student
 ### 2016 – Benthic Underwater Microscope
+* Scripps Institution of Oceanography, "Researchers Develop Novel Microscope To Study The Underwater World", (July 2016).
+[https://scripps.ucsd.edu/news/researchers-develop-novel-microscope-study-underwater-world](https://scripps.ucsd.edu/news/researchers-develop-novel-microscope-study-underwater-world)
+
+<center>
+	<div class="embed-container">
+	  <iframe
+	      src="https://www.youtube.com/embed/Gf-cxm-KeK8"
+	      frameborder="0"
+	      allowfullscreen="false">
+	  </iframe>
+	</div>
+</center>
+
 * New York Times, “Seafloor Microscope Zooms In on Tiniest Bits of Coral”, (July 2016). Feature ‘Science Take’ Video & Online Article. [http://www.nytimes.com/2016/07/13/science/seafloor-microscope-coral.html](http://www.nytimes.com/2016/07/13/science/seafloor-microscope-coral.html)
 
-|<img src="/images/media/BUM_NYT_ScreenShot01.png" width="300" height="150" style="display: block; margin: auto;"/> | <img src="/images/media/BUM_NYT_ScreenShot02.png" width="400" height="200" style="display: block; margin: auto;"/> |
+|<img src="/images/media/BUM_NYT_ScreenShot01.png" width="300" height="150" style="display: block; margin: auto;"/> | <img src="/images/media/BUM_NYT_ScreenShot02.png" width="300" height="150" style="display: block; margin: auto;"/> |
+
+<center>
+	<div class="embed-container" >
+	  <iframe
+	      src="https://www.youtube.com/embed/lHaVahw4TOY"
+	      frameborder="0"
+	      width="400" height="250" 
+	      allowfullscreen="false"
+	      float="center">
+	  </iframe>
+	</div>
+</center>
 
 * Washington Post, “Watch incredible microscopic video of corals kissing, growing and fighting (July 2016). [https://www.washingtonpost.com/news/speaking-of-science/wp/2016/07/12/this-incredible-underwater-microscope-shows-stunning-corals-like-youve-never-seen-them-before/](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/07/12/this-incredible-underwater-microscope-shows-stunning-corals-like-youve-never-seen-them-before/)
 
@@ -99,7 +153,7 @@ author_profile: true
 
 * Time, "New Microscope Shows Coral Colonies Kissing, Fighting and Eating", (July 2016). [https://time.com/4406312/coral-colonies-microscope-kissing-eating-fighting/](https://time.com/4406312/coral-colonies-microscope-kissing-eating-fighting/)
 
-| <img src="/images/media/Time_01_coral-kissing-560px.gif" width="260" height="130" style="display: block; margin: auto;"/> | <img src="/images/media/Time_02_coral-feeding-560px.gif" width="200" height="100" style="display: block; margin: auto;"/> | <img src="/images/media/Time_03_coral-competition-560px.gif" width="260" height="130" style="display: block; margin: auto;"/> | <img src="/images/media/Time_04_coral-competition-2-560px.gif" width="260" height="130" style="display: block; margin: auto;"/> |
+| <img src="/images/media/Time_01_coral-kissing-560px.gif" width="260" height="130" style="display: block; margin: auto;"/> | <img src="/images/media/Time_02_coral-feeding-560px.gif" width="200" height="100" style="display: block; margin: auto;"/>  | <img src="/images/media/Time_03_coral-competition-560px.gif" width="260" height="130" style="display: block; margin: auto;"/> | <img src="/images/media/Time_04_coral-competition-2-560px.gif" width="260" height="130" style="display: block; margin: auto;"/> |
 
 * Physics Today, “Underwater microscope brings marine life into focus”, (Sept 2016). Print Article & Magazine Cover. [https://doi.org/10.1063/PT.3.3284](https://doi.org/10.1063/PT.3.3284)
 <p float="center">

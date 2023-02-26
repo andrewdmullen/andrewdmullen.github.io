@@ -3,23 +3,24 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Media"
+    url: /media/ 
+
+  - title: "CV"
+    url: /cv/
+
   - title: "Presentations"
     url: /presentations/ 
-
-  - title: "Media & Press"
-    url: /mediaandpress/ 
-
-  # - title: "Videos"
-  #   url: /videos/ 
 
   - title: "Field Work"
     url: /fieldwork/ 
 
-  - title: "Resources & Links"
-    url: /resourcesandlinks/ 
+  - title: "Links"
+    url: /Links/ 
 
-  - title: "CV"
-    url: /cv/
+
+  # - title: "Videos"
+  #   url: /videos/ 
 
   #- title: "Portfolio"
   #  url: /portfolio/  

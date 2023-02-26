@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Media & Press"
-permalink: /mediaandpress/
+title: "Media"
+permalink: /media/
 author_profile: true
 ---
 <style>
@@ -15,18 +15,6 @@ author_profile: true
 ## Research Engineer & Post Doctoral Fellow
 
 ### 2023 – Icefin, Thwaites Glacer Nature Articles
-
-* Cornell Chronicle "Underwater robot helps explain Antarctic glacier’s retreat", (Feb 2023). [https://news.cornell.edu/stories/2023/02/underwater-robot-helps-explain-antarctic-glaciers-retreat](https://news.cornell.edu/stories/2023/02/underwater-robot-helps-explain-antarctic-glaciers-retreat)
-
-<center>
-	<div class="embed-container">
-	  <iframe
-	      src="https://www.youtube.com/embed/1jCdAwRML7I"
-	      frameborder="0"
-	      allowfullscreen="false">
-	  </iframe>
-	</div>
-</center>
 
 * BBC, "Antarctica's Thwaites glacier at mercy of sea warmth increase", (Feb 2023). [https://www.bbc.com/news/science-environment-64640796](https://www.bbc.com/news/science-environment-64640796)
 
@@ -48,6 +36,7 @@ author_profile: true
 * Smithsonian Magazine, "A Rare Look Below the ‘Doomsday Glacier’ Reveals Surprising Melting", (Feb 2023). [https://www.smithsonianmag.com/smart-news/a-rare-look-below-the-doomsday-glacier-reveals-surprising-melting-180981657/](https://www.smithsonianmag.com/smart-news/a-rare-look-below-the-doomsday-glacier-reveals-surprising-melting-180981657/)
 * Popular Science, "A torpedo-like robot named Icefin is giving us the full tour of the ‘Doomsday’ glacier", (Feb 2023). [https://www.popsci.com/technology/icefin-robot-thwaites-glacier/](https://www.popsci.com/technology/icefin-robot-thwaites-glacier/)
 * Axios, "Thwaites Glacier findings reveal clues about Antarctic ice melt", (Feb 2023). [https://www.axios.com/2023/02/16/thwaites-glacier-melt-antarctica-sea-level-rise](https://www.axios.com/2023/02/16/thwaites-glacier-melt-antarctica-sea-level-rise)
+* CNN, "So-called Doomsday Glacier is ‘in trouble,’ scientists say after finding surprising formations under ice shelf", (Feb 2023). [https://www.cnn.com/2023/02/15/world/thwaites-doomsday-glacier-sea-level-climate-intl/index.html](https://www.cnn.com/2023/02/15/world/thwaites-doomsday-glacier-sea-level-climate-intl/index.html)
 
 ### 2022 – Icefin, Kamb Ice Stream
 * The Conversation, “Exploring Antarctica’s hidden under-ice rivers and their role in future sea-level rise”, (Feb 2022). [https://theconversation.com/exploring-antarcticas-hidden-under-ice-rivers-and-their-role-in-future-sea-level-rise-176456](https://theconversation.com/exploring-antarcticas-hidden-under-ice-rivers-and-their-role-in-future-sea-level-rise-176456)
@@ -118,19 +107,6 @@ author_profile: true
 
 ## Graduate Student
 ### 2016 – Benthic Underwater Microscope
-* Scripps Institution of Oceanography, "Researchers Develop Novel Microscope To Study The Underwater World", (July 2016).
-[https://scripps.ucsd.edu/news/researchers-develop-novel-microscope-study-underwater-world](https://scripps.ucsd.edu/news/researchers-develop-novel-microscope-study-underwater-world)
-
-<center>
-	<div class="embed-container">
-	  <iframe
-	      src="https://www.youtube.com/embed/Gf-cxm-KeK8"
-	      frameborder="0"
-	      allowfullscreen="false">
-	  </iframe>
-	</div>
-</center>
-
 * New York Times, “Seafloor Microscope Zooms In on Tiniest Bits of Coral”, (July 2016). Feature ‘Science Take’ Video & Online Article. [http://www.nytimes.com/2016/07/13/science/seafloor-microscope-coral.html](http://www.nytimes.com/2016/07/13/science/seafloor-microscope-coral.html)
 
 |<img src="/images/media/BUM_NYT_ScreenShot01.png" width="300" height="150" style="display: block; margin: auto;"/> | <img src="/images/media/BUM_NYT_ScreenShot02.png" width="300" height="150" style="display: block; margin: auto;"/> |

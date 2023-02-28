@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-A list of publications can also be found on my [google scholar page](https://scholar.google.com/citations?user=_MPATb0AAAAJ&hl=en).
+A list of publications can also be found on my [google scholar page](https://scholar.google.com/citations?user=_MPATb0AAAAJ&hl=en) as well as my [CV](https://andrewdmullen.github.io/cv).
 
 
 ## Peer Reviewed Journal Articles

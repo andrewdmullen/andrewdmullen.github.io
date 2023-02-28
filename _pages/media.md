@@ -14,7 +14,7 @@ author_profile: true
 
 ## Research Engineer & Post Doctoral Fellow
 
-### 2023 – Icefin, Thwaites Glacer Nature Articles
+### 2023 – Icefin, Thwaites Glacier Nature Articles
 
 * New York Times, "Scientists Get a Close-Up Look Beneath a Troubling Ice Shelf in Antarctica", (Feb 2023). [https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html](https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html)
 

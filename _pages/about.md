@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am a Senior Research Engineer at [Cornell University](https://astro.cornell.edu/andrew-mullen) in the [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu). Prior to this I was a [NASA Postdoctoral Program (NPP) Fellow](https://cos.gatech.edu/article/andrew-mullen) at the Georgia Institute of Technology. 
-I received a PhD in Electrical Engineering (2018) and a MS in Oceanography (2015) from the University of California San Diego while conducting research at the [Scripps Institution of Oceanography](https://jaffeweb.ucsd.edu), and a BS in Civil Engineering (2011) from the University of Notre Dame.
+Welcome! I am a Senior Research Engineer at [Cornell University](https://astro.cornell.edu/andrew-mullen) in the [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu). Prior to this, I was a [NASA Postdoctoral Program (NPP) Fellow](https://cos.gatech.edu/article/andrew-mullen) at the Georgia Institute of Technology. 
+I received a PhD in Electrical Engineering (2018) and a MS in Oceanography (2015) from the University of California San Diego while conducting research at the [Scripps Institution of Oceanography](https://jaffeweb.ucsd.edu). I completed a BS in Civil Engineering (2011) from the University of Notre Dame.
 <br><br>
-My research focuses on developing tools for earth and space exploration, with an emphasis on building custom scientifc instruments for extreme environments. 
-These efforts have allowed me to work on highly interdisciplinary engineering-science teams. I have had a focus on optical and elelctical engineering, while also contributing to mechanical and software development.
+My research focuses on developing tools for earth and space exploration, with an emphasis on building custom scientific instruments for extreme environments. 
+These efforts have allowed me to work on highly interdisciplinary engineering-science teams. I have a focus on optical and electrical engineering, while also contributing to mechanical and software development.
 <br>
 
 ### Results Published or Forthcoming in:
@@ -33,11 +33,11 @@ These efforts have allowed me to work on highly interdisciplinary engineering-sc
 
 ### Field Work:
 
-* Conducted field research seasons in: Antarctica (x3), the Arctic (x2), Red Sea (x2), Caribbean (x2), and West Africa (x2)
+* Conducted field research seasons in: Antarctica (x3), the Arctic (x2), the Red Sea (x2), th Caribbean (x2), and West Africa (x2)
 * Performed research: as a scientific diver, aboard research vessels, and utilizing remotely operated vehilces (ROVs). 
 
 
-Outside of work I enjoy surfing, backpacking, and triathalons.
+Originally from Santa Cruz CA, outside of work I enjoy surfing, backpacking, and triathalons (and in 2022 completed my first Ironman in Arizona!).
 
 ## Videos Describing Work
 

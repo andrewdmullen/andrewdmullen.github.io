@@ -22,12 +22,12 @@ Here is a short collection of some of my favorite learning resources:
 	- Math: [Better Explained](https://betterexplained.com/), [Better Explained - Fourier Transforms](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/), [Better Explained- Euler's Formula](https://betterexplained.com/articles/intuitive-understanding-of-eulers-formula/), [Kahn Academy](https://www.khanacademy.org/)
 	- Optics: [Thorlsbs Optical Microscopy Course](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=11630#ad-image-0), [Thorlsbs Optical Microscopy Course - Course Notes PDF](https://www.thorlabs.com/drawings/8441507aaff2ff40-6E522E5F-CA83-CE8F-A35F0F2023F8CF95/EDU-OMC1-CourseNotes.pdf), [MicroscopyU](https://www.microscopyu.com/)
 	- Control theory: [https://github.com/A-make/awesome-control-theory](https://github.com/A-make/awesome-control-theory)
-- Books
-	- Math: Div Grad Curl, Differential Equations for Scientists & Engineers
-	- Computer Basics: Code, How Do It Know?
-	- Waves: The Wave Watchers Companion
-	- Optics: QED - The Strange Theory of Light and Matter
-	- Design: Where Good Ideas Come From - The Natural History of Innovation
+- Books, Popular Science
+	- Wave Physics: "The Wave Watchers Companion: Ocean Waves, Stadium Waves, and All the Rest of Life's Undulations"
+	- Light Physics: "QED: The Strange Theory of Light and Matter"
+	- Computer Fundementals: "Code: The Hidden Language of Computer Hardware and Software", "But How Do It Know?: The Basic Principles of Computers for Everyone"
+	- Math: "Div Grad Curl and All That: An Informal Text on Vector Calculus", "Partial Differential Equations for Scientists and Engineers"
+	- Design: "Where Good Ideas Come From: The Natural History of Innovation"
 - Field Guides
 	- Polar: [US Antarctic Program - Field Manual](https://www.usap.gov/usapgov/travelAndDeployment/documents/ASC-18-025.pdf),  [Antarctica New Zealand - Field Manual](https://www.adam.antarcticanz.govt.nz/nodes/view/64579), [INTERACT Practical Field Guide](https://eu-interact.org/app/uploads/2019/09/INTERACT-Practical-Field-Guide.pdf)
 	- Diving: [NOAA dive manual](http://www.omao.noaa.gov/sites/default/files/documents/NDSSM%20Final_041217.pdf), [NOAA small boat manual](http://www.omao.noaa.gov/sites/default/files/documents/2018%200430%20SBS%26PM%204.1.pdf)

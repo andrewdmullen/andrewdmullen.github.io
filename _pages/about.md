@@ -33,7 +33,7 @@ These efforts have allowed me to work on highly interdisciplinary engineering-sc
 
 ### Field Work:
 
-* Conducted field research seasons in: Antarctica (x3), the Arctic (x2), the Red Sea (x2), th Caribbean (x2), and West Africa (x2)
+* Conducted field research seasons in: Antarctica (x3), the Arctic (x2), the Red Sea (x2), the Caribbean (x2), and West Africa (x2)
 * Performed research: as a scientific diver, aboard research vessels, and utilizing remotely operated vehilces (ROVs). 
 
 

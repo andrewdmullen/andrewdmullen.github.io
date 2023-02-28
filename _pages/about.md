@@ -27,7 +27,7 @@ These efforts have allowed me to work on highly interdisciplinary engineering-sc
 
 ### Funding & Awards:
 
-* Recieved fellowships through organization including: *NASA Postdoctoral Program (NPP)*, *NSF Graduate Research Fellowship Program (GRFP)*, *Link Ocean Engineering Ph.D. Fellowship*
+* Fellowships including: *NASA Postdoctoral Program (NPP)*, *NSF Graduate Research Fellowship Program (GRFP)*, *Link Ocean Engineering Ph.D. Fellowship*
 * Performed engineering and operations work on projects funded by: *NSF Office of Polar Programs*, *NASA Astrobiology Program*, *NASA Planetary Science and Technology from Analog Research (PSTAR) Grants*
 * Awards & Honors: *Microscopy Today Innovation Award*, *Antarctic Service Medal*
 

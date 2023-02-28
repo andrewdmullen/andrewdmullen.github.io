@@ -37,7 +37,7 @@ These efforts have allowed me to work on highly interdisciplinary engineering-sc
 * Performed research: as a scientific diver, aboard research vessels, and utilizing remotely operated vehilces (ROVs). 
 
 
-Originally from Santa Cruz CA, outside of work I enjoy surfing, backpacking, and triathalons (and in 2022 completed my first Ironman in Arizona!).
+Outside of work I enjoy surfing, backpacking, and triathalons (and in 2022 completed my first Ironman in Arizona!).
 
 ## Videos Describing Work
 

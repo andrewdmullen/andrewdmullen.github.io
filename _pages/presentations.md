@@ -11,7 +11,7 @@ author_profile: true
 * **AD Mullen**, “Microscopic Imaging of Coral & Fluid Motions”, SIO/SDSU Coral Club, San Diego, California (Apr 2018)
 * **AD Mullen**, JS Jaffe, “Adventures in Underwater Microscopy.” Optical Society of America, Applied Industrial Optics, San Francisco, California (June 2017).
 * **AD Mullen**, T Treibitz, PLD Roberts, JS Jaffe, “An Underwater Microscope for In Situ Imaging of Seafloor Organism.” Optical Society of America, Novel Techniques in Microscopy, San Diego, California (April 2017).
-* **AD Mullen**, “Benthic Underwater Microscope,” Scripps Institution of Oceanography, La Jolla, California (May 14).
+* **AD Mullen**, “Benthic Underwater Microscope,” Scripps Institution of Oceanography, AOS Seminar, La Jolla, California (May 2014).
 * **AD Mullen**, “In Situ Coral Microscopy,” Interuniversity Institute of Marine Sciences, Eilat, Israel (Jan 2014)
 
 ## Conference Presentations & Abstracts

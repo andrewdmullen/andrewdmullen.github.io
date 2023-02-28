@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Certifications & Training
-* SCUBA: AAUS Scientific Diver (2012), AAUS 100ft certification (2017); NAUI Advanced, Rescue, & Nitrox Diver (2012); over150 total lifetime dives
+* SCUBA: AAUS Scientific Diver (2012), AAUS 100ft certification (2017); NAUI Advanced, Rescue, & Nitrox Diver (2012); over 150 total lifetime dives
 * Antarctic Field Training (2018, 2019, 2021): Antarctic Field Safety, Sea Ice Safety, Field Plan Risk Assessment, Snowmobile Operations, Tracked Vehicle Operations, GPS, Communication
 
 ## Scientific Field Work

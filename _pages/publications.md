@@ -10,6 +10,12 @@ A list of publications can also be found on my [google scholar page](https://sch
 
 ## Peer Reviewed Journal Articles
 
+* **"Crevasse refreezing and signatures of retreat observed at Kamb Ice Stream grounding zone", Nature Geoscience (2023)** <br> J. D. Lawrence, P. M. Washam, C. Stevens, C. Hulbe, H. J. Horgan, G. Dunbar, T. Calkin, C. Stewart, N. Robinson, **A. D. Mullen**, M. R. Meister, B. C. Hurwitz, E. Quartini, D. J. G. Dichek, A. Spears & B. E. Schmidt <br>
+[https://doi.org/10.1038/s41561-023-01129-y](https://doi.org/10.1038/s41561-023-01129-y) (Open Access) <br>
+[https://www.nature.com/articles/s41561-023-01129-y](https://www.nature.com/articles/s41561-023-01129-y)
+
+| <img src="/images/publications/2023_Lawrence_NatGeoscience_Fig01.webp" width="600" height="300" style="display: block; margin: auto;"/>  Fig 1. Integrated ROV observations illuminate ice, ocean and seafloor connections in a recently ungrounded region along the KIS coast.| <img src="/images/publications/2023_Lawrence_NatGeoscience_Fig03.webp" width="700" height="350" style="display: block; margin: auto;"/> Fig 3. Supercooled water and refreezing in a basal crevasse.|
+
 * **"Heterogeneous melting near the Thwaites Glacier grounding line", Nature (2023)** <br>
 BE Schmidt, P Washam, PED Davis, KW Nicholls, DM Holland, JD Lawrence, KL Riverman, JA Smith, A Spears, DJG Dichek, **AD Mullen**, E Clyne, B Yeager, P Anker, MR Meister, BC Hurwitz, ES Quartini, FE Bryson, A Basinski, C Thomas, J Wake, DG Vaughan, S Anandakrishnan, E Rignot, J Paden, K Makinson <br>
 [https://doi.org/10.1038/s41586-022-05691-0](https://doi.org/10.1038/s41586-022-05691-0) (Open Access)

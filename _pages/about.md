@@ -13,7 +13,7 @@ My research focuses on developing tools for earth and space exploration, with an
 These efforts have allowed me to work on highly interdisciplinary engineering-science teams. I have a focus on optical and electrical engineering, while also contributing to mechanical and software development.
 <br>
 
-### Results Published or Forthcoming in:
+### Results Published In:
 
 * [Journals](https://andrewdmullen.github.io/publications) including: *Nature*, *Nature Geoscience*, *Nature Communications*, *Planetary Science Journal*  
 * [Media](https://andrewdmullen.github.io/media) outlets including: *New York Times*, *BBC*, *Washington Post*, *Scientific American*

@@ -7,27 +7,35 @@ author_profile: true
 
 <p>
 Full CV: 
-<a href="http://andrewdmullen.github.io/files/CV_Mullen_March2023.pdf">Download</a>
-</p>
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&amp;url=http://andrewdmullen.github.io/files/CV_Mullen_March2023.pdf" height="150" type="application/pdf" target="_blank" />
+<a href="http://andrewdmullen.github.io/files/CV_Mullen_March2023.pdf">Download
+</a>
 
-#### SUMMARY
+<br>
+
+
+</p>
+
+<iframe src="https://docs.google.com/gview?url=http://andrewdmullen.github.io/files/CV_Mullen_March2023.pdf&embedded=true" style="width:1000px; height:500px;" frameborder="0"></iframe>
+
+
+
+### SUMMARY
 * Engineer and scientist with over 10 years of experience on NASA and NSF technology development projects.
 * Designed and built scientific tools integrating optics, computing, electrical engineering, and mechanical design.
 * Experienced as a member and leader of cross-functional teams developing tools from concept to field deployable systems; then operating these instruments in harsh polar and marine field settings.
 
-#### EDUCATION
+### EDUCATION
 * Ph.D. in Electrical Engineering, UC San Diego (2018)
 * M.S. in Oceanography, UC San Diego (2015)
 * B.S. in Civil Engineering, University of Notre Dame, *Magna Cum Laude* (2011)
 
-#### PROFESSIONAL
+### PROFESSIONAL
 * Senior Research Engineer, Cornell University (2022-Present)	<br>
 * Postdoctoral Fellow, Georgia Institute of Technology (2018-2022) <br>
 * Visiting Researcher, University of Otago, New Zealand (Fall 2021)<br>
 * Visiting Postdoctoral Researcher, NASA Jet Propulsion Lab (Summer 2019)
 
-#### AWARDS & HONORS
+### AWARDS & HONORS
 * 2021	Antarctic Service Medal <br>
 * 2018	NASA Postdoctoral Program (NPP) Fellowship <br>
 * 2017	Microscopy Today Innovation Award <br>
@@ -38,15 +46,15 @@ Full CV:
 * 2011	University of California Regents Fellowship <br>
 * 2009	NOAA Hollings Scholarship <br>
 
-#### ENGINEERING & RESEARCH SKILLS
-##### Technical Skills
+### ENGINEERING & RESEARCH SKILLS
+#### Technical Skills
 * *Computing*: data analysis, image processing, computer vision, Fourier analysis (Python, Matlab)
 * *Electrical*: PCB design (Eagle CAD), embedded electronics implementation (computers, microcontrollers)
 * *Mechanical*: mechanical design (Solid Works), 3D printing (Resin & FDM Printers), pressure housing design
 * *Optical*: optical physics, computational imaging, microscopy, holography, bio-photonics
 * *Fluidic*: PIV & PTV observations, microscale & boundary layer fluid dynamics, water sampling systems
 
-##### Engineering Design & Management
+#### Engineering Design & Management
 * *Management*: coordinated stakeholders, defined engineering requirements, managed timelines and budgets <br>
 * *Requirements*: designed systems for operation underwater, at low temperatures, in compact form factors <br>
 * *Communication*: wrote technology grant proposals, communicated results through technical papers and talks <br>
@@ -54,7 +62,7 @@ Full CV:
 * *Systems Engineering*: integrated optical, electrical, mechanical, and software subsystems <br>
 
 
-##### Field Operations & Logistics
+#### Field Operations & Logistics
 * *Planning*: collaboratively developed field objectives, mission plans, team roles, and operating procedures 
 * *Logistics*: coordinated international shipping, identified and acquired field operational equipment
 * *Teamwork*: performed tightly coordinated team operations in dynamic environments, experienced in both support and leadership roles, member of diverse international field teams of varying size (2-20+ members)
@@ -63,6 +71,8 @@ Full CV:
 
 
 <!---
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&amp;url=http://andrewdmullen.github.io/files/CV_Mullen_March2023.pdf" height="350" type="application/pdf" target="_blank" />
+
 COURSE WORK, Selected
 
 (UCSD: Univ. of California San Diego, UND: Univ. of Notre Dame, UWA: Univ. of Western Australia)

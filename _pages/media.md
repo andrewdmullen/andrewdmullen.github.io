@@ -185,7 +185,7 @@ Media Coverage
 Icefin
 2022 Royla Society New Zealand, "The "supercoolest" science on Earth" [https://www.royalsociety.org.nz/research/the-hippest-supercool-science-on-earth/](https://www.royalsociety.org.nz/research/the-hippest-supercool-science-on-earth/)
 2020 National Geographic. ‘A huge iceberg just broke off West Antarctica’s most endangered glacier’. Article 
-2020 AAAS Science. ‘Underwater robot reveals hidden base of Antarctica’s ‘doomsday’ glacier’. Article 
+2020 AAAS Science. ‘Underwater robot reveals hidden base of Antarctica’s ‘doomsday’ glacier’. Article https://www.science.org/content/article/underwater-robot-reveals-hidden-base-antarctica-s-doomsday-glacier
 2020 Live Science. ‘Scientists Are Racing to Figure Out Why This Giant Glacier in Antarctica Is Melting So Fast’. Article 
 
 Benthic Underwater Microscope

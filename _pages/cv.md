@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p>
-Full CV: 
+Detailed CV: 
 <a href="http://andrewdmullen.github.io/files/CV_Mullen_March2023.pdf">Download
 </a>
 
@@ -29,8 +29,8 @@ Full CV:
 * M.S. in Oceanography, UC San Diego (2015)
 * B.S. in Civil Engineering, University of Notre Dame, *Magna Cum Laude* (2011)
 
-### PROFESSIONAL
-* Senior Research Engineer, Cornell University (2022-Present)	<br>
+### PROFESSIONAL EXPERIENCE
+* Senior Research Engineer, Cornell University (2022-Present) <br>
 * Postdoctoral Fellow, Georgia Institute of Technology (2018-2022) <br>
 * Visiting Researcher, University of Otago, New Zealand (Fall 2021)<br>
 * Visiting Postdoctoral Researcher, NASA Jet Propulsion Lab (Summer 2019)
@@ -48,10 +48,10 @@ Full CV:
 
 ### ENGINEERING & RESEARCH SKILLS
 #### Technical Skills
-* *Computing*: data analysis, image processing, computer vision, Fourier analysis (Python, Matlab)
-* *Electrical*: PCB design (Eagle CAD), embedded electronics implementation (computers, microcontrollers)
-* *Mechanical*: mechanical design (Solid Works), 3D printing (Resin & FDM Printers), pressure housing design
-* *Optical*: optical physics, computational imaging, microscopy, holography, bio-photonics
+* *Computing*: data analysis, image processing, computer vision [Python, Matlab]
+* *Electrical*: PCB design [Eagle CAD], embedded electronics [computers, microcontrollers]
+* *Mechanical*: mechanical design [Solid Works], pressure housing design, 3D printing [Resin & FDM Printers]
+* *Optical*: imaging systems, microscopy, holography, computational imaging
 * *Fluidic*: PIV & PTV observations, microscale & boundary layer fluid dynamics, water sampling systems
 
 #### Engineering Design & Management

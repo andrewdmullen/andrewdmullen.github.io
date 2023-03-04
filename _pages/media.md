@@ -16,7 +16,6 @@ author_profile: true
 
 ### 2023 – Icefin, Nature Articles on Thwaites Glacier
 
-https://www.wsj.com/story/take-a-plunge-under-antarcticas-ice-with-robots-f25b99d5
 * New York Times, "Scientists Get a Close-Up Look Beneath a Troubling Ice Shelf in Antarctica", (Feb 2023). [https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html](https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html)
 
 | <img src="/images/media/Icefin_NYT_2023_ScreenShot.png" width="260" height="130" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_NYT_2023_HWDHole_Video_shortened_4mb.gif" width="200" height="100" style="display: block; margin: auto;"/> | 

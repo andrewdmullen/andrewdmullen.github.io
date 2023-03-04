@@ -14,8 +14,9 @@ author_profile: true
 
 ## Research Engineer & Post Doctoral Fellow
 
-### 2023 – Icefin, Thwaites Glacier Nature Articles
+### 2023 – Icefin, Nature Articles on Thwaites Glacier
 
+https://www.wsj.com/story/take-a-plunge-under-antarcticas-ice-with-robots-f25b99d5
 * New York Times, "Scientists Get a Close-Up Look Beneath a Troubling Ice Shelf in Antarctica", (Feb 2023). [https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html](https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html)
 
 | <img src="/images/media/Icefin_NYT_2023_ScreenShot.png" width="260" height="130" style="display: block; margin: auto;"/> | <img src="/images/media/Icefin_NYT_2023_HWDHole_Video_shortened_4mb.gif" width="200" height="100" style="display: block; margin: auto;"/> | 
@@ -38,8 +39,9 @@ author_profile: true
 * Axios, "Thwaites Glacier findings reveal clues about Antarctic ice melt", (Feb 2023). [https://www.axios.com/2023/02/16/thwaites-glacier-melt-antarctica-sea-level-rise](https://www.axios.com/2023/02/16/thwaites-glacier-melt-antarctica-sea-level-rise)
 * CNN, "So-called Doomsday Glacier is ‘in trouble,’ scientists say after finding surprising formations under ice shelf", (Feb 2023). [https://www.cnn.com/2023/02/15/world/thwaites-doomsday-glacier-sea-level-climate-intl/index.html](https://www.cnn.com/2023/02/15/world/thwaites-doomsday-glacier-sea-level-climate-intl/index.html)
 
-### 2022 – Icefin, Kamb Ice Stream
+### 2022-2023 – Icefin, Kamb Ice Stream
 * The Conversation, “Exploring Antarctica’s hidden under-ice rivers and their role in future sea-level rise”, (Feb 2022). [https://theconversation.com/exploring-antarcticas-hidden-under-ice-rivers-and-their-role-in-future-sea-level-rise-176456](https://theconversation.com/exploring-antarcticas-hidden-under-ice-rivers-and-their-role-in-future-sea-level-rise-176456)
+* Wall Street Journal, "Take A Plunge Under Antarcticas Ice, With Robots", (March 2023). [https://www.wsj.com/story/take-a-plunge-under-antarcticas-ice-with-robots-f25b99d5](https://www.wsj.com/story/take-a-plunge-under-antarcticas-ice-with-robots-f25b99d5)
 
 ### 2022 – Icefin, HIPSMI
 * Antarctica New Zealand, "The hippest supercool science on Earth", (Jan 2022). [https://www.antarcticanz.govt.nz/media/news/the-hippest-supercool-science-on-earth](https://www.antarcticanz.govt.nz/media/news/the-hippest-supercool-science-on-earth)
@@ -47,7 +49,7 @@ author_profile: true
 
 |	<img src="/images/media/HIPSMI_NEWSHUB_2022.jpg" width="300" height="150" style="display: block; margin: auto;"/> |
 
-### 2020-2022 – Icefin, Thwaites International Glacier Collaboration ‘MELT’ Team
+### 2020-2022 – Icefin, Thwaites International Glacier Collaboration, ‘MELT’ Team
 * BBC Natural History Unit, Frozen Planet II, Episode 6, “Our Frozen Planet”
 * BBC, “Antarctica melting: Climate change and the journey to the 'doomsday glacier'”, (Jan 2020). Article & Videos. [https://www.bbc.com/news/science-environment-51097309](https://www.bbc.com/news/science-environment-51097309)
 
@@ -79,6 +81,7 @@ author_profile: true
 * The Guardian, “Submarine to explore why Antarctic glacier is melting so quickly”, (Dec 2019). [https://www.theguardian.com/world/2019/dec/28/submarine-to-explore-why-antarctic-glacier-is-melting-so-quickly](https://www.theguardian.com/world/2019/dec/28/submarine-to-explore-why-antarctic-glacier-is-melting-so-quickly)
 * PBS NOVA, “Scientists find warm water beneath Antarctica’s most at-risk glacier”, (April 2020). [https://www.pbs.org/wgbh/nova/article/warm-water-found-beneath-thwaites-glacier-antarctica/](https://www.pbs.org/wgbh/nova/article/warm-water-found-beneath-thwaites-glacier-antarctica/)
 * Wired, “How Explosives, a Robot, and a Sled Expose a Doomsday Glacier”, (Jan 2022). [https://www.wired.com/story/how-explosives-a-robot-and-a-sled-expose-a-doomsday-glacier/](https://www.wired.com/story/how-explosives-a-robot-and-a-sled-expose-a-doomsday-glacier/)
+* EOS, "Diagnosing Thwaites", (Jan 2020). [https://eos.org/features/diagnosing-thwaites](https://eos.org/features/diagnosing-thwaites)
 
 ### 2019 – Icefin
 * Wall Street Journal, “Under Antarctica's Ice, Scientists Practice Exploring Space With Robots”, (April 2019). [https://www.wsj.com/video/series/in-depth-features/under-antarctica-ice-scientists-practice-exploring-space-with-robots/94B78439-DE61-4FD6-ADD9-CB92F77C747D](https://www.wsj.com/video/series/in-depth-features/under-antarctica-ice-scientists-practice-exploring-space-with-robots/94B78439-DE61-4FD6-ADD9-CB92F77C747D)
@@ -101,7 +104,7 @@ author_profile: true
 
 * Public Radio International, “Antarctic robot might lead way to life beyond Earth”, (Sept 2019). [https://theworld.org/stories/2019-09-02/arctic-robot-might-lead-way-life-beyond-earth](https://theworld.org/stories/2019-09-02/arctic-robot-might-lead-way-life-beyond-earth)
 
-* Georgia Instute of Technology, "Exploring Under-Ice Marine Environments", (March 2019). [https://cos.gatech.edu/article/andrew-mullen](https://cos.gatech.edu/article/andrew-mullen)
+* Georgia Institute of Technology, "Exploring Under-Ice Marine Environments", (March 2019). [https://cos.gatech.edu/article/andrew-mullen](https://cos.gatech.edu/article/andrew-mullen)
 
 |<img src="/images/media/DHM_GT_2019_Headshot.jpg" width="200" height="100" style="display: block; margin: auto;"/> | <img src="/images/media/DHM_GT_2019_Screenshot01.png" width="500" height="250" style="display: block; margin: auto;"/> |
 
@@ -172,3 +175,27 @@ author_profile: true
 * Australian Broadcasting Company, "In Hot Water", (Nov 2015). [https://www.abc.net.au/news/2015-11-27/global-reef-bleaching-leaving-behind-coral-graveyards/6972150](https://www.abc.net.au/news/2015-11-27/global-reef-bleaching-leaving-behind-coral-graveyards/6972150)
 
 | <img src="/images/media/BUM_ABC_01.jpeg" width="260" height="130" style="display: block; margin: auto;"/> | <img src="/images/media/BUM_ABC_02.jpeg" width="300" height="150" style="display: block; margin: auto;"/> |
+
+
+<!---
+
+
+Media Coverage
+
+Icefin
+2022 Royla Society New Zealand, "The "supercoolest" science on Earth" [https://www.royalsociety.org.nz/research/the-hippest-supercool-science-on-earth/](https://www.royalsociety.org.nz/research/the-hippest-supercool-science-on-earth/)
+2020 National Geographic. ‘A huge iceberg just broke off West Antarctica’s most endangered glacier’. Article 
+2020 AAAS Science. ‘Underwater robot reveals hidden base of Antarctica’s ‘doomsday’ glacier’. Article 
+2020 Live Science. ‘Scientists Are Racing to Figure Out Why This Giant Glacier in Antarctica Is Melting So Fast’. Article 
+
+Benthic Underwater Microscope
+Scripps Institution of Oceanography – https://scripps.ucsd.edu/news/researchers-develop-novel-microscope-study-underwater-world
+AAAS Science Update – http://www.scienceupdate.com/2016/07/corals-in-focus/
+Australian Geographic – http://www.australiangeographic.com.au/news/2016/07/video-corals-dancing-underwater
+Consortium for Ocean Leadership – http://oceanleadership.org/underwater-microscope-uncovers-secret-lives-coral-reefs-danger/
+Live Science – http://www.livescience.com/55371-underwater-microscope-sees-corals-kiss.html
+Discover – http://blogs.discovermagazine.com/d-brief/2016/07/12/watch-wild-corals-caught-kissing-on-camera/#.V4VEGYffTlo
+Engadget – https://www.engadget.com/2016/07/14/millimeter-scale-underwater-microscope/
+Gizmag – http://www.gizmag.com/underwater-microscope/44321/
+
+--->

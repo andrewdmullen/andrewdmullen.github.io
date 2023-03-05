@@ -5,6 +5,9 @@ permalink: /fieldwork/
 author_profile: true
 ---
 
+## Map of Field Research, Adacemic & Professional Positions
+<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+
 ## Certifications & Training
 * SCUBA: AAUS Scientific Diver (2012), AAUS 100ft certification (2017); NAUI Advanced, Rescue, & Nitrox Diver (2012); over 150 total lifetime dives
 * Antarctic Field Training (2018, 2019, 2021): Antarctic Field Safety, Sea Ice Safety, Field Plan Risk Assessment, Snowmobile Operations, Tracked Vehicle Operations, GPS, Communication
@@ -42,9 +45,6 @@ author_profile: true
 * 2010 - Death Valley, California (1 week) - Geology field course.
 * 2009 - Benin, West Africa (4 weeks) – Collection of groundwater hydrology data in remote wetland field sites. 
 * 2008 - Benin, West Africa (4 weeks) – Collection of groundwater hydrology data in remote wetland field sites.
-
-### Map of Field Research & Work Locations
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 
 <!---
 <html>

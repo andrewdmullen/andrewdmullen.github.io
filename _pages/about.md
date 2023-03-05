@@ -72,6 +72,15 @@ Outside of work I enjoy surfing, backpacking, and triathalons (and in 2022 compl
 </center>
 
 <!---
+bundle exec jekyll serve
+
+git add . 
+git commit -m "name"
+git push
+
+export PATH=$PATH:/Users/adm/Library/Python/3.9/bin
+
+
 <style>
 	ul { margin-top: -20px; margin-bottom: 20px;}
 	li { margin-top: 0px; margin-bottom: 0px;}

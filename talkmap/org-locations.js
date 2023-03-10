@@ -1,10 +1,10 @@
 var addressPoints = [
   [
-  "<u>Research</u> <br> Location: Cotonou, Benin <br> Date: Summer 2008 (4 weeks), Summer 2009 (4 weeks) <br> Project: Costal Groundwater Hydrology <br> Member Institution: University of Notre Dame <br> Collaborators: University of Abomey-Calavi", 
+  "<u>Research</u> <br> Location: Cotonou, Benin <br> Date: Summer 2008 (4 weeks), Summer 2009 (4 weeks) <br> Project: Costal Groundwater Hydrology & Salt Water Intrusion <br> Member Institution: University of Notre Dame <br> Collaborators: University of Abomey-Calavi", 
   6.3703, 2.3912
   ],
   [
-  "<u>Research</u> <br> Location: Utqiagvik (Barrow), Alaska <br> Date: Summer 2010 (2 weeks) <br> Project: Chukchi Sea, Gliders & HF Radars <br> Member Institution: University of Alaska Fairbanks", 
+  "<u>Research</u> <br> Location: Utqiagvik (Barrow), Alaska <br> Date: Summer 2010 (2 weeks) <br> Project: Chukchi Sea, Ocean Gliders & HF Radar Deployments <br> Member Institution: University of Alaska Fairbanks", 
   71.2906, -156.7886
   ],
  [
@@ -16,35 +16,35 @@ var addressPoints = [
   7.5150, 134.5825
   ],
   [
-  "<u>Research</u> <br> Location: Eilat, Israel <br> Date: Fall 2013 (9 weeks), Fall 2016 (8 weeks) <br> Project: Benthic Underwater Microscope & Micro-PTV <br> Member Institution: UC San Diego, Scripps Institution of Oceanography <br> Collaborators: Inter-University Institute for Marine Science (IUI)", 
+  "<u>Research</u> <br> Location: Eilat, Israel <br> Date: Fall 2013 (9 weeks), Fall 2016 (8 weeks) <br> Project: Benthic Underwater Microscope & Micro-PTV Study of Coral Reefs <br> Member Institution: UC San Diego, Scripps Institution of Oceanography <br> Collaborators: Inter-University Institute for Marine Science (IUI)", 
   29.5577, 34.9519
   ],
   [
-  "<u>Research</u> <br> Location: Maui, Hawaii (2 weeks) <br> Date: Fall 2015 <br> Project: Benthic Underwater Microscope<br> Member Institution: UC San Diego, Scripps Institution of Oceanography <br> Host: Hawaii Department of Land and Natural Resources", 
+  "<u>Research</u> <br> Location: Maui, Hawaii <br> Date: Fall 2015 (2 weeks) <br> Project: Benthic Underwater Microscope Study of Coral Bleaching <br> Member Institution: UC San Diego, Scripps Institution of Oceanography <br> Host: Hawaii Department of Land and Natural Resources", 
   20.806644, -156.610452
   ],
   [
-  "<u>Research</u> <br> Location: Little Cayman, Cayman Islands <br> Date: Winter 2016 (2 weeks), Winter 2017 (2 weeks) <br> Project: Nassau Grouper Spawning <br> Member Institution: UC San Diego, Scripps Institution of Oceanography <br> Collaborators: Cayman Islands Department of the Environment", 
+  "<u>Research</u> <br> Location: Little Cayman, Cayman Islands <br> Date: Winter 2016 (2 weeks), Winter 2017 (2 weeks) <br> Project: Nassau Grouper, Egg Cloud Tracking with Towed Microscope <br> Member Institution: UC San Diego, Scripps Institution of Oceanography <br> Collaborators: Cayman Islands Department of the Environment", 
   19.6897, -80.0367
   ],
   [
-  "<u>Research</u> <br> Location: McMurdo Station, Antarctica <br> Date: Fall 2019 (3 months) <br> Project: Icefin <br> Member Institution: Georgia Institute of Technology <br> Host: US Antarctic Program", 
+  "<u>Research</u> <br> Location: McMurdo Station, Antarctica <br> Date: Fall 2018 (3 months), Fall 2019 (3 months) <br> Project: Icefin Underwater Robot <br> Member Institution: Georgia Institute of Technology <br> Host: US Antarctic Program", 
   -77.846662, 166.658005
   ],
   [
-  "<u>Research</u> <br> Location: Thwaites Glacier, Antarctica <br> Date: Winter 2019-20 (4 months) <br> Project: Icefin, Thwaites International Glacier Collaboration <br> Member Institution: Georgia Institute of Technology <br> Collaborators: British Antarctic Survey (BAS)", 
+  "<u>Research</u> <br> Location: Thwaites Glacier, Antarctica <br> Date: Winter 2019-20 (4 weeks) <br> Project: Icefin, Thwaites International Glacier Collaboration <br> Member Institution: Georgia Institute of Technology <br> Collaborators: British Antarctic Survey (BAS)", 
   -75.20760, -104.82518
   ],
   [
-  "<u>Research</u> <br> Location: Prudhoe Bay, Alaska <br> Date: Spring 2022 (3 weeks) <br> Project: Pingo STARR <br> Member Institution: Georgia Institute of Technology", 
+  "<u>Research</u> <br> Location: Prudhoe Bay, Alaska <br> Date: Spring 2022 (3 weeks) <br> Project: Pingo Ice Hill Study <br> Member Institution: Georgia Institute of Technology", 
   70.2002, -148.4597
   ],
   [
-  "<u>Research</u> <br> Location: McMurdo Sound, Antarctica <br> Date: Fall 2022 (3 weeks) <br> Project: Icefin, HiPSMI <br> Member Institution: Georgia Institute of Technology <br> Collaborators: Antarctica New Zealand (ANZ)", 
+  "<u>Research</u> <br> Location: McMurdo Sound, Antarctica <br> Date: Fall 2022 (3 weeks) <br> Project: Icefin, HiPSMI In Situ Super-Cooling Study <br> Member Institution: Georgia Institute of Technology <br> Collaborators: Antarctica New Zealand (ANZ)", 
   -77.89086, 166.26366
   ],
   [
-  "<u>Research</u> <br> Location: Scott Base, Antarctica <br> Date: Fall 2022 (4 weeks) <br> Project: Icefin, Scott Base Survey <br> Member Institution: Georgia Institute of Technology <br> Collaborators: Antarctica New Zealand (ANZ)", 
+  "<u>Research</u> <br> Location: Scott Base, Antarctica <br> Date: Fall 2022 (4 weeks) <br> Project: Icefin, Scott Base Bathymetric Survey <br> Member Institution: Georgia Institute of Technology <br> Collaborators: Antarctica New Zealand (ANZ)", 
   -77.848921, 166.773276
   ],
   [

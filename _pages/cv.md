@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p>
-Detailed CV: 
+Full CV: 
 <a href="http://andrewdmullen.github.io/files/CV_Mullen_March2023.pdf">Download
 </a>
 

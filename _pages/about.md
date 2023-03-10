@@ -32,14 +32,14 @@ I currently work as a Senior Research Engineer at [Cornell University](https://a
 
 ### Funding & Awards
 
-* Fellowships including: *NASA Postdoctoral Program (NPP)*, *NSF Graduate Research Fellowship Program (GRFP)*, *Link Ocean Engineering Ph.D. Fellowship*
-* Performed engineering and operations work on projects funded by: *NSF Office of Polar Programs*, *NASA Astrobiology Program*, *NASA Planetary Science and Technology from Analog Research (PSTAR) Grants*
+* Fellowships including: *NASA Postdoctoral Program (NPP)*, *NSF Graduate Research Fellowship Program (GRFP)*, *Link Ocean Engineering Ph.D. Fellowship*, *NOAA Hollings Scholarship*
 * Awards & Honors: *Microscopy Today Innovation Award*, *Antarctic Service Medal*
+* Performed engineering and operations work on projects funded by: *NSF Office of Polar Programs*, *NASA Astrobiology Program*, *NASA Planetary Science and Technology from Analog Research (PSTAR) Grants*
 
 ### Field Work
 
-* Conducted field research seasons in: Antarctica (x3), the Arctic (x2), the Red Sea (x2), the Caribbean (x2), and West Africa (x2)
-* Performed research: as a scientific diver, aboard research vessels, and utilizing underwater robotic vehilces
+* Conducted [field research](https://andrewdmullen.github.io/fieldwork/) seasons in: Antarctica (x3), the Arctic (x2), the Red Sea (x2), the Caribbean (x2), West Africa (x2), and the Pacific. 
+* Performed research utilizing: scientific diving, research vessels, underwater robotic vehicles, towed ocean payloads, and geophysical instrumentation.
 
 
 Outside of work I enjoy surfing, backpacking, and triathalons (and in 2022 completed my first Ironman in Arizona!).

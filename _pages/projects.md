@@ -1,20 +1,181 @@
 ---
 layout: archive
-title: "Projects"
+title: ""
 permalink: /projects/
 author_profile: true
 ---
+# Research Engineer & Post Doctoral Fellow
+## Icefin Robot 
 
+| <img src="/images/projects/Icefin/Icefin - Image of Icefin under the sea ice near McMurdo Station (Rob Robbins, USAP Driver).jpg" width="400" height="200" style="display: block; margin: auto;"/>| <img src="/images/projects/Icefin/Icefin - Screenshot - Icefin deployment at Thwaites Glacier.png" width="400" height="200" style="display: block; margin: auto;"/>|
+
+<!---
+<img src="/images/projects/Icefin - Screenshot - Icefin deployment at Thwaites Glacier.png" width="400" height="200" style="display: block; margin: auto;"/>
+--->
+
+* *Description*: Icefin is a modular robotic vehicle for under-ice ocean exploration, designed to deploy through narrow channels drilled through glaciers. It is a tool for polar research, as well as a NASA funded project advancing technologies for future exploration of ocean worlds such as Europa. - [Icefin Homepage](https://schmidt.astro.cornell.edu/icefin/?playlist=1769ca3&video=6f76132), [Thwaites 'Melt' Project](https://schmidt.astro.cornell.edu/thwaites-melt/) 
+
+* *Contributions*: Worked as an engineer on the Icefin team. Contributed to system testing and development, as well as extensive field operations and logistics. I conducted three field seasons in Antarctica, working on five projects:
+	* 2018-19: Ross Ice Shelf & Europa Underwater Probe (RISEUP)
+	* 2019-20: International Thwaites Glacier Collaboration (ITGC)
+	* 2021-22: HiPSMI - Ocean Supercooling Study, Scott Base Bathymetric Survey, Kamb  Ice Stream
+	
+* *Outcomes*: The Icefin team collected critical ocean data in previously inaccesible regions beneath the Thwaites Glacier and Kamb Ice Stream. Surveys revealed key processes impacting glacial melt and provided critical measurements for modeling sea level rise. Concurrently, deployments beneath ice shelves demonstrated important capabilities for future ocean worlds exploration.
+* *Co-Authored Publications*: [Schmidt et al. Nature 2023](https://doi.org/10.1038/s41586-022-05691-0), [Davis et al. Nature 2023](https://doi.org/10.1038/s41586-022-05586-0), [Lawrence et al. Nature Geoscience 2023](https://doi.org/10.1038/s41561-023-01129-y), [Meister et al. IEEE Global OCEANS 2020](https://doi.org/10.1109/ieeeconf38699.2020.9389361)
+* *Media*: [BBC](https://www.bbc.com/news/science-environment-64640796), [New York Times](https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html), [Washington Post](https://www.washingtonpost.com/climate-environment/2023/02/15/glacier-ice-melt-ocean-warming/), [Wall Street Journal](https://www.wsj.com/story/take-a-plunge-under-antarcticas-ice-with-robots-f25b99d5), [more](http://andrewdmullen.github.io/media/)
+
+
+	
+## VERNE: Vertical Entry Robot for Navigating Europa
+
+| <img src="/images/publications/SSSLOW_Fig1_FullResolution.png" width="400" height="200" style="display: block; margin: auto;"/> <br> *Subsurface Science and Search for Life in Ocean Worlds* <br> Fig 1. Conceptual diagram of the SSSLOW payload. (A life detection package concept for future sub-surface missions to "Ocean Worlds" such as Europa and Enceladus.)| <img src="/images/publications/ASCEND_Bryson_2020_Fig2_LowRes.png" width="1000" height="500" style="display: block; margin: auto;"/> <br> *Vertical Entry Robot for Navigating Europa (VERNE) Mission and System Design* <br> Fig 2. VERNE concept of operations for drilling through Europa's the ice shell.| 
+
+<!--- 
+<img src="/images/publications/ASCEND_Bryson_2020_Fig4_LowRes.png" width="70" height="35" style="display: block; margin: auto;"/> *Vertical Entry Robot for Navigating Europa (VERNE) Mission and System Design* <br>  Fig 4. VERNE vehicle conceptual design.|
+--->
+
+* *Description*: Europa is a moon of Jupiter with a thick ice shell overlying a large liquid ocean. VERNE is a NASA funded mission concept to melt through the ice shell of Europa in order to search for life in its interior.
+
+* *Contributions*: Co-led a team of 21 scientists and engineers developing a conceptual life detection science payload for the VERNE melt probe. Team surveyed state-of-the-art life detection technologies from ocean, earth, and space science. 
+	
+* *Outcomes*: The team developed a conceptual Europa sub-surface life detection package, integrating multiple scientific instruments. Defined critical science objectives, leveraged existing technological capabilities, and identified areas for needing further development. The team also developed a melt probe probe design and sub-surface mission architecture. 
+
+* *Co-Authored Publications*: [Lawrence (co-lead), Mullen (co-lead), et al. Planetary Science Journal 2023](https://doi.org/10.3847/PSJ/aca6ed), [Bryson et al. AIAA ASCEND 2020](https://doi.org/10.2514/6.2020-4061), Bryson et al. Earth and Space Science (accepted)
+<br><br>
+   
+## Submersible Digital Holographic Microscope (DHM)
+
+| <img src="/images/projects/DHM/DHM_Deployment.jpeg" width="800" height="400" style="display: block; margin: auto;"/> <br> DHM Antarctic deployment. | <img src="/images/projects/DHM/DHM_System.png" width="1000" height="500" style="display: block; margin: auto;"/> <br> DHM system design.| <img src="/images/projects/DHM/DHM_Lab.png" width="1000" height="500" style="display: block; margin: auto;"/> <br> *Euglena* motility observations in lab experiment.| 
+
+* *Description*: Holography is a computational imaging technique used to record a three dimensional volume. The submersible DHM uses this approach at small scale to observe microbial motility in the ocean. This is a proof of technology for future life detection missions to ocean worlds, and builds on existing DHM work from JPL.
+
+* *Contribution*: Concieved and led collaboration with Georgia Tech & NASA JPL developing a submersible DHM for the Icefin ROV. Led development of instrument including compact microscopic optics, sumbersible housings, embedded electronics, and image processing software. Deployed system in Antarctica, and analyzed data.
+
+* *Outcomes*: DHM successfully observed microbial motility in sub-ice Antarctic waters which serve as an analog for future “ocean world” exploration.
+
+* *Publication*: journal paper *in prep*, presented at AGU AbSciCon 2022 
+
+## Pingo Sub Terranean Aquifer Reconnaissance and Reconstruction
+
+| <img src="/images/projects/Pingo/Pingo_01.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> | <img src="/images/projects/Pingo/Pingo_02.png" width="1000" height="500" style="display: block; margin: auto;"/> | <img src="/images/projects/Pingo/Pingo_03.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> |
+
+* *Description*: Pingos are ice cored hills which exist on earth and potentially other planetary bodies. This NASA PSTAR (Planetary Science and Technology from Analog Research) project is investigating Pingos with conductivity, radar, and magnetotelluric techniques. - [Pingo STARR Homepage](https://schmidt.astro.cornell.edu/pingo-starr/)
+
+* *Contributions*: Lead field engineer on Pingo STARR season surveying Pingos in the Arctic.
+
+* *Outcomes*: Team utilized of multiple geophysical instruments to provide new measurements of Pingo subsurface structure. Teams data anylis is still ongoing.
+
+* *Presentations*: [LPI 2021](https://www.hou.usra.edu/meetings/terrestrialanalogs2021/pdf/8061.pdf), journal publications *in prep*
+<br> <br>
+
+# Graduate School 
+
+## Benthic Underwater Microscope 
+
+| <img src="/images/projects/BUM/BUM_01.png" width="1000" height="500" style="display: block; margin: auto;"/>  Imaging unit internal components. | <img src="/images/projects//BUM/BUM_02.png" width="700" height="350" style="display: block; margin: auto;"/> Control unit internal components.| <img src="/images/projects/BUM/BUM_03.png" width="1000" height="500" style="display: block; margin: auto;"/> Underwater operation by a scientific diver. |
+| <img src="/images/projects/BUM/BUM_04.png" width="200" height="100" style="display: block; margin: auto;"/> *In situ* coral image. <br> Main scale bar 500 μm, inset 50 μm. | <img src="/images/projects/BUM/BUM_05.png" width="200" height="100" style="display: block; margin: auto;"/>  Fluorescent coral image taken in lab. <br> Main scale bar 500 μm, inset 50 μm. | <img src="/images/media/Time_03_coral-competition-560px.gif" width="200" height="100" style="display: block; margin: auto;"/> *In situ* coral competition timeseries. <br>|
+
+* *Description*: Diver operated microscope capable of obeserving sea floor organisms such as corals *in situ*. Microscopic imaging is performed using a focus tunable lens, long working distance objective, and focused illumination. The system inculdes embedded computing and power in a custom housing
+
+* *Contributions*: Co-led the system development with Dr. Tali Treibitz. Jointly developed and tested optics, led development of imaging unit electronics, and led SCUBA deployments of instrument.
+
+* *Outcomes*: First system to image seafloor subjects such as corals underwater at micron-scale. Applied system to study coral behavior and bleaching in natural environments.
+
+* *Publications*: [AD Mullen (co-lead), Treibitz (co-lead), et al. Nature Communications 2016](https://doi.org/10.1038/ncomms12093), [Mullen et al. OSA Novel Techniques in Microscopy 2017](https://doi.org/10.1364/ntm.2017.ntu1c.1)
+
+* *Media*: [New York Times](http://www.nytimes.com/2016/07/13/science/seafloor-microscope-coral.html), [Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/07/12/this-incredible-underwater-microscope-shows-stunning-corals-like-youve-never-seen-them-before/), [Physics Today (Cover)](https://doi.org/10.1063/PT.3.3284), [Scientific American](https://www.jstor.org/stable/26047255?seq=2), [Microscopy Today 2017 Innovation Awards](https://doi.org/10.1017/S1551929517000840)
+
+	
+## Submersible Micro-Particle Tracking Velocimetry (PTV)
+
+| <img src="/images/projects/PTV/PTV_01.png" width="1000" height="500" style="display: block; margin: auto;"/>  Underwater Micro-PTV system. | <img src="/images/projects/PTV/PTV_02.png" width="900" height="450" style="display: block; margin: auto;"/> Particle tracking, 500 μm scale bar.| <img src="/images/projects/PTV/PTV_03.png" width="1100" height="550" style="display: block; margin: auto;"/> Time averaged velocity field, 500 μm scale bar. |
+
+* *Decription*: PTV is a technique used to measure two dimensional fluid dynamics based on images of particle motion. Here the Benthic Underwater Microscope was enhanced to perform PTV at micro-scales in the ocean around individual coral polys.
+
+* *Contributions*: Concieved and led project. Developed dark-field illumination to observe micro particles, implemented precision pulsed imaging, and developed particle tracking code. Deployed system in ocean and perform Fourier analysis of fluctuating two dimensional velocity fields.
+
+* *Outcomes*: Measured viscous fluid boundary layer surrounding coral polyps in the ocean for the first time, and observed interactions with surrounding ocean waters.
+
+* *Publications*: [Ph.D. Thesis](https://escholarship.org/uc/item/1p03v5t1)
+
+## Nassau Grouper Egg Tracking
+
+| <img src="/images/projects/Grouper/TowCam_01.png" width="1000" height="500" style="display: block; margin: auto;"/>  Towed underwater microscope system, year 1. | <img src="/images/projects/Grouper/TowCam_02.png" width="1000" height="500" style="display: block; margin: auto;"/> Towed microscope images.| <img src="/images/projects/Grouper/TowCam_03.png" width="1000" height="500" style="display: block; margin: auto;"/> Egg tracking map.|
+
+* *Decription*: Processes occuring during egg life stage of fish is critical to population dynamics, however drifting eggs are very difficult to study in the natural environment. Here we developed a towed microscope system and used it to investigate Nassau Grouper egg dispersal following a mass spawning event.
+
+* *Contribution*: Engineering lead on integration and deployment of the towed microscopic imaging system. Worked with science team to deploy system in two sequential years to investigate the transport and dispersion of eggs following Grouper spawning.
+
+* *Outcomes*: Successfully tracked egg cloud and mapped egg densities in water column over multiple spawning nights.
+
+* *Presentations*: [Stock BC, Mullen A, et. al. 69th Annual Gulf and Caribbean Fisheries Institute, 2016](http://proceedings.gcfi.org/wp-content/uploads/2018/10/GCFI_69_97.pdf), publication submitted
+<br> <br>
+
+# Undergraduate
+
+## Groundwater Hydrology, Benin Africa
+* *Description*: International collaboration between the University of Notre Dame and University Abomey Calavi studying salt water intrusion into the coastal aquifers surrounding the capital city of Cotonou. (Advisor: Dr. Stephen Silliman)
+
+* *Contributions*: Conducted hydrology measurements at remote field sites to study costal saltwater intrusion over two summers. Lead small international team in field work, taught sampling methods, designed low-cost hydraulic field instruments, analyzed groundwater models. 
+
+* *Publications*: [SE Silliman et. al. Sustainibility 2010](https://doi.org/10.3390/su2082652)
+
+## NOAA Hollings Scholar, University of Alaska Fairbanks
+* *Description*: Summer internship at the University of Alaska Fairbanks studying oceanorgaphy of the Chukchi Sea, supported by the NOAA Hollings Scholarship. (Advisor: Dr. Tom Weingartner)
+
+* *Contributions*: Prepared and deployed ocean gliders and HF radars collecting data for pollution spill models in Arctic Ocean. 
+
+<!--- 
+## OAST: 
+* Description [OAST Homepage](https://oast.eas.gatech.edu)
+* Contributions
+    * ROV science package
+* Link
+<br> <br>
+
+--------------------------------------------------------
 ## Research Engineer & Post Doctoral Fellow
 
 ### Icefin Underwater Robot
 * Engineer on three Antarctic campaigns deploying custom underwater robot ‘Icefin’.  Optimized mechanical operations, coordinated vehicle launches, and troubleshot system issues. Team surveyed previously inaccessible sub-glacial ocean environments providing critical measurements for modeling sea level rise. <br>
+* equipped with a suite of ocean sensors
+* It can be deployed through narrow holes melted through glaciers.
+* NASA funded Icefin development to test technology for future exploration of ocean worlds such as Europa. NSF funded additional field research using Icefin to study ocean processes impacting glacial melting and sea level rise.
 
 ### Submersibale Digital Holographic Microscope (DHM)
 * Led collaboration with Georgia Tech & NASA JPL developing a submersible DHM for the Icefin ROV. Instrument integrates optical, mechanical, electrical, and embedded computing elements. DHM observed microbial life in Antarctica an analog for future “ocean world” exploration. <br>
 
+
+    - The instrument leverages technology developed by JPL / cal tech and integrates it with Icefin …
+    - The instrument package integrates optical, electrical, mechanical, and software systems.
+    - nasa NPP, 
+    - lead collaboration with JPL
+    - life detection
+    - Integrate with Icefin
+    - computational imaging, 
+    - housing / electronics / …. ) 
+    - outputs (conference proceedings)
+- Contribution
+    - Led collaboration between Georgia Tech and JPL. 
+    - Developed Optical, electrical, and mechanical design of system.
+    - Include custom underwater housing, optical train, on board software and electronics.
+    - Mentored PhD student and others
+- Outcomes
+    - Observed in situ motility of microbes several microns or less in size in under ice Antarctic waters.
+    - Overcame constraints of pressure, form factor and temperature and was deployed on the Icefin ROV.
+    - Demonstrated ability to defer life in analog environment 
+    - Publication: in preparation 
+
+
 ### Subsurface Science & Search for Life on Ocean Worlds 
 * Co-led design conceptual payload for future NASA mission to the moon Europa. Coordinated 10+ member team, surveying state-of-the-art technologies from earth and space science. Presented framework for integrating tools into multi-sensor life-detection package.
+
+    * Contributed to the research and design of the VERNE melt probe.
+    * Co-led design conceptual payload for future NASA mission to the moon Europa. Coordinated 10+ member team, surveying state-of-the-art technologies from earth and space science. Presented framework for integrating tools into multi-sensor life-detection package.
+    * 	* Multiple framework for integrating muliple types of instruments into multi-sensor life-detection package.    
+	* Produced a detailed survey of existing relevant life detecition technologies from ocean, earth and space science. 
+	* Team developed a conceptual multi-stage ice melting probe and mission.
+
 
 ## Graduate Student Researcher
 
@@ -35,9 +196,43 @@ author_profile: true
 
 ### NOAA Hollings Scholar, University of Alaska Fairbanks
 * Prepared and deployed ocean gliders and HF radars collecting data for pollution spill models in Arctic Ocean. (Advisor: Dr. Tom Weingartner)
+--->
 
-<!---
-	- Misc: glaciology book, small motors book
-	- General: brief history of time, guns germs steel, short history of nearly everything 
-	- Antarctica: polar history book, etc. 
+
+<!--- 
+Icefin Contributions on Operations & Development Team: 
+* Development: 
+	* Deployment: improved lars rigging, fiber winch wrap, fiber puller option, improved fiber block option
+	* Mechanical: drop weight hook, ballasting cannisters  
+	* Electical: power system replacement options
+	* Navigation: worked with team during navigation testing
+	* Sensor: invetigate sensor options
+* Testing:
+	* Field Prep: georgia lake testing, florida ocean testing, kraken springs quarry testing
+	* Antarctica: testing in MCM sound in prep for deep field work
+	* Tether: test load test prior to Thwaites
+* Operations
+	* Field Planning
+		* Collaboratively defined objectives and dive plans.
+	* Field Operations
+		* Operations team on all 5 projects. 
+		* Mechanical and deployment systems lead at Thwaites 2019-20. 
+		* Mechanical / deployment lead 2020. 
+* Logistics:
+	* Shipping To Antarctica: 
+		* 2018 shipping lead, 
+		* 2019 / 2021 /2023 shipping contributor -- USAP & ANZ documentation, work with SeaJet 
+	* SIP & Field Gear Prep: 
+		* 2019 identify gear need in SIP for Thwaites, 
+		* 2021 
+	* Documentation: 
+		* pre deployment check lists, 
+		* deployment SOP details, 
+		* season timeline, 
+		* packing lists
+...
+
+	* At Thwaites I lead mechanical vehicle operations 
+	* collaborations with BAS / ANZ / ITGC) [riseup,itgc, Kamb, Scott Base Survey, HiPSMI
+		
 --->

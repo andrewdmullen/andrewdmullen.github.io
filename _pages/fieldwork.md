@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Field Work"
+title: " "
 permalink: /fieldwork/
 author_profile: true
 ---
 
-## Map: Field Research, Adacemic Institutions, Professional Positions
+## Map: Field Research, Adacemic Institutions, & Professional Positions
 <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 
 ## Certifications & Training

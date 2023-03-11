@@ -20,8 +20,9 @@ I currently work as a Senior Research Engineer at [Cornell University](https://a
 
 ### Results Published In
 
-* [Journals](https://andrewdmullen.github.io/publications): *Nature*, *Nature Geoscience*, *Nature Communications*, *Planetary Science Journal*  
-* [Media Outlets](https://andrewdmullen.github.io/media): *New York Times*, *BBC*, *Washington Post*, *Scientific American*
+* [Peer Reviewed Journals](https://andrewdmullen.github.io/publications): *Nature*, *Nature Geoscience*, *Nature Communications*, *Planetary Science Journal*  
+* [Conference Articles](https://andrewdmullen.github.io/publications): *IEEE Oceanic Engineering Society*, *Optical Society of America*, *American Institute of Aeronautics and Astronautics*
+* [Media Outlets](https://andrewdmullen.github.io/media): *New York Times*, *BBC*, *Washington Post*, *Wall Street Journal*, *Scientific American*
 <br>
 
 ### Funding & Awards
@@ -37,9 +38,9 @@ I currently work as a Senior Research Engineer at [Cornell University](https://a
 * Life Detection Payloads: development of conceptual life detection payloads and concept missions to explore "ocean worlds" in our solar system such as Europa 
 
 ### Technical Skills
-* Computing: data analysis, image processing, computer vision [Python, Matlab]
-* Electrical: PCB design, embedded electronics [Eagle CAD]
-* Mechanical: mechanical design, pressure housing design [Solid Works]
+* Computing: data analysis, image processing, computer vision, [*Python*, *Matlab*]
+* Electrical: PCB design,  implementation of embedded computers and micro-controllers, [*Eagle*, *Python*]
+* Mechanical: mechanical design, pressure housing design, [*Solid Works*]
 * Optical: imaging systems, microscopy, holography, computational imaging
 
 ### [Field Work](https://andrewdmullen.github.io/fieldwork/)
@@ -48,7 +49,7 @@ I currently work as a Senior Research Engineer at [Cornell University](https://a
 * Performed research utilizing: scientific diving, research vessels, underwater robotic vehicles, towed ocean payloads, and geophysical instrumentation.
 
 
-Outside of work I enjoy surfing, backpacking, and triathalons (and in 2022 completed my first Ironman in Arizona!).
+[Outside of work](https://andrewdmullen.github.io/hobbies/) I enjoy surfing, backpacking, and triathalons (and in 2022 completed my first Ironman in Arizona!).
 
 ## Videos Describing Work
 

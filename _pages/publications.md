@@ -64,11 +64,11 @@ SE Silliman, BI Borum, M Boukari, N Yalo, S Orou-Oete, D McInnis, C Fertenbaugh,
 
 ## Conference Articles
 
-* **“A low-cost, submersible, digital holographic microscope for in situ microbial imaging”, Optics and Photonics for Sensing the Environment (2021)** <br>
+* **“A low-cost, submersible, digital holographic microscope for in situ microbial imaging”, Optical Society of America, Optics and Photonics for Sensing the Environment (2021)** <br>
 AJ Ramirez, BW Schierman, L Zheng, BM Dalporto, L Belvin, TP Burch, **AD Mullen**, JK Wallace <br>
 [https://doi.org/10.1364/AIS.2021.JTu5A.18](https://doi.org/10.1364/AIS.2021.JTu5A.18)
 
-* **“Vertical Entry Robot for Navigating Europa (VERNE) mission and system design”, ASCEND 2020 (2020)** <br>
+* **“Vertical Entry Robot for Navigating Europa (VERNE) mission and system design”, American Institute of Aeronautics and Astronautics, ASCEND 2020 (2020)** <br>
 FE Bryson, M Nassif, PA Szot, CJ Chivers, N Daniel, BE Wiley, T Plattner, A Hanna, Y Tomar, S Rapoport, EM Spiers, S Pierson, A Hodges, J Lawrence, **AD Mullen**, D Dichek, K Hughson, MR Meister, EG Lightsey, BE Schmidt <br>
 [https://doi.org/10.2514/6.2020-4061](https://doi.org/10.2514/6.2020-4061)
 
@@ -98,6 +98,13 @@ F Bryson, MR Meister, DJ Dichek, **AD Mullen**, BC Hurwitz, JD Lawrence, AM Spea
 * **“An Underwater Microscope for In Situ Imaging of Seafloor Organism”, Optical Society of America, Novel Techniques in Microscopy (2017)** <br>
 **AD Mullen**, T Treibitz, PLD Roberts, JS Jaffe <br>
 [https://doi.org/10.1364/ntm.2017.ntu1c.1](https://doi.org/10.1364/ntm.2017.ntu1c.1)
+
+## Extended Abstracts
+* **"Mapping fine-scale dispersal of Nassau Grouper (Epinephelus striatus) eggs from a spawning aggregation with a novel plankton imaging system." 70th Annual Gulf and Caribbean Fisheries Institute (Nov 2017)** <br>
+Stock BC, **Mullen A**, Roberts P, Jaffe JS, Pattengill-Semmens C, McCoy C, and Semmens BX. [http://proceedings.gcfi.org/wp-content/uploads/2020/08/70-GCFI-PDF-44.pdf](http://proceedings.gcfi.org/wp-content/uploads/2020/08/70-GCFI-PDF-44.pdf)
+
+* **"Fine-scale dispersal of eggs from a Nassau grouper (Epinephelus striatus) spawning aggregation." 69th Annual Gulf and Caribbean Fisheries Institute (Nov 2016)** <br>
+Stock BC, **Mullen A,** Roberts P, Jaffe JS, Waterhouse L, Pattengill-Semmens C, McCoy C, and Semmens BX. [http://proceedings.gcfi.org/wp-content/uploads/2018/10/GCFI_69_97.pdf](http://proceedings.gcfi.org/wp-content/uploads/2018/10/GCFI_69_97.pdf)
 
 ## White Papers
 * **“Enabling progress towards life detection on NASA missions”, Whitepaper #260 Planetary Science and Astrobiology Decadal Survey 2023-2032 (2020)** <br>

@@ -100,7 +100,8 @@ author_profile: true
 
 ## Nassau Grouper Egg Tracking
 
-| <img src="/images/projects/Grouper/TowCam_01.png" width="1000" height="500" style="display: block; margin: auto;"/>  Towed underwater microscope system, year 1. | <img src="/images/projects/Grouper/TowCam_02.png" width="1000" height="500" style="display: block; margin: auto;"/> Towed microscope images.| <img src="/images/projects/Grouper/TowCam_03.png" width="1000" height="500" style="display: block; margin: auto;"/> Egg tracking map.|
+| <img src="/images/projects/Grouper/NetCam_01.png" width="200" height="100" style="display: block; margin: auto;"/>  Towed underwater microscope system, year 1. | <img src="/images/projects/Grouper/NetCam_02.png" width="200" height="100" style="display: block; margin: auto;"/> Towed microscope images, year 1.| <img src="/images/projects/Grouper/NetCam_03.png" width="250" height="125" style="display: block; margin: auto;"/> Egg tracking density map, year 1.|
+| <img src="/images/projects/Grouper/TowCam_01.png" width="200" height="100" style="display: block; margin: auto;"/>  Towed underwater microscope system, year 2. | <img src="/images/projects/Grouper/TowCam_02.png" width="150" height="75" style="display: block; margin: auto;"/> Towed microscope images, year 2.| <img src="/images/projects/Grouper/TowCam_03.png" width="400" height="200" style="display: block; margin: auto;"/> Egg tracking density map, year 2.|
 
 * *Decription*: Processes occuring during egg life stage of fish is critical to population dynamics, however drifting eggs are very difficult to study in the natural environment. Here we developed a towed microscope system and used it to investigate Nassau Grouper egg dispersal following a mass spawning event.
 
@@ -108,7 +109,7 @@ author_profile: true
 
 * *Outcomes*: Successfully tracked egg cloud and mapped egg densities in water column over multiple spawning nights.
 
-* *Presentations*: [Stock BC, Mullen A, et. al. 69th Annual Gulf and Caribbean Fisheries Institute, 2016](http://proceedings.gcfi.org/wp-content/uploads/2018/10/GCFI_69_97.pdf), publication submitted
+* *Presentations*: [Stock BC, Mullen A, et. al. 69th Annual Gulf and Caribbean Fisheries Institute, 2016](http://proceedings.gcfi.org/wp-content/uploads/2018/10/GCFI_69_97.pdf), [Stock BC, Mullen A, et. al. 70th Annual Gulf and Caribbean Fisheries Institute, 2017](http://proceedings.gcfi.org/wp-content/uploads/2020/08/70-GCFI-PDF-44.pdf), jouirnal publication submitted
 <br> <br>
 
 # Undergraduate

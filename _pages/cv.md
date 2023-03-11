@@ -56,7 +56,7 @@ Full CV:
 * **Electrical**: PCB design, implementation of embedded computers and micro-controllers [*Eagle*, *Python*]
 * **Mechanical**: mechanical design, pressure housing design, 3D printing [*Solid Works*]
 * **Optical**: imaging systems, microscopy, holography, computational imaging 
-* **Fluidic**: PIV & PTV observations, fluid dynamics, water sampling systems
+* **Fluidic**: particle tracking velocimetry observations, fluid dynamics, water sampling systems
 
 ### Engineering Design & Management
 * **Management**: coordinated stakeholders, defined engineering requirements, managed timelines and budgets <br>

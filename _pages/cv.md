@@ -8,25 +8,25 @@ author_profile: true
 ## Resume, one page 
 <p>
 One Page Resume: 
-<a href="http://andrewdmullen.github.io/files/Resume_Mullen_March2023.pdf">Download </a>
+<a href="http://andrewdmullen.github.io/files/Mullen_ResumeOnePage_March2023.pdf">Download </a>
 <br>
 </p>
 
-<iframe src="https://docs.google.com/gview?url=http://andrewdmullen.github.io/files/Resume_Mullen_March2023.pdf&embedded=true" style="width:1000px; height:400px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/gview?url=http://andrewdmullen.github.io/files/Mullen_ResumeOnePage_March2023.pdf&embedded=true" style="width:1000px; height:400px;" frameborder="0"></iframe>
 
 ## Curriculum Vitae, detailed
 <p>
 Full CV: 
-<a href="http://andrewdmullen.github.io/files/CV_Mullen_March2023.pdf">Download </a>
+<a href="http://andrewdmullen.github.io/files/Mullen_CV_March2023.pdf">Download </a>
 <br>
 </p>
 
-<iframe src="https://docs.google.com/gview?url=http://andrewdmullen.github.io/files/CV_Mullen_March2023.pdf&embedded=true" style="width:1000px; height:400px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/gview?url=http://andrewdmullen.github.io/files/Mullen_CV_March2023.pdf&embedded=true" style="width:1000px; height:400px;" frameborder="0"></iframe>
 
 ## SUMMARY
-* Engineer and scientist with over 10 years of experience on NASA and NSF technology development projects.
+* Engineer with over 10 years of experience on NASA and NSF projects developing technology for exploration.
 * Designed and built scientific tools integrating optics, computing, electrical engineering, and mechanical design.
-* Experienced as a member and leader of cross-functional teams developing tools from concept to field deployable systems; then operating these instruments in harsh polar and marine field settings.
+* Member of interdisciplinary teams operating these instruments in extreme polar and marine environments.
 
 ## EDUCATION
 * Ph.D. in Electrical Engineering, UC San Diego (2018)
@@ -91,6 +91,12 @@ Full CV:
 
 <!---
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&amp;url=http://andrewdmullen.github.io/files/CV_Mullen_March2023.pdf" height="350" type="application/pdf" target="_blank" />
+
+Summary
+* Engineer and scientist with over 10 years of experience on NASA and NSF technology development projects.
+* Designed and built scientific tools integrating optics, computing, electrical engineering, and mechanical design.
+* Experienced as a member and leader of cross-functional teams developing tools from concept to field deployable systems; then operating these instruments in harsh polar and marine field settings.
+
 
 COURSE WORK, Selected
 

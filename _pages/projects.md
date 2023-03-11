@@ -13,14 +13,14 @@ author_profile: true
 <img src="/images/projects/Icefin - Screenshot - Icefin deployment at Thwaites Glacier.png" width="400" height="200" style="display: block; margin: auto;"/>
 --->
 
-* *Description*: Icefin is a modular robotic vehicle for under-ice ocean exploration, designed to deploy through narrow channels drilled through glaciers. It is a tool for polar research, as well as a NASA funded project advancing technologies for future exploration of ocean worlds such as Europa. - [Icefin Homepage](https://schmidt.astro.cornell.edu/icefin/?playlist=1769ca3&video=6f76132), [Thwaites 'Melt' Project](https://schmidt.astro.cornell.edu/thwaites-melt/) 
+* *Description*: Icefin is a modular underwater robot designed for under-ice exploration, and capable of being deployed through narrow holes drilled through glaciers. It is a tool for polar research, as well as a NASA funded project advancing technologies for future exploration of ocean worlds such as Europa. - [Icefin Homepage](https://schmidt.astro.cornell.edu/icefin/?playlist=1769ca3&video=6f76132), [Thwaites 'Melt' Project](https://schmidt.astro.cornell.edu/thwaites-melt/) 
 
-* *Contributions*: Worked as an engineer on the Icefin team. Contributed to system testing and development, as well as extensive field operations and logistics. I conducted three field seasons in Antarctica, working on five projects:
+* *Contributions*: As an engineer on the Icefin team, I contributed to system testing and development, as well as extensive field operations and logistics. I conducted three field seasons in Antarctica, working on five projects:
 	* 2018-19: Ross Ice Shelf & Europa Underwater Probe (RISEUP)
 	* 2019-20: International Thwaites Glacier Collaboration (ITGC)
 	* 2021-22: HiPSMI - Ocean Supercooling Study, Scott Base Bathymetric Survey, Kamb  Ice Stream
 	
-* *Outcomes*: The Icefin team collected critical ocean data in previously inaccesible regions beneath the Thwaites Glacier and Kamb Ice Stream. Surveys revealed key processes impacting glacial melt and provided critical measurements for modeling sea level rise. Concurrently, deployments beneath ice shelves demonstrated important capabilities for future ocean worlds exploration.
+* *Outcomes*: The Icefin team collected ocean data in previously inaccesible regions beneath Antarctic glaciers. Surveys revealed key processes impacting ice melt, providing critical data for modeling sea level rise. Concurrently, deployments beneath ice shelves demonstrated important capabilities for future ocean worlds exploration.
 * *Co-Authored Publications*: [Schmidt et al. Nature 2023](https://doi.org/10.1038/s41586-022-05691-0), [Davis et al. Nature 2023](https://doi.org/10.1038/s41586-022-05586-0), [Lawrence et al. Nature Geoscience 2023](https://doi.org/10.1038/s41561-023-01129-y), [Meister et al. IEEE Global OCEANS 2020](https://doi.org/10.1109/ieeeconf38699.2020.9389361)
 * *Media*: [BBC](https://www.bbc.com/news/science-environment-64640796), [New York Times](https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html), [Washington Post](https://www.washingtonpost.com/climate-environment/2023/02/15/glacier-ice-melt-ocean-warming/), [Wall Street Journal](https://www.wsj.com/story/take-a-plunge-under-antarcticas-ice-with-robots-f25b99d5), [more](http://andrewdmullen.github.io/media/)
 
@@ -63,7 +63,7 @@ author_profile: true
 
 * *Contributions*: Lead field engineer on Pingo STARR season surveying Pingos in the Arctic.
 
-* *Outcomes*: Team utilized of multiple geophysical instruments to provide new measurements of Pingo subsurface structure. Teams data anylis is still ongoing.
+* *Outcomes*: Team utilized of multiple geophysical instruments to provide new measurements of Pingo subsurface structure, with data anylsis is still ongoing.
 
 * *Presentations*: [LPI 2021](https://www.hou.usra.edu/meetings/terrestrialanalogs2021/pdf/8061.pdf), journal publications *in prep*
 <br> <br>

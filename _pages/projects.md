@@ -113,7 +113,10 @@ author_profile: true
 
 # Undergraduate
 
-## Groundwater Hydrology, Benin Africa
+## Groundwater Hydrology, Benin, West Africa
+
+| <img src="/images/projects/Benin/Benin_01.jpg" width="200" height="100" style="display: block; margin: auto;"/> | <img src="/images/projects/Benin/Benin_02.jpg" width="100" height="200" style="display: block; margin: auto;"/> | <img src="/images/projects/Benin/Benin_03.jpg" width="200" height="100" style="display: block; margin: auto;"/> |
+
 * *Description*: International collaboration between the University of Notre Dame and University Abomey Calavi studying salt water intrusion into the coastal aquifers surrounding the capital city of Cotonou. (Advisor: Dr. Stephen Silliman)
 
 * *Contributions*: Conducted hydrology measurements at remote field sites to study costal saltwater intrusion over two summers. Lead small international team in field work, taught sampling methods, designed low-cost hydraulic field instruments, analyzed groundwater models. 

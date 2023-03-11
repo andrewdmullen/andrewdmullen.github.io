@@ -20,25 +20,31 @@ I currently work as a Senior Research Engineer at [Cornell University](https://a
 
 ### Results Published In
 
-* [Journals](https://andrewdmullen.github.io/publications) including: *Nature*, *Nature Geoscience*, *Nature Communications*, *Planetary Science Journal*  
-* [Media](https://andrewdmullen.github.io/media) outlets including: *New York Times*, *BBC*, *Washington Post*, *Scientific American*
+* [Journals](https://andrewdmullen.github.io/publications): *Nature*, *Nature Geoscience*, *Nature Communications*, *Planetary Science Journal*  
+* [Media Outlets](https://andrewdmullen.github.io/media): *New York Times*, *BBC*, *Washington Post*, *Scientific American*
 <br>
-
-### Project Examples 
-
-* [Underwater Imaging Systems](https://www.nature.com/articles/ncomms12093): development of a custom instruments including submersible diver operated microscope, an underwater particle imaging velocimetry system, and a submersible digital holographic microscope 
-* [Icefin Underwater Robot](https://schmidt.astro.cornell.edu/icefin/?playlist=1769ca3&video=6f76132): member of the operations and development team of Icefin, a custom remotely operated underwater vehicle designed for polar exploration
-* [Life Detection Payloads](https://iopscience.iop.org/article/10.3847/PSJ/aca6ed): development of conceptual life detection payloads and concept missions to explore "ocean worlds" in our solar system such as Europa 
 
 ### Funding & Awards
 
-* Fellowships including: *NASA Postdoctoral Program (NPP)*, *NSF Graduate Research Fellowship Program (GRFP)*, *Link Ocean Engineering Ph.D. Fellowship*, *NOAA Hollings Scholarship*
+* Fellowships: *NASA Postdoctoral Program (NPP)*, *NSF Graduate Research Fellowship Program (GRFP)*, *Link Ocean Engineering Ph.D. Fellowship*, *NOAA Hollings Scholarship*
 * Awards & Honors: *Microscopy Today Innovation Award*, *Antarctic Service Medal*
 * Performed engineering and operations work on projects funded by: *NSF Office of Polar Programs*, *NASA Astrobiology Program*, *NASA Planetary Science and Technology from Analog Research (PSTAR) Grants*
 
-### Field Work
+### [Project Examples](https://andrewdmullen.github.io/projects/) 
 
-* Conducted [field research](https://andrewdmullen.github.io/fieldwork/) seasons in: Antarctica (x3), the Arctic (x2), the Red Sea (x2), the Caribbean (x2), West Africa (x2), and the Pacific. 
+* Underwater Imaging Systems: development of a custom instruments including submersible diver operated microscope, an underwater particle imaging velocimetry system, and a submersible digital holographic microscope 
+* Icefin Underwater Robot: member of the operations and development team of Icefin, a custom remotely operated underwater vehicle designed for polar exploration
+* Life Detection Payloads: development of conceptual life detection payloads and concept missions to explore "ocean worlds" in our solar system such as Europa 
+
+### Technical Skills
+* Computing: data analysis, image processing, computer vision [Python, Matlab]
+* Electrical: PCB design, embedded electronics [Eagle CAD]
+* Mechanical: mechanical design, pressure housing design [Solid Works]
+* Optical: imaging systems, microscopy, holography, computational imaging
+
+### [Field Work](https://andrewdmullen.github.io/fieldwork/)
+
+* Conducted field research seasons in: Antarctica (x3), the Arctic (x2), the Red Sea (x2), the Caribbean (x2), West Africa (x2), and the Pacific. 
 * Performed research utilizing: scientific diving, research vessels, underwater robotic vehicles, towed ocean payloads, and geophysical instrumentation.
 
 

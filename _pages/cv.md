@@ -23,23 +23,23 @@ Full CV:
 
 <iframe src="https://docs.google.com/gview?url=http://andrewdmullen.github.io/files/CV_Mullen_March2023.pdf&embedded=true" style="width:1000px; height:400px;" frameborder="0"></iframe>
 
-### SUMMARY
+## SUMMARY
 * Engineer and scientist with over 10 years of experience on NASA and NSF technology development projects.
 * Designed and built scientific tools integrating optics, computing, electrical engineering, and mechanical design.
 * Experienced as a member and leader of cross-functional teams developing tools from concept to field deployable systems; then operating these instruments in harsh polar and marine field settings.
 
-### EDUCATION
+## EDUCATION
 * Ph.D. in Electrical Engineering, UC San Diego (2018)
 * M.S. in Oceanography, UC San Diego (2015)
 * B.S. in Civil Engineering, University of Notre Dame, *Magna Cum Laude* (2011)
 
-### PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 * Senior Research Engineer, Cornell University (2022-Present) <br>
 * Postdoctoral Fellow, Georgia Institute of Technology (2018-2022) <br>
 * Visiting Researcher, University of Otago, New Zealand (Fall 2021)<br>
 * Visiting Postdoctoral Researcher, NASA Jet Propulsion Lab (Summer 2019)
 
-### AWARDS & HONORS
+## AWARDS & HONORS
 * 2021	Antarctic Service Medal <br>
 * 2018	NASA Postdoctoral Program (NPP) Fellowship <br>
 * 2017	Microscopy Today Innovation Award <br>
@@ -50,15 +50,15 @@ Full CV:
 * 2011	University of California Regents Fellowship <br>
 * 2009	NOAA Hollings Scholarship <br>
 
-### ENGINEERING & RESEARCH SKILLS
-#### Technical Skills
+## ENGINEERING & RESEARCH SKILLS
+### Technical Skills
 * **Computing**: data analysis, image processing, computer vision [*Python*, *Matlab*]
 * **Electrical**: PCB design, implementation of embedded computers and micro-controllers [*Eagle*, *Python*]
 * **Mechanical**: mechanical design, pressure housing design, 3D printing [*Solid Works*]
 * **Optical**: imaging systems, microscopy, holography, computational imaging 
 * **Fluidic**: PIV & PTV observations, fluid dynamics, water sampling systems
 
-#### Engineering Design & Management
+### Engineering Design & Management
 * **Management**: coordinated stakeholders, defined engineering requirements, managed timelines and budgets <br>
 * **Requirements**: designed systems for operation underwater, at low temperatures, in compact form factors <br>
 * **Communication**: wrote technology grant proposals, communicated results through technical papers and talks <br>
@@ -66,26 +66,26 @@ Full CV:
 * **Systems Engineering**: integrated optical, electrical, mechanical, and software subsystems <br>
 
 
-#### Field Operations & Logistics
+### Field Operations & Logistics
 * **Planning**: collaboratively developed field objectives, mission plans, team roles, and operating procedures 
 * **Logistics**: coordinated international shipping, identified and acquired field operational equipment
 * **Teamwork**: performed tightly coordinated team operations in dynamic environments, experienced in both support and leadership roles, member of diverse international field teams of varying size (2-20+ members)
 * **Settings**: conducted research in polar, marine, and wetland environments; including isolated settings
 * **Platforms**: deployed instrumentation using ROVs, research vessels, SCUBA, and snow mobile
 
-### MENTORING & SERVICE
-#### Teaching Assistant
+## MENTORING & SERVICE
+### Teaching Assistant
 * SIO 130 Scientific Diving - classroom work & ocean SCUBA sessions
 * SIO 60 Experiences in Ocean and Atmospheric Sciences - classroom, lab, and field sessions including boat work
 
-#### Advising & Mentoring
+### Advising & Mentoring
 * Scripps Peer-Mentorship Program - founding team and leadership committee member, mentor for PhD students Ludovic Tenorio and Madeleine Harvey
 * Univ. of San Diego Senior Engineering Capstone Project , “A low-cost, submersible, digital holographic microscope for in situ microbial imaging”, (2021)
 * Carl Snyder (Portland St. PhD student), JPL summer intern, Holographic Microscopy, (2019)
 * Adela DePavia (Yale undergraduate student), SIO Summer Intern, Fish Scale Microfluidics, (2017)
 * Peer Mentor: Madeline Harvey & Ludovic Tenorio, 2014-2016
 
-#### Service
+### Service
 * Proposal reviewer: NASA PICASSO, NASA FINNEST
 * Community Workshops: Future of the Search for Life (FoSL) Science and Engineering Workshop (2021)
 

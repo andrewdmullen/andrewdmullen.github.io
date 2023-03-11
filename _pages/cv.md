@@ -1,25 +1,27 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 ---
 
+## Resume, one page 
 <p>
 One Page Resume: 
 <a href="http://andrewdmullen.github.io/files/Resume_Mullen_March2023.pdf">Download </a>
 <br>
 </p>
 
-<iframe src="https://docs.google.com/gview?url=http://andrewdmullen.github.io/files/Resume_Mullen_March2023.pdf&embedded=true" style="width:1000px; height:500px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/gview?url=http://andrewdmullen.github.io/files/Resume_Mullen_March2023.pdf&embedded=true" style="width:1000px; height:400px;" frameborder="0"></iframe>
 
+## Curriculum Vitae, detailed
 <p>
 Full CV: 
 <a href="http://andrewdmullen.github.io/files/CV_Mullen_March2023.pdf">Download </a>
 <br>
 </p>
 
-<iframe src="https://docs.google.com/gview?url=http://andrewdmullen.github.io/files/CV_Mullen_March2023.pdf&embedded=true" style="width:1000px; height:500px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/gview?url=http://andrewdmullen.github.io/files/CV_Mullen_March2023.pdf&embedded=true" style="width:1000px; height:400px;" frameborder="0"></iframe>
 
 ### SUMMARY
 * Engineer and scientist with over 10 years of experience on NASA and NSF technology development projects.

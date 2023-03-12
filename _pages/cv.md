@@ -89,6 +89,22 @@ Full CV:
 * Proposal reviewer: NASA PICASSO, NASA FINNEST
 * Community Workshops: Future of the Search for Life (FoSL) Science and Engineering Workshop (2021)
 
+
+## Funded Projects
+
+Engineer and/or operational member on the following project grants:
+
+* 2019-2023 - “Oceans Across Space & Time (OAST)”, NASA Astrobiology Program, Award 80NSSC18K1301, PI: BE Schmidt
+* 2021-2022 - “Unravelling the Role of Subglacial Channels in Ice Stream Evolution”, NSF Office of Polar Programs grant, Award #2152742, PI: BE Schmidt
+* 2021 - “Supercooling measurements under ice shelves”, New Zealand Marsden Fund grant, Award MFP-UOO1825 PI: I Smith, Co-I: BE Schmidt
+* 2019-2021 - “Vertical Entry Robot for Navigating Europa (VERNE)”, NASA Scientific Exploration Subsurface Access Mechanism for Europa (SESAME) grant, Award 80NSSC19K0615, PI: BE Schmidt
+* 2021 - “Pingo SubTerranean Aquifer Reconnaissance and Reconstruction (Pingo STARR)”, NASA Planetary Science and Technology from Analog Research (PSTAR) grant, PI: BE Schmidt
+* 2019-2020 - “Melting at Thwaites Grounding Zone and its Control on Sea Level (THWAITES-MELT)”, NSF-NERC Office of Polar Programs grant, Award #1739003, (International Thwaites Glacier Collaboration [ITGC]), PI: D Holland, Co-I: BE Schmidt 
+* 2018-2020 - “Ross Ice Shelf and Europa Underwater Probe (RISEUP)”, NASA Planetary Science and Technology from Analog Research (PSTAR) grant, Award NNX16AL07G, PI: BE Schmidt
+* 2018-2020 - “Digital Holographic Microscopy on the Icefin Underwater Antarctic Vehicle: Technology & Science Development for Icy Worlds”, NASA Postdoctoral Program fellowship, Lead: AD Mullen, Advisor: BE Schmidt
+* 2014 - “A Novel In Situ Microscope for Studying Benthic Organisms”, Link Ocean Engineering & Instrumentation PhD Fellowship Program, Lead: AD Mullen, Advisor: JS Jaffe
+* 2012-2016 - NSF Graduate Research Fellowship Program (GRFP) grant, Award DGE-1144086, Lead: AD Mullen, Advisor: JS Jaffe
+
 <!---
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&amp;url=http://andrewdmullen.github.io/files/CV_Mullen_March2023.pdf" height="350" type="application/pdf" target="_blank" />
 

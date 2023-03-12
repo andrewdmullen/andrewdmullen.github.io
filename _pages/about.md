@@ -21,8 +21,8 @@ I currently work as a Senior Research Engineer at [Cornell University](https://a
 ### Results Published In
 
 * [Peer Reviewed Journals](https://andrewdmullen.github.io/publications): *Nature*, *Nature Geoscience*, *Nature Communications*, *Planetary Science Journal*  
-* [Conference Articles](https://andrewdmullen.github.io/publications): *IEEE Oceanic Engineering Society*, *Optical Society of America*, *American Institute of Aeronautics and Astronautics*
-* [Media Outlets](https://andrewdmullen.github.io/media): *New York Times*, *BBC*, *Washington Post*, *Wall Street Journal*, *Scientific American*
+* [Conference Papers](https://andrewdmullen.github.io/publications): *Optical Society of America*, *IEEE Oceanic Engineering Society*,  *American Institute of Aeronautics and Astronautics*
+* [Media Outlets](https://andrewdmullen.github.io/media): *New York Times*, *BBC*, *Washington Post*, *Wall Street Journal*, *PBS*, *Scientific American*
 <br>
 
 ### Funding & Awards
@@ -38,10 +38,11 @@ I currently work as a Senior Research Engineer at [Cornell University](https://a
 * Life Detection Payloads: development of conceptual life detection payloads and concept missions to explore "ocean worlds" in our solar system such as Europa 
 
 ### Technical Skills
-* Computing: data analysis, image processing, computer vision, [*Python*, *Matlab*]
-* Electrical: PCB design,  implementation of embedded computers and micro-controllers, [*Eagle*, *Python*]
-* Mechanical: mechanical design, pressure housing design, [*Solid Works*]
+* Computing: data analysis, image processing, computer vision [*Python*, *Matlab*]
+* Electrical: PCB design,  implementation of embedded computers and micro-controllers [*Eagle*, *Python*]
+* Mechanical: mechanical design, pressure housing design [*Solid Works*]
 * Optical: imaging systems, microscopy, holography, computational imaging
+* Fluidic: particle tracking velocimetry observations, fluid dynamics, water sampling systems
 
 ### [Field Work](https://andrewdmullen.github.io/fieldwork/)
 

@@ -109,7 +109,7 @@ author_profile: true
 
 * *Outcomes*: Successfully tracked egg cloud and mapped egg densities in water column over multiple spawning nights.
 
-* *Presentations*: [Stock BC, Mullen A, et. al. 69th Annual Gulf and Caribbean Fisheries Institute, 2016](http://proceedings.gcfi.org/wp-content/uploads/2018/10/GCFI_69_97.pdf), [Stock BC, Mullen A, et. al. 70th Annual Gulf and Caribbean Fisheries Institute, 2017](http://proceedings.gcfi.org/wp-content/uploads/2020/08/70-GCFI-PDF-44.pdf), jouirnal publication submitted
+* *Presentations*: [Stock BC, Mullen A, et. al. 69th Annual Gulf and Caribbean Fisheries Institute, 2016](http://proceedings.gcfi.org/wp-content/uploads/2018/10/GCFI_69_97.pdf), [Stock BC, Mullen A, et. al. 70th Annual Gulf and Caribbean Fisheries Institute, 2017](http://proceedings.gcfi.org/wp-content/uploads/2020/08/70-GCFI-PDF-44.pdf), journal publication accepted for publication in *Proceedings of the Royal Society B: Biological Sciences*
 <br> <br>
 
 # Undergraduate

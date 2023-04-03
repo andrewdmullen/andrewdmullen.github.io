@@ -36,7 +36,11 @@ JD Lawrence (co-lead), **AD Mullen** (co-lead), FE Bryson, CJ Chivers, AM Hanna,
 
 | <img src="/images/publications/SSSLOW_Fig1_FullResolution.png" width="500" height="250" style="display: block; margin: auto;"/> Fig 1. Conceptual diagram of the SSSLOW payload. (A life detection package concept for future sub-surface missions to "Ocean Worlds" such as Europa and Enceladus.)|
 
-
+* **"Development of the Miniature Robotic Electrodialysis (MR ED) System for Small-Scale Desalting of Liquid Samples With Recovery of Organics",  Earth and Space Science (2023)**
+FE Bryson, ED Ingall, AM Hanna, M Cardelino, T Plattner, MR Meister, JD Lawrence, **AD Mullen**, D Dichek, BE Schmidt <br>
+[http://dx.doi.org/10.1029/2022EA002620](http://dx.doi.org/10.1029/2022EA002620) (Open Access)
+<br> 
+ 
 * **“Underwater Microscopy for In Situ Studies of Benthic Ecosystems”, Nature Communications (2016)** <br>
 **AD Mullen** (co-lead), T Treibitz (co-lead), PLD Roberts, ELA Kelly, R Horwitz, JE Smith, JS Jaffe <br>
 [https://doi.org/10.1038/ncomms12093](https://doi.org/10.1038/ncomms12093) (Open Access)

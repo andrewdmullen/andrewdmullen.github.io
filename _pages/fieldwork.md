@@ -15,11 +15,12 @@ author_profile: true
 ## Scientific Field Work
 
 ### Research Engineer & Post Doctoral Fellow
+* 2023 - Tuktoyaktuk, Canadian Arctic (2 weeks) - Geophysical surveys of pingo ice formations using towed radar and capacitive-coupled resistivity instruments. 
 * 2021 - Antarctic Field Season, Antarctica New Zealand (Oct 2021 - Jan 2022)
 	* Kamb Ice Stream, Project K862 (5 weeks, 1 Icefin ROV deployment) - Exploration of subglacial channel with ROV, genomic sampling of subglacial water, geophysical surveys, operations from remote field camp. - [The Conversation](https://theconversation.com/exploring-antarcticas-hidden-under-ice-rivers-and-their-role-in-future-sea-level-rise-176456)
 	* Scott Base, Project K750 (4 weeks, 5 Icefin ROV deployments) – ROV hydrographic survey of Scott Base coast.
 	* McMurdo Sound, Project K063 (3 weeks, 8 Icefin ROV deployments) - Investigation of supercooling with ROV, deployment of submersible holographic microscope, operations from containerized sea ice camp. - [ANZ](https://www.antarcticanz.govt.nz/media/news/the-hippest-supercool-science-on-earth), [NewsHub](https://www.newshub.co.nz/home/technology/2022/01/kiwi-led-antarctic-hipsmi-project-hoped-to-help-with-climate-change-understanding.html)
-* 2021 - Deadhorse, Alaska (3 weeks) – Geophysical surveys of pingo ice formations using snow mobiles. 
+* 2021 - Deadhorse, Alaska (3 weeks) – Geophysical surveys of pingo ice formations using towed radar and capacitive-coupled resistivity instruments. 
 * 2019 - Antarctic Field Season, US Antarctic Program (Oct 2019 - Feb 2020)
 	* International Thwaites Glacier Collaboration, Project C444 (4 weeks, 5 Icefin ROV deployments) – Oceanographic exploration of Thwaites grounding zone, ROV deployments through 500 m deep borehole, operations from remote field camp. - [ITGC](https://thwaitesglacier.org/projects/melt), [BBC Video](https://www.youtube.com/watch?v=f0AWsJ0cmLE), [BBC Camp Tour](https://www.bbc.com/news/av/science-environment-51333191)
 	* McMurdo Station, Project B041 (13 weeks, 10 Icefin ROV deployments) – ROV surveys from sea ice.

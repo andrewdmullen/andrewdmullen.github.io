@@ -36,7 +36,7 @@ var addressPoints = [
   -75.20760, -104.82518
   ],
   [
-  "<u>Research</u> <br> Location: Prudhoe Bay, Alaska <br> Date: Spring 2022 (3 weeks) <br> Project: Pingo Ice Hill Study <br> Member Institution: Georgia Institute of Technology", 
+  "<u>Research</u> <br> Location: Prudhoe Bay, Alaska <br> Date: Spring 2022 (3 weeks) <br> Project: Pingo Ice Formation Study <br> Member Institution: Georgia Institute of Technology", 
   70.2002, -148.4597
   ],
   [
@@ -51,7 +51,10 @@ var addressPoints = [
   "<u>Research</u> <br> Location: Kamb Ice Stream, Antarctica <br> Date: Winter 2022-23 (5 weeks) <br> Project: Icefin, Kamb Ice Stream <br> Member Institution: Georgia Institute of Technology <br> Collaborators: Antarctica New Zealand (ANZ)", 
   -82.47051, -152.29051
   ],
-
+  [
+  "<u>Research</u> <br> Location: Tuktoyuktuk, Canada <br> Date: Spring 2023 (2 weeks) <br> Project: Pingo Ice Formation Study <br> Member Institution: Cornell University", 
+  69.4454, -133.0342
+  ],
 
 
   [

@@ -59,11 +59,11 @@ author_profile: true
 
 | <img src="/images/projects/Pingo/Pingo_01.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> | <img src="/images/projects/Pingo/Pingo_02.png" width="1000" height="500" style="display: block; margin: auto;"/> | <img src="/images/projects/Pingo/Pingo_03.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> |
 
-* *Description*: Pingos are ice cored hills which exist on earth and potentially other planetary bodies. This NASA PSTAR (Planetary Science and Technology from Analog Research) project is investigating Pingos with conductivity, radar, and magnetotelluric techniques. - [Pingo STARR Homepage](https://schmidt.astro.cornell.edu/pingo-starr/)
+* *Description*: Pingos are ice cored hills which exist on earth and potentially other planetary bodies. This NASA PSTAR (Planetary Science and Technology from Analog Research) project is investigating Pingos with ground penetrating radar, conductivity, and magnetotelluric techniques. - [Pingo STARR Homepage](https://schmidt.astro.cornell.edu/pingo-starr/)
 
-* *Contributions*: Lead field engineer on Pingo STARR season surveying Pingos in the Arctic.
+* *Contributions*: Lead field engineer on two field season surveying Pingos in the Arctic.
 
-* *Outcomes*: Team utilized of multiple geophysical instruments to provide new measurements of Pingo subsurface structure, with data anylsis is still ongoing.
+* *Outcomes*: Team utilized of geophysical instruments to provide new measurements of Pingo subsurface structure, with data anylsis is still ongoing.
 
 * *Presentations*: [LPI 2021](https://www.hou.usra.edu/meetings/terrestrialanalogs2021/pdf/8061.pdf), journal publications *in prep*
 <br> <br>

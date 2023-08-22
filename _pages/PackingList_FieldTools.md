@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Field Tool Packing List"
+title: "Packing List - Field Tool Kit"
 permalink: /PackingList_FieldTools/
 author_profile: true
 ---
@@ -184,7 +184,7 @@ You may not need all these for all projects -- use this as a guide to jog your m
 	-   Components: resistors, capacitors, led, transistors, dc-dc voltage converters 
 
 
-## Rigging Kit 
+## Rope & Rigging Kit 
 - Rigging Lines
 	- Rope
 		- Dynamic

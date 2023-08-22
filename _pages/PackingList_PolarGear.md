@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Polar Packing List"
+title: "Packing List - Polar Clothes & Personal Gear"
 permalink: /PackingList_PolarGear/
 author_profile: flase
 ---
-# Polar Field Work Packing List: Personal Clothing & Gear
 
 ## General Clothing Advice
 
@@ -132,7 +131,9 @@ Note: This is the gear I would take but many people have different pereferences,
 	- Watch - 2x - Timex Ironman
 	- Headphones - 1x - Shokz Headphones
 	- Satellite Communication - 1x - InReach
-	- External Hard Drive
+	- External Hard Drive - 1x
+	- USB THumb Drive - 1-2x - (USB-A & USB-C)
+	- USB Adapter - 1x - USB-A to USB-C
 	- Power Brick - 1x - make sure it is under 100 watt hours in order to fly, if it has usb-c out it may also be used to charge your computer
 	- Headlamp - 1x - Petzl Tika + Batteries, it may be light 24-7 but this can still be useful for looking into fuel tanks etc.
 	- Electric Lighter - 1x - Explorer
@@ -153,11 +154,13 @@ Note: This is the gear I would take but many people have different pereferences,
 	- Post Cards + Address list of friends & family
 
 - Documents 
-	- ID - Drivers Liscence, Passport
+	- ID - Passport Drivers Liscence
 	- Money - Cash, Credit Cards
 	- International Calling Card - may be needed to call out of base
 	- Travel Documents - Travel Visa (if leaving US), Letter with university letterhead explaining travel (useful for gear), Airlines document explaining battery rules (useful for gear), Carnet or other import / export documentation, Hazardous Materials SDS
 	- Reservations - Plane Tickets, Hotel Reservations 
+	- Medical Documents - Insurance Card, Vacination Records, Medical / PQ Forms
+	- Field Documents - Permits, Maps, Medical Info, Safety/Emergency Plans, Emergency Contacts
 
 - Personal Care
 	- Sunscreen - Dermatone
@@ -168,6 +171,8 @@ Note: This is the gear I would take but many people have different pereferences,
 	- Hand Sanatizer
 	- Travel Towel
 	- Tweezers, Nail Cips
+	- Bug Spray (not need in Antarctica)
+	- Perscriptions
 
 - Toiletries 
 	- Toothbrush
@@ -179,18 +184,20 @@ Note: This is the gear I would take but many people have different pereferences,
 	- Q-Tips
 
 - Personal First Aid Kit
-	- Ibuprofen (Advil)
-	- Acetaminophen (Tylenol)
-	- Antihistamine (Benadryl)
-	- Loperamide (Imodium)
-	- Antacid (Tums)
-	- Decongestant (Mucinex)
-	- Fiber Pills
-	- Cough Drops
-	- Anti-Bacterial (Neosporin)
-	- Wound Care (Bandaids, Quick Clot)
-	- Blister Care (Moleskin)
-	- Medical Tape (Leukotape, Athletic Tape, Gauze)
+	- Medication
+		- Ibuprofen (Advil)
+		- Acetaminophen (Tylenol)
+		- Antihistamine (Benadryl)
+		- Loperamide (Imodium)
+		- Antacid (Tums)
+		- Decongestant (Mucinex)
+		- Fiber Pills
+		- Cough Drops
+	- Wound Care
+		- Anti-Bacterial (Neosporin)
+		- Wound Care (Bandaids, Quick Clot)
+		- Blister Care (Moleskin)
+		- Medical Tape (Leukotape, Athletic Tape, Gauze)
 
 - Kitchen Ware
 	- Insulated Thermos - Yeti, Hydroflask
@@ -213,7 +220,7 @@ Note: This is the gear I would take but many people have different pereferences,
 - Apps & Digital Downloaded Documents
 	- Phone Apps - Phone aps associated with any communication device such Garmin InReach or Iridium Go.
 	- Useful field guides - USAP field guide, BAS field guide, etc.
-	- Useful technical information repositories - Icefin documentation, Python manual and packages manuals, Wikipedia, etc.
+	- Useful technical information repositories - Icefin documentation, Instrumnent Manuals & Standard Operating Procedures (SOPs), Python manual and packages manuals, Wikipedia, etc.
 
 ## Packing Advice
 

@@ -49,10 +49,10 @@ Here is a collection of resources and links I have found useful:
 	* Rigging: 4 to 1 pulley system, 3 to 1 Z-pulley, ice anchor, deadman snow anchor
 * Engines
 	* [USAP Field Guide](https://www.usap.gov/USAPgov/travelAndDeployment/documents/USAP-Continental-Field-Manual.pdf): Snowmobiles, Generators, and Renewable Energy Power Systems - page 56-63
-	* Types: 4 stroke, 2 stroke
+	* Types: 4 stroke (intake, compression, power, and exhaust), 2 stroke (intake/compression, power/exhaust)
 	* Fuels: avgas, mogas, premix, diesel 
-	* Controls: throttle, choke, primer
-	* Major components: carburetor, piston, spark plug, belt
+	* Controls: throttle, choke, priming
+	* Components: carburetor, piston, injector, spark plug, crankshaft, belt
 * Communications
 * Navigation
 * First Aid
@@ -88,7 +88,7 @@ Here is a collection of resources and links I have found useful:
 * Optics: [iBio Microscopy](https://www.youtube.com/watch?v=EAdEZzY0R6Y&list=PLQFc-Dxlf4pSHREZvz41xHFSEp65iNkBL), [DresdenIFN, image formation](https://www.youtube.com/@DresdenIFN), [MIT Lasers and Optics](https://www.youtube.com/watch?v=1cEXNLP5uE0&list=PL4E7FAAD67B171EBC), [Huygen Optics](https://www.youtube.com/@HuygensOptics)
 * Fluid Mechanics: [NSF Fluid Mechanics Series](https://www.youtube.com/watch?v=mdN8OOkx2ko&list=PL0EC6527BE871ABA3)
 * Math: [3 Blue 1 Brown](https://www.youtube.com/@3blue1brown), [Numberphile](https://www.youtube.com/@numberphile)
-* Control Theory: [Brian Douglas](https://www.youtube.com/@ControlLectures)
+* Control Theory & Robotics: [Brian Douglas](https://www.youtube.com/@ControlLectures), [Cyrill Stachniss](https://www.youtube.com/@CyrillStachniss)
 * Machine Learning: [Stat Quest](https://www.youtube.com/@statquest), [Stanford CS 229 - Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU), [Stanford CS231n - Computer Vision](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ), [deeplearning.ai](deeplearning.ai)
 * Design: [Everything's A Remix](https://www.youtube.com/watch?v=nJPERZDfyWc)
 * Thwaites Glacier: [Vox - Why scientists are so worried about this glacier](https://www.youtube.com/watch?v=XRUxTFWWWdY), [ABC News - A huge Antarctic glacier is ripping itself apart and the 'Doomsday Glacier' could be next](https://www.youtube.com/watch?v=aaRwkLb2k9U)

@@ -90,7 +90,7 @@ Full CV:
 * Community Workshops: Future of the Search for Life (FoSL) Science and Engineering Workshop (2021)
 
 
-## Funded Projects
+## Projects
 
 Engineer and/or operational member on the following project grants:
 

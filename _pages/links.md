@@ -7,13 +7,7 @@ author_profile: true
 
 Here is a collection of links and resources I have found useful:
 
-### Tutorials
-* Math: [Better Explained](https://betterexplained.com/), [Better Explained - Fourier Transforms](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/), [Better Explained - Euler's Formula](https://betterexplained.com/articles/intuitive-understanding-of-eulers-formula/), [Better Explained - Intuitive Guide to Convolution](https://betterexplained.com/articles/intuitive-convolution/) [Kahn Academy](https://www.khanacademy.org/)
-* Optics: [Thorlabs Optical Microscopy Course](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=11630#ad-image-0), [Thorlsbs Optical Microscopy Course - Course Notes PDF](https://www.thorlabs.com/drawings/8441507aaff2ff40-6E522E5F-CA83-CE8F-A35F0F2023F8CF95/EDU-OMC1-CourseNotes.pdf), [MicroscopyU](https://www.microscopyu.com/)
-* Control Theory: [https://github.com/A-make/awesome-control-theory](https://github.com/A-make/awesome-control-theory)
-* Website Design: [https://jayrobwilliams.com/posts/2020/06/academic-website/](https://jayrobwilliams.com/posts/2020/06/academic-website/)
-* Website gifs made using "gifski"
-	
+
 ### Educational Videos / YouTube 
 * Engineering: [Applied Science](https://www.youtube.com/channel/UCivA7_KLKWo43tFcCkFvydw), [Stuff Made Here](https://www.youtube.com/@StuffMadeHere), [Mark Rober](https://www.youtube.com/@MarkRober)
 * Computers: [PBS Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo), [Ben Eater](youtube.com/@BenEater), [Computerphile](https://www.youtube.com/@Computerphile)
@@ -30,6 +24,7 @@ Here is a collection of links and resources I have found useful:
 ### Books, Popular Science & Engineering
 * Technical Books
 	* Math: "Div Grad Curl and All That: An Informal Text on Vector Calculus", "Partial Differential Equations for Scientists and Engineers"
+	* Optics: ["Optics"](https://edisciplinas.usp.br/pluginfile.php/5054148/mod_resource/content/1/Hecht-optics-5ed.pdf) by Eugene Hecht, [Thorlabs Optical Microscopy Course](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=11630#ad-image-0), [Thorlsbs Optical Microscopy Course - Course Notes PDF](https://www.thorlabs.com/drawings/b5ab8516798300bc-2D8BD778-0048-D8DE-63E73AD2C83B5212/EDU-OMC1-CourseNotes.pdf), 
 	* Fluid Dynamics: ["A First Course in Turbulence"](https://direct.mit.edu/books/book/4831/A-First-Course-in-Turbulence), "Biology and the Mechanics of the Wave-Swept Environment" (Chapters 9 Benthic Boundary Layers,  Chapter 10 Turbulence and Mixing)
 
 * Popular Science
@@ -37,6 +32,13 @@ Here is a collection of links and resources I have found useful:
 	* Light Physics: "QED: The Strange Theory of Light and Matter"
 	* Computer Fundementals: "Code: The Hidden Language of Computer Hardware and Software", "But How Do It Know?: The Basic Principles of Computers for Everyone"
 	* Design etc.: "Where Good Ideas Come From: The Natural History of Innovation", "Envisioning Information"
+
+### Tutorials
+* Math: [Better Explained](https://betterexplained.com/), [Better Explained - Fourier Transforms](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/), [Better Explained - Euler's Formula](https://betterexplained.com/articles/intuitive-understanding-of-eulers-formula/), [Better Explained - Intuitive Guide to Convolution](https://betterexplained.com/articles/intuitive-convolution/) [Kahn Academy](https://www.khanacademy.org/)
+* Optics: [MicroscopyU](https://www.microscopyu.com/)
+* Control Theory: [https://github.com/A-make/awesome-control-theory](https://github.com/A-make/awesome-control-theory)
+* Website Design: [https://jayrobwilliams.com/posts/2020/06/academic-website/](https://jayrobwilliams.com/posts/2020/06/academic-website/)
+* Website gifs made using "gifski"
 
 ### STEM: Fellowships, Scholarships, Internships, Field Schools
 * Undergraduate
@@ -64,7 +66,8 @@ Here is a collection of links and resources I have found useful:
 
 ### Field Work
 * Packing Lists
-	* [Polar Field Work Personal Gear List](https://andrewdmullen.github.io/polarpackinglist/)  
+	* [Polar Field Work Personal Gear List](https://andrewdmullen.github.io/PackingList_PolarGear/) 
+	* [General Field Tool List](https://andrewdmullen.github.io/PackingList_FieldTools/)  
 * Field Guides
 	* Polar: [US Antarctic Program - Field Manual](https://www.usap.gov/usapgov/travelAndDeployment/documents/ASC-18-025.pdf),  [Antarctica New Zealand - Field Manual](https://www.adam.antarcticanz.govt.nz/nodes/view/64579), [INTERACT Practical Field Guide](https://eu-interact.org/app/uploads/2019/09/INTERACT-Practical-Field-Guide.pdf)
 	* Diving: [NOAA dive manual](http://www.omao.noaa.gov/sites/default/files/documents/NDSSM%20Final_041217.pdf), [NOAA small boat manual](http://www.omao.noaa.gov/sites/default/files/documents/2018%200430%20SBS%26PM%204.1.pdf)
@@ -80,7 +83,7 @@ Here is a collection of links and resources I have found useful:
 * Additional
 	* American Academy of Underwater Sciences, Scientific Diving: [https://www.aaus.org](https://www.aaus.org) 
 	* University-National Oceanographic Laboratory System (UNOLS), US Research Vessels: [https://www.unols.org](https://www.unols.org)
-	* [US Army Guide to Rigging Techniques, Procedures, and Applications](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tm3_34x86.pdf)(Technical Manual No. 3-34.86/Marine Corps)
+	* US Armed Forces Guide to Rigging (TM 3-34.86): [Rigging Techniques, Procedures, and Applications](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tm3_34x86.pdf)
 
 ### Companies & Vendors
 (Not a comprehensive list but a good starting point)
@@ -117,13 +120,14 @@ Here is a collection of links and resources I have found useful:
 * Companies & Vendors - Polar Field Equipment
 	* Tents: [Airframes Alaska](https://www.airframesalaska.com) (Arctic Oven), [Rac Tent] (https://www.ractent.com) (Rac-Tent), [Weatherhaven] (https://www.weatherhaven.com/) (Polarhaven, Endurance), [Ratcliffe-Ellis](http://www.ratcliffe-ellis.com/) (Scott Pyramid Tents)
 	* Sleds: [Yukon Expedition Sleds](https://www.yukonsleds.com) (Arctic Nomad Sleds etc.), [Airframes Alaska / Northern Sled works](https://www.airframesalaska.com) (Siglin Sleds), [Ratcliffe-Ellis](http://www.ratcliffe-ellis.com/) (Nansen & Komatik Sleds)
-	* Drills: [Kovacs Drills](https://kovacsicedrillingequipment.com), Jiffy Drills
-	* Generators: [Honda](https://powerequipment.honda.com/)
-	* Communication: [Garmin](https://www.garmin.com/) (satellite messangers), [Iridium](https://www.iridium.com/) (satellite phones), Motorola (two way radios)
+	* Ice Drills: [Kovacs Drills](https://kovacsicedrillingequipment.com), Jiffy Drills
 	* Ground Transportation: Snowmobile, [Pistenbully] (https://www.pistenbully.com/), Hagglund
 	* Air Transportation: Twin Otter (DHC6) - [Kenn Borek Air](https://borekair.com/), Basler (DC3) - [Kenn Borek Air](https://borekair.com/), LC-130 (Hercules) - [New York Air National Guard, 109AW](https://en.wikipedia.org/wiki/109th_Airlift_Wing)
 
-
+* General Outdoors
+	* Ropes & Rigging: Petzl, Kong, Blue Water 
+	* Generators: [Honda](https://powerequipment.honda.com/)
+	* Communication: [Garmin](https://www.garmin.com/) (satellite messangers), [Iridium](https://www.iridium.com/) (satellite phones), Motorola (two way radios)
 
 ### Outdoors
 * Pacific Crest Trail 

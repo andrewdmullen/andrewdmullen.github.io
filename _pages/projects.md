@@ -26,7 +26,7 @@ author_profile: true
 
 
 	
-## VERNE: Vertical Entry Robot for Navigating Europa
+## Vertical Entry Robot for Navigating Europa (VERNE)
 
 | <img src="/images/publications/SSSLOW_Fig1_FullResolution.png" width="400" height="200" style="display: block; margin: auto;"/> <br> *Subsurface Science and Search for Life in Ocean Worlds* <br> Fig 1. Conceptual diagram of the SSSLOW payload. (A life detection package concept for future sub-surface missions to "Ocean Worlds" such as Europa and Enceladus.)| <img src="/images/publications/ASCEND_Bryson_2020_Fig2_LowRes.png" width="1000" height="500" style="display: block; margin: auto;"/> <br> *Vertical Entry Robot for Navigating Europa (VERNE) Mission and System Design* <br> Fig 2. VERNE concept of operations for drilling through Europa's the ice shell.| 
 
@@ -55,18 +55,31 @@ author_profile: true
 
 * *Publication*: journal paper *in prep*, presented at AGU AbSciCon 2022 
 
-## Pingo Sub Terranean Aquifer Reconnaissance and Reconstruction
+## Oceans Across Space & Time (OAST)
 
-| <img src="/images/projects/Pingo/Pingo_01.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> | <img src="/images/projects/Pingo/Pingo_02.png" width="1000" height="500" style="display: block; margin: auto;"/> | <img src="/images/projects/Pingo/Pingo_03.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> |
+| <img src="/images/projects/OAST/OAST_01.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> | <img src="/images/projects/OAST/OAST_02.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> |
+
+* *Description*: The OAST project is a NASA Astrobiology funded effort to study extreme salty environments on Earth as an analog for other planets. The Orca Basin cruise conducted underwater robotic investigations of the hypersaline Orca Basin brine pool, which has a salinity of greater than 7x ocean water and is at a depth of over 2,000m in the Gulf of Mexico. - [OAST Homepage](https://schmidt.astro.cornell.edu/pingo-starr/)
+
+* *Contributions*: Led team which developed a custom physical-chemical instrument package for remotely operated vehicle (ROV). Served as ROV Instrumentation Lead on research cruise. 
+
+* *Outcomes*: Team collected detailed physical-chemical-bio survey of Orca Basin brine pool over the course of 10 ROV dives. ROV and instrument packaged profiled full depth of brine pool.
+
+<br> <br>
+
+## Pingo Sub Terranean Aquifer Reconnaissance and Reconstruction (PINGO STARR)
+
+| <img src="/images/projects/Pingo/Pingo_01.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> | <img src="/images/projects/Pingo/Pingo_2023_01.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> | <img src="/images/projects/Pingo/Pingo_2023_02.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> |
 
 * *Description*: Pingos are ice cored hills which exist on earth and potentially other planetary bodies. This NASA PSTAR (Planetary Science and Technology from Analog Research) project is investigating Pingos with ground penetrating radar, conductivity, and magnetotelluric techniques. - [Pingo STARR Homepage](https://schmidt.astro.cornell.edu/pingo-starr/)
 
-* *Contributions*: Lead field engineer on two field season surveying Pingos in the Arctic.
+* *Contributions*: Lead Field Engineer on two field season surveying Pingos in the Arctic.
 
 * *Outcomes*: Team utilized of geophysical instruments to provide new measurements of Pingo subsurface structure, with data anylsis is still ongoing.
 
 * *Presentations*: [LPI 2021](https://www.hou.usra.edu/meetings/terrestrialanalogs2021/pdf/8061.pdf), journal publications *in prep*
 <br> <br>
+
 
 # Graduate School 
 
@@ -81,7 +94,7 @@ author_profile: true
 
 * *Outcomes*: First system to image seafloor subjects such as corals underwater at micron-scale. Applied system to study coral behavior and bleaching in natural environments.
 
-* *Publications*: [AD Mullen (co-lead), Treibitz (co-lead), et al. Nature Communications 2016](https://doi.org/10.1038/ncomms12093), [Mullen et al. OSA Novel Techniques in Microscopy 2017](https://doi.org/10.1364/ntm.2017.ntu1c.1)
+* *Publications*: [Mullen (co-lead), Treibitz (co-lead), et al. Nature Communications 2016](https://doi.org/10.1038/ncomms12093), [Mullen et al. OSA Novel Techniques in Microscopy 2017](https://doi.org/10.1364/ntm.2017.ntu1c.1)
 
 * *Media*: [New York Times](http://www.nytimes.com/2016/07/13/science/seafloor-microscope-coral.html), [Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/07/12/this-incredible-underwater-microscope-shows-stunning-corals-like-youve-never-seen-them-before/), [Physics Today (Cover)](https://doi.org/10.1063/PT.3.3284), [Scientific American](https://www.jstor.org/stable/26047255?seq=2), [Microscopy Today 2017 Innovation Awards](https://doi.org/10.1017/S1551929517000840)
 
@@ -109,7 +122,7 @@ author_profile: true
 
 * *Outcomes*: Successfully tracked egg cloud and mapped egg densities in water column over multiple spawning nights.
 
-* *Presentations*: [Stock BC, Mullen A, et. al. 69th Annual Gulf and Caribbean Fisheries Institute, 2016](http://proceedings.gcfi.org/wp-content/uploads/2018/10/GCFI_69_97.pdf), [Stock BC, Mullen A, et. al. 70th Annual Gulf and Caribbean Fisheries Institute, 2017](http://proceedings.gcfi.org/wp-content/uploads/2020/08/70-GCFI-PDF-44.pdf), journal publication accepted for publication in *Proceedings of the Royal Society B: Biological Sciences*
+* *Presentations*: [Stock, et al. Proceedings of the Royal Society B, 2023](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.0551), [Stock BC, Mullen A, et. al. 69th Annual Gulf and Caribbean Fisheries Institute, 2016](http://proceedings.gcfi.org/wp-content/uploads/2018/10/GCFI_69_97.pdf), [Stock BC, Mullen A, et. al. 70th Annual Gulf and Caribbean Fisheries Institute, 2017](http://proceedings.gcfi.org/wp-content/uploads/2020/08/70-GCFI-PDF-44.pdf), journal publication accepted for publication in *Proceedings of the Royal Society B: Biological Sciences*
 <br> <br>
 
 # Undergraduate

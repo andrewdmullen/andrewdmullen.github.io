@@ -8,7 +8,7 @@ var addressPoints = [
   71.2906, -156.7886
   ],
  [
-  "<u>Research</u> <br> Location: South China Sea (3 weeks) <br> Date: Summer 2011 <br> Project: Internal Wave Study <br> Member Institution: UC San Diego, Scripps Institution of Oceanography ", 
+  "<u>Research</u> <br> Location: South China Sea <br> Date: Summer 2011 (3 weeks) <br> Project: Internal Wave Study <br> Member Institution: UC San Diego, Scripps Institution of Oceanography ", 
   22.6273, 120.3014
   ],
   [
@@ -54,6 +54,10 @@ var addressPoints = [
   [
   "<u>Research</u> <br> Location: Tuktoyuktuk, Canada <br> Date: Spring 2023 (2 weeks) <br> Project: Pingo Ice Formation Study <br> Member Institution: Cornell University", 
   69.4454, -133.0342
+  ],
+  [
+  "<u>Research</u> <br> Location: Orca Basin Brine Pool <br> Date: Summer 2023 (2 weeks) <br> Project: ROV Study of Brine Pool <br> Member Institution: Cornell University", 
+  26.9167, -91.3333
   ],
 
 

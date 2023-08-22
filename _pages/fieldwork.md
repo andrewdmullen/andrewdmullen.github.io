@@ -15,6 +15,7 @@ author_profile: true
 ## Scientific Field Work
 
 ### Research Engineer & Post Doctoral Fellow
+* 2023 - Orca Basin, Gulf of Mexico (2 weeks, 10 ROV dives) - Study of Orca Basin deep sea brine pool from R/V Point Sur, using remotely operated vehicle.
 * 2023 - Tuktoyaktuk, Canadian Arctic (2 weeks) - Geophysical surveys of pingo ice formations using towed radar and capacitive-coupled resistivity instruments. 
 * 2021 - Antarctic Field Season, Antarctica New Zealand (Oct 2021 - Jan 2022)
 	* Kamb Ice Stream, Project K862 (5 weeks, 1 Icefin ROV deployment) - Exploration of subglacial channel with ROV, genomic sampling of subglacial water, geophysical surveys, operations from remote field camp. - [The Conversation](https://theconversation.com/exploring-antarcticas-hidden-under-ice-rivers-and-their-role-in-future-sea-level-rise-176456)

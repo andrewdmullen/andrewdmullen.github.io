@@ -5,9 +5,7 @@ permalink: /PackingList_FieldTools/
 author_profile: true
 ---
 
-# Field Tool Packing List
-
-This is a detailed lists of tools, you may not need all these for all projects -- use this as a guide to jog your memory for potential tools you may want to bring.
+You may not need all these for all projects -- use this as a guide to jog your memory for potential tools you may want to bring.
 
 
 ## Mechanical Tools
@@ -164,6 +162,9 @@ This is a detailed lists of tools, you may not need all these for all projects -
 	-   Test 
 		-  Bread board
 		-  Solid core wire
+	-  Work Station
+		- Solder Mat
+		- Anti-Static ESD Mat
 
 - Cables / Adapters
 	- USB
@@ -238,6 +239,3 @@ This is a detailed lists of tools, you may not need all these for all projects -
 
 - Portable Lab
 	-   Portable table and chairs as needed
-	-   Mat: cutting mat
-	-   Mat: solder
-	-   Mat: electronics

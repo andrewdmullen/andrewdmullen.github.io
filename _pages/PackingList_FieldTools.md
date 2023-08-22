@@ -1,0 +1,243 @@
+---
+layout: archive
+title: "Field Tool Packing List"
+permalink: /PackingList_FieldTools/
+author_profile: true
+---
+
+# Field Tool Packing List
+
+This is a detailed lists of tools, you may not need all these for all projects -- use this as a guide to jog your memory for potential tools you may want to bring.
+
+
+## Mechanical Tools
+-   Drive / Wrench / Hammer
+	-   Drivers 
+		-   Screw driver, small: Klein Tools 32581 4-in-1 Electronics Screwdriver 
+		-   Screw driver, large: Klein Tools 32500 11-in-1 Screwdriver 
+		-   Nut drivers: Klein Tools 32807MAG 7-in-1 Nut Driver
+		-   Hex driver set, standard & metric: Bondhus 20199 Balldriver L-Wrench DoublePK
+	-   Pliers
+		-   Groove lock pliers: IRWIN Pliers 6-inch 4935351, IRWIN Pliers 8-Inch 2078108
+		-   Locking pliers: IRWIN Original Locking Pliers, Long Nose  4-Inch 1602L3
+		-   Slip joint pliers: IRWIN Pliers 8-Inch 2078408
+		-   Needle nose pliers: IRWIN Long Nose Pliers 6 Inch 2078216
+		-   Diagonal cutting pliers: IRWIN Diagonal Cutting Pliers 6-Inch  2078306
+	-   Wrenches & Sockets
+		-   Adjustable wrenches: IRWIN Adjustable Wrench 6-Inch GIDDS2286372, IRWIN Adjustable Wrench 8-Inch 2078608
+		-   Socket adapters, square reducer/expander: NEIKO 30249A Socket Adapter Set
+		-   Socket adapters, hex to square: DEWALT 3-pc Socket Adapter DW2541IR, DW2542IR, DW2547IR
+		-   Ratchet handle: DEWALT Ratchet 3/8-Inch Drive DWMT81097
+		-   Ratchet socket set: DEWALT Socket Set 1/4-Inch & 3/8-Inch Drive SAE/Metric 34-Piece DWMT73804
+		-   Ratcheting wrench set: DEWALT Combination Ratchet Wrench SAE DWMT74733
+		-   Torque wrench: TEKTON 1/4 Inch Drive Dual-Direction Click Torque Wrench (10-150 in.-lb.) TRQ21101
+		-   Universal socket: generic universal socket
+		-   Pipe wrench: generic pipe wrench
+	-   Hammer
+		-   Hammer: IRWIN Hammer, Fiberglass, General Purpose, Claw, 16 oz. 1954889
+		-   Rubber mallet: TEKTON 16 oz. Fiberglass Handle Rubber Mallet 30603
+		-   Metal mallet: ESTWING Drilling/Crack Hammer - 3-Pound Sledge, MRF3LB
+	-   Tweezers
+		-   Ceramic tweezers: generic ceramic tweezers non-conductive
+		-   Electronics tweezers: generic precision tweezers set
+		-   Cross grip tweezers: generic cross grip tweezers set
+-   Drill
+	-   Drill 
+		-   Drill driver: DEWALT DCD991B, DEWLAT DCD996B
+		-   Impact driver: DEWALT DCF885
+		-   Batteries: DEWALT DCB201, DEWALT DCB205, DEWALT DCB606
+		-   Charger: DEWALT
+	-   Drill Bits & Accessories
+		-   Drill screwdriver bit set: DEWALT Screwdriver Bit Set 45-Piece DW2166
+		-   Drill bit set: DEWALT DW1361
+		-   Step drill bit set: NEIKO 10181A Step Drill Bit Set
+		-   Allen Wrench Drill Bit Set: 12pc Set Baker and Bolt
+		-   Center hole punch: NEIKO 02638A 5-Inch Automatic Center Punch
+		-   V-drill guide: Big Gator Tools STD1000DGNP V-Drill Guide
+	-   Tap
+		-   Tap set: IRWIN 80187 All-Purpose Bit with Tap 13 Piece Set
+		-   Hand tap: IRWIN T-Handle 1/4-Inch Capacity Tap Wrench 12001  
+-   Cut
+	-   Knife
+		-   X-Acto knife: ELMERS X-Acto Retract-A-Blade Knife
+		-   Box cutter knife: WORKPRO Premium Utility Knife
+	-   Shears
+		-   Wire flush cutters: Klein Tools D275-5 Pliers, Diagonal Cutting Pliers
+		-   Multipurpose shears: ARES 32005 7 1/2-Inch Multi-Purpose Shears
+		-   Metal shears / tin snips: Hurricane 10 Inch Aviation Tin Snips
+		-   Wire cutter / Threaded Bolt Cutter: IRWIN Wire Stripping Tool / Wire Cutter, 8-Inch (2078309)
+	-   Files
+		-   Metal File: 4-in-1 Multi-Function Rasp File 8 inch
+		-   Sand paper: generic sand paper
+		-   Deburring tool: generic deburring tool
+	-   Cut 
+		-   Oscillating multi-tool: DEWALT DCS354
+		-   Multi-tool blades: DEWALT Oscillating Tool Blades Kit, 5-Piece (DWA4216) 
+	-   Saw
+		-   Hack saw: GreatNeck 80070 True Close Quarter Hacksaw, generic full hack saw
+		-   Wood saw: generic wood saw
+-   Measure
+	-   Measure
+		-   Calipers: Vernier Caliper 6" Stainless Steel Non Digital 
+		-   Machinist ruler: 6 in & 12 in - standard $ metric
+		-   Tape measure: generic 25 ft 
+		-   Measuring reel: DEWALT Tape Measure, Closed Case, 100-Foot
+		-   Level: Kapro - 245 Mini Level
+		-   Hand scale: generic 0-100 lbs weigh luggage etc.
+		-   Square: IRWIN Combo Square 6-Inch 1794468
+		-   Scale: generic small scale
+	-   See
+		-   Pen light: Streamlight 66134 or Streamlight 66118
+		-   Head lamp: Petzl Tikkina
+		-   Magnifying tool: generic magnifying reading glasses
+	-   Mark 
+		-   Marker (wide, thin): SHARPIE Permanent Markers Variety Pack
+		-   Marker (deep): DIXON Industrial REACH- Deep Hole Permanent Marker
+		-   Pencil (industrial): FastCap Fatboy Extreme Carpenter/Mechanical Pencil
+		-   Notebook: Rite-In-The-Rain
+-   Hold
+	-   Clamps 
+		-   Bar clamp: IRWIN QUICK-GRIP Bar Clamp One-Handed Mini 6-Inch 1964742
+		-   C clamp: IRWIN QUICK-GRIP C Clamp, 4-Inch (225104)
+	-   Vice 
+		-   Drill press vice: IRWIN Drill Press Vise, 4.5” Jaw Capacity
+		-   PCB holder: generic small vice
+-   Consumables
+	-   Batteries
+		-   Rechargeable AA
+		-   Rechargeable AAA
+		-   Rechargeable 9v
+		-   Battery charger
+	-   Tape
+		-   Electrical tape: super 33+
+		-   Duct tape: generic
+		-   Pipe sealant tape: generic
+		-   Packing tape
+	-   Glue
+		-   Epoxy: Scotch-Weld DP270
+		-   Epoxy: JB Weld water weld
+		-   Super Glue: Loctite super glue
+		-   Hot glue
+	-   Tie
+		-   Zip tie
+		-   Para-cord
+	-   Lubricant
+		-   Oil 
+		-   WD 40
+	-   Clean
+		-   Alcohol
+		-   Wipes 
+		-   Microfiber
+		-   Rubber gloves
+	-   Hardware
+		-   Nuts
+		-   Bolts 
+		-   Washers 
+		-   Hose clamps
+
+		
+## Electrical Tools
+- Electronics Tools
+	-   Measure
+		- Multimeter
+		- Cables: test probes, hooks clips, alligator clips, banana plugs
+	-   Power supply
+		- Adjustable power supply
+		- Constant ac-dc voltage power bricks (ie. wall wart) (5v, 12v, 24v)  
+	-   Function generator, oscilloscope
+	
+- Soldering & Wiring
+	-   Soldering
+		-   Soldering iron: usb-c iron, usb c power source, iron holder, iron cleaner
+		-   Solder: solder flux, solder sucker, soldering wick
+	-   Heat shrink
+		-   Heat gun
+		-   Heat shrink
+	-   Wiring
+		- Multi-core wire (typically 16-24 guage)
+		- Wire cutters
+		- Wire strippers
+	- Crimping & Connectors
+		- Crimps
+		- Wire terminal connectors: ring, quick disk, butt connector
+		- Wire crimping tools: molex, ethernet, circular, etc.
+	-   Test 
+		-  Bread board
+		-  Solid core wire
+
+- Cables / Adapters
+	- USB
+		- USB-to-RS232: FTDI USB-RS232-WE-1800-BT-0.0 Cable, USB to RS232 Serial
+		- USB-to-TTL
+		- USB-A to USB-C
+		- USB-A to USB-B
+		- USB-to-Ethernet
+	- Ethernet
+		- Ethernet cable
+		- Ethernet switchbox
+		- Ethernet female to female adapter 
+
+- Misc 
+	-   Electrical wire, heat shrink
+	-   Connectors (eg molex): crimps, connectors
+	-   Components: resistors, capacitors, led, transistors, dc-dc voltage converters 
+
+
+## Rigging Kit 
+- Rigging Lines
+	- Rope
+		- Dynamic
+		- Static
+		- Webbing
+		- Sling (nylon loop)
+		- Prussik loop
+	- Straps
+		- Cam strap / NRS strap
+		- Ratchet strap / Cargo strap
+	- Repair
+		- Splice kit
+		- Cable grip
+- Rigging Hardware
+	- Carabiners
+		- Locking carabiner
+		- Non-locking carabiner
+		- Mini carabiner
+	- Pulleys etc.
+		- Single pulley / Snatch block
+		- Double pulley
+		- Swivel block
+	- Shackles
+		- Shackle
+		- Quick link
+		- Quick release / Snap shackle
+		- Quick connector / Frog Cable
+		- Slip hook
+	- Misc
+		- Quick release
+		- Ascender
+		- Progress capture
+		- Belay device
+		- Rope clamp 
+		- Cord lock
+		- Knife
+	- Anchors
+		- Rock anchor
+		- Snow anchor
+- Harness
+	- Climbing harness
+	- Towing harness
+
+## General Lab Supplies
+
+- Power
+	-   Power strip with surge protector, 
+	-   Power extension cable
+	-   Batteries: spare standard batteries (AA, AAA, C, D) (rechargeable), battery charger
+	-   Inverter: DC to AC inverter for car
+	-   Adapters: plug adapters, 240v to 120v voltage converter, 240v to 120v voltage converter 
+
+- Portable Lab
+	-   Portable table and chairs as needed
+	-   Mat: cutting mat
+	-   Mat: solder
+	-   Mat: electronics

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Polar Packing List"
-permalink: /polarpackinglist/
+permalink: /PackingList_PolarGear/
 author_profile: flase
 ---
 # Polar Field Work Packing List: Personal Clothing & Gear
@@ -52,7 +52,7 @@ Note: This is the clothing I would take but many people have different pereferen
 
 - Lower Body Clothing
 	- Bottom - Base 
-		- Undearwear, Wool or Synthetic - 5-7x - 
+		- Undearwear, Wool or Synthetic - 5-7x
 		- Leggings, Wool or Synthetic - 3-4x - Icebreaker Everyday 175, Patagonia Capilene Midweight 
 	- Bottom - Breathable Insulating
 		- Fleece Pants - 1x - Patagonia R1 Fleece Pants

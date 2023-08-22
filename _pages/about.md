@@ -61,9 +61,9 @@ I currently work as a Senior Research Engineer at [Cornell University](https://a
 
 ### [Project Examples](https://andrewdmullen.github.io/projects/) 
 
-* Underwater Imaging Systems: Jointly led the development of a custom submersible diver operated microscope, an underwater particle imaging velocimetry system, and a submersible digital holographic microscope - all used in ocean environments.
-* Underwater Robotics: Member of the operations and development team of Icefin a custom underwater robot designed for polar exploration. Led the design and fabrication of a custom instrument package for ROV exploration of deep sea brine pools.
-* Ocean Worlds Exploration: Co-led development of conceptual life detection payloads and concept missions to explore "ocean worlds" in our solar system such as Europa.
+* **Underwater Imaging Systems**: Jointly led the development of a custom submersible diver operated microscope, an underwater particle imaging velocimetry system, and a submersible digital holographic microscope - all used in ocean environments.
+* **Underwater Robotics**: Member of the operations and development team of Icefin a custom underwater robot designed for polar exploration. Led the design and fabrication of a custom instrument package for ROV exploration of deep sea brine pools.
+* **Ocean Worlds Exploration**: Co-led development of conceptual life detection payloads and concept missions to explore "ocean worlds" in our solar system such as Europa.
 
 ### Technical Skills
 * Computing: data analysis, image processing, computer vision [*Python*, *Matlab*]

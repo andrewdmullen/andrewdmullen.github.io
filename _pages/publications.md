@@ -20,7 +20,10 @@ BE Schmidt, P Washam, PED Davis, KW Nicholls, DM Holland, JD Lawrence, KL Riverm
 [https://doi.org/10.1038/s41586-022-05691-0](https://doi.org/10.1038/s41586-022-05691-0) (Open Access)
 
 | <img src="/images/publications/NATURE_Schmidt_2023_Fig1.png" width="1200" height="600" style="display: block; margin: auto;"/>  Fig 1. Warm water reaches near the ice base and retreating Grounding Line of the Thwaites Eastern Ice Shelf. (Ocean thermal driving measured beneath the Thwaites Glacier in Antarctica by the underwater robot Icefin.)| <img src="/images/publications/NATURE_Schmidt_2023_SuppFig8.png" width="400" height="200" style="display: block; margin: auto;"/> Extended Data Fig 8. Topography of terraces under the Thwaites Eastern Ice Shelf demonstrates strongly asymmetric melting and melt processes.|
+
+<!---
 | <img src="/images/publications/NATURE_Schmidt_2023_Fig5.png" width="1200" height="600" style="display: block; margin: auto;"/> Figure 5. Highly variable melt rates are found beneath the Thwaites Eastern Ice Shelf.| <img src="/images/publications/NATURE_Schmidt_2023_Video01_Trimmed.gif" width="300" height="150" style="display: block; margin: auto;"/> Supplementary Video 1. Forward-looking video of Icefin’s approach to the Grounding Line of the Thwaites Eastern Ice Shelf shows visual evidence of melting and ice–bed interactions. |
+--->
 
 * **"Suppressed basal melting in the eastern Thwaites Glacier grounding zone", Nature (2023)** <br>
 PED Davis, KW Nicholls, DM Holland, BE Schmidt, P Washam, KL Riverman, RJ Arthern, I Vaňková, C Eayrs, JA Smith, PGD Anker, **AD Mullen**, D Dichek, JD Lawrence, MR Meister, E Clyne, A Basinski-Ferris, E Rignot, BY Queste, L Boehme, KJ Heywood, S Anandakrishnan, K Makinson <br>
@@ -36,6 +39,11 @@ JD Lawrence (co-lead), **AD Mullen** (co-lead), FE Bryson, CJ Chivers, AM Hanna,
 
 | <img src="/images/publications/SSSLOW_Fig1_FullResolution.png" width="500" height="250" style="display: block; margin: auto;"/> Fig 1. Conceptual diagram of the SSSLOW payload. (A life detection package concept for future sub-surface missions to "Ocean Worlds" such as Europa and Enceladus.)|
 
+* **"Protected fish spawning aggregations as self-replenishing reservoirs for regional recovery", Proceedings of the Royal Society B (2023)** <br>
+BC Stock, **AD Mullen**, JS Jaffe, A Candelmo, SA Heppell, CV Pattengill-Semmens, CM McCoy, BC Johnson, BX Semmens <br>
+[https://doi.org/10.1098/rspb.2023.0551](https://doi.org/10.1098/rspb.2023.0551) 
+<br> 
+
 * **"Development of the Miniature Robotic Electrodialysis (MR ED) System for Small-Scale Desalting of Liquid Samples With Recovery of Organics",  Earth and Space Science (2023)**
 FE Bryson, ED Ingall, AM Hanna, M Cardelino, T Plattner, MR Meister, JD Lawrence, **AD Mullen**, D Dichek, BE Schmidt <br>
 [http://dx.doi.org/10.1029/2022EA002620](http://dx.doi.org/10.1029/2022EA002620) (Open Access)
@@ -48,7 +56,9 @@ FE Bryson, ED Ingall, AM Hanna, M Cardelino, T Plattner, MR Meister, JD Lawrence
 
 | <img src="/images/publications/NCOMMS_Mullen_2016_Fig1.jpg" width="700" height="350" style="display: block; margin: auto;"/> Fig 1. Benthic Underwater Microscope design and operation.| <img src="/images/publications/NCOMMS_Mullen_2016_Fig3.jpg" width="700" height="350" style="display: block; margin: auto;"/> Fig 3. Images captured by the Benthic Underwater Microscope. Main figure scale bars = 500 μm. Inset scale bars = 50 μm.|
 
+<!---
 | <img src="/images/publications/NCOMMS_Mullen_2016_Fig2.jpg" width="400" height="200" style="display: block; margin: auto;"/> Fig 2. Focal scan using Electronically Tunable Lens (a,b) and composite image formation (c). | <img src="/images/media/Time_01_coral-kissing-560px.gif" width="260" height="130" style="display: block; margin: auto;"/> Supplementary. Coral 'polyp kissing'. In situ time series video of the coral Stylophora. | <img src="/images/media/Time_03_coral-competition-560px.gif" width="260" height="130" style="display: block; margin: auto;"/> Supplementary. Coral completion between Platygyra and Stylophora. |
+--->
 
 * **“Issues of sustainability of coastal groundwater resources: Benin, West Africa”, Sustainability (2010)** <br>
 SE Silliman, BI Borum, M Boukari, N Yalo, S Orou-Oete, D McInnis, C Fertenbaugh, **AD Mullen** <br>
@@ -62,9 +72,14 @@ SE Silliman, BI Borum, M Boukari, N Yalo, S Orou-Oete, D McInnis, C Fertenbaugh,
 **AD Mullen** <br>
 [https://escholarship.org/uc/item/1p03v5t1](https://escholarship.org/uc/item/1p03v5t1) (Open Access)
 
+| <img src="/images/projects/PTV/PTV_01.png" width="1000" height="500" style="display: block; margin: auto;"/>  Underwater Micro-PTV system. | <img src="/images/projects/PTV/PTV_02.png" width="900" height="450" style="display: block; margin: auto;"/> Particle tracking, 500 μm scale bar.| <img src="/images/projects/PTV/PTV_03.png" width="1100" height="550" style="display: block; margin: auto;"/> Time averaged velocity field, 500 μm scale bar. |
+
+<!---
 | <img src="/images/publications/THESIS_Mullen_Fig3.1_LowRes.png" width="500" height="250" style="display: block; margin: auto;"/> Fig 3.1. Design and operations of the underwater Micro Particle Tracking Velocimetry (μPTV) system.|
 | <img src="/images/publications/THESIS_Mullen_Fig3.2_LowRes.png" width="500" height="250" style="display: block; margin: auto;"/> Fig 3.2. Underwater μPTV imaging and particle tracking.|
 | <img src="/images/publications/THESIS_Mullen_Fig3.4_LowRes.png" width="500" height="250" style="display: block; margin: auto;"/> Fig 3.4. Time averaged μPTV measurements surrounding in situ coral polyps.|
+--->
+
 
 ## Conference Articles
 
@@ -82,8 +97,12 @@ FE Bryson, M Nassif, PA Szot, CJ Chivers, N Daniel, BE Wiley, T Plattner, A Hann
 M Meister, D Dichek, A Spears, B Hurwitz, F Bryson, **AD Mullen**, J Lawrence, P Washam, E Quartini, S Lopez, L Kassabian, P Anker, D Mandeno, BE Schmidt <br>
 [https://doi.org/10.1109/ieeeconf38699.2020.9389361](https://doi.org/10.1109/ieeeconf38699.2020.9389361)
 
+| <img src="/images/publications/OCEANS2020_Meister_2020_Fig1_LowRes.png" width="700" height="350" style="display: block; margin: auto;"/> | <img src="/images/publications/OCEANS2020_Meister_2020_Fig4_LowRes.png" width="500" height="250" style="display: block; margin: auto;"/> | 
+
+<!---
 | <img src="/images/publications/OCEANS2020_Meister_2020_Fig1_LowRes.png" width="700" height="350" style="display: block; margin: auto;"/> | <img src="/images/publications/OCEANS2020_Meister_2020_Fig3_LowRes.png" width="400" height="200" style="display: block; margin: auto;"/> |
 | <img src="/images/publications/OCEANS2020_Meister_2020_Fig4_LowRes.png" width="500" height="250" style="display: block; margin: auto;"/> | <img src="/images/publications/OCEANS2020_Meister_2020_Table1_LowRes.png" width="200" height="100" style="display: block; margin: auto;"/> |
+--->
 
 * **“CTD-on-a-Chip: High-Precision Polar In-situ Interfacial Data Collection”, IEEE Oceanic Engineering Society, Global OCEANS 2020 (2020)** <br>
 B Hurwitz, M Thomas, JD Lawrence, P Washam, MR Meister, DJ Dichek, **AD Mullen**, AM Spears, K Haas, BE Schmidt <br>

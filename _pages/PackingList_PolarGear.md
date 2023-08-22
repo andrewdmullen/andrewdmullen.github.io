@@ -10,10 +10,11 @@ author_profile: flase
 
 * Advice
 	* Use a layering system that offers flexibility to keep you warm, but also the ability to wick away sweat and remove layers when you are active.
-	* Make sure nothing is too tight, you want to have good circulation and mobility. Insulation comes from trapping warm air and overly tight clothes can restrict circulation which is very bad.
+	* Clothing should be somewhat loose to provide good circulation, mobility, and trap warm air. Tight clothing can restrict circulation which is dangerous.
 	* Make sure you try all your layers on at the same time to ensure they fit well together.
-	* Double check if there is any chance it ever rains or sleets where you are going, especially if near the coast. If so bring a watery shell layer.
-	* If you will be snow mobiling make sure you can cover any exposed skin on your face and neck
+	* Double check if there is any chance that there can be rain or wet precipitation where you are going, especially if near the coast. If temperatures get above freezing bring a waterproof shell layer.
+	* If you will be snowmobiling make sure you can cover any exposed skin on your face and neck.
+	* There is a lot of high quality used gear for low prices online. Just make sure you know what size you need or can return the gear if buying used clothing.
 	* ECW - Stands for Extreme Cold Weather clothing.
 
 * Layering System

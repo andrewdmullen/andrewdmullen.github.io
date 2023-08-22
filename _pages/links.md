@@ -7,6 +7,27 @@ author_profile: true
 
 Here is a collection of links and resources I have found useful:
 
+### Field Work
+* Packing Lists
+	* [Packing List - Polar Field Work Personal Gear](https://andrewdmullen.github.io/PackingList_PolarGear/) 
+	* [Packing List - General Field Tools](https://andrewdmullen.github.io/PackingList_FieldTools/)  
+* Field Guides
+	* Polar: [US Antarctic Program - Field Manual](https://www.usap.gov/usapgov/travelAndDeployment/documents/ASC-18-025.pdf),  [Antarctica New Zealand - Field Manual](https://www.adam.antarcticanz.govt.nz/nodes/view/64579), [INTERACT Practical Field Guide](https://eu-interact.org/app/uploads/2019/09/INTERACT-Practical-Field-Guide.pdf)
+	* Diving: [NOAA dive manual](http://www.omao.noaa.gov/sites/default/files/documents/NDSSM%20Final_041217.pdf), [NOAA small boat manual](http://www.omao.noaa.gov/sites/default/files/documents/2018%200430%20SBS%26PM%204.1.pdf)
+* Antarctica Opportunities
+	* US Antarctic Program Jobs, includes comprehensive list of links to other organizations: [https://www.usap.gov/jobsandopportunities/](https://www.usap.gov/jobsandopportunities/)
+	* ANSMET, The Antarctic Search for Meteorites: [https://caslabs.case.edu/ansmet/](https://caslabs.case.edu/ansmet/)
+	* US Ice Drilling Program: [https://icedrill.org/jobs](https://icedrill.org/jobs)
+	* IRIS/PASSCAL, supports USAP siesmic science: [https://www.passcal.nmt.edu/employment](https://www.passcal.nmt.edu/employment)
+	* UNAVCO, supports USAP GPS science: [https://www.unavco.org](https://www.unavco.org)
+	* Antarctic Heritage Trust: [https://nzaht.org](https://nzaht.org)
+	* McMurdo Dry Valleys LTER: [https://mcm.lternet.edu](https://mcm.lternet.edu)
+	* Palmer LTER: [https://lternet.edu/site/palmer-antarctica-lter/](https://lternet.edu/site/palmer-antarctica-lter/)
+* Additional
+	* American Academy of Underwater Sciences, Scientific Diving: [https://www.aaus.org](https://www.aaus.org) 
+	* University-National Oceanographic Laboratory System (UNOLS), US Research Vessels: [https://www.unols.org](https://www.unols.org)
+	* US Armed Forces Guide to Rigging (TM 3-34.86): [Rigging Techniques, Procedures, and Applications](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tm3_34x86.pdf)
+
 
 ### Educational Videos / YouTube 
 * Engineering: [Applied Science](https://www.youtube.com/channel/UCivA7_KLKWo43tFcCkFvydw), [Stuff Made Here](https://www.youtube.com/@StuffMadeHere), [Mark Rober](https://www.youtube.com/@MarkRober)
@@ -63,27 +84,6 @@ Here is a collection of links and resources I have found useful:
 	* Internatioal Geobiology Course: [https://web.gps.caltech.edu/GBcourse/information.html](https://web.gps.caltech.edu/GBcourse/information.html)
 	* Seamester: [https://www.seamester.com](https://www.seamester.com)	* JPL NASA Science Mission Design Schools: [https://www.jpl.nasa.gov/edu/intern/apply/nasa-science-mission-design-schools/](https://www.jpl.nasa.gov/edu/intern/apply/nasa-science-mission-design-schools/) 
 
-
-### Field Work
-* Packing Lists
-	* [Packing List - Polar Field Work Personal Gear](https://andrewdmullen.github.io/PackingList_PolarGear/) 
-	* [Packing List - General Field Tools](https://andrewdmullen.github.io/PackingList_FieldTools/)  
-* Field Guides
-	* Polar: [US Antarctic Program - Field Manual](https://www.usap.gov/usapgov/travelAndDeployment/documents/ASC-18-025.pdf),  [Antarctica New Zealand - Field Manual](https://www.adam.antarcticanz.govt.nz/nodes/view/64579), [INTERACT Practical Field Guide](https://eu-interact.org/app/uploads/2019/09/INTERACT-Practical-Field-Guide.pdf)
-	* Diving: [NOAA dive manual](http://www.omao.noaa.gov/sites/default/files/documents/NDSSM%20Final_041217.pdf), [NOAA small boat manual](http://www.omao.noaa.gov/sites/default/files/documents/2018%200430%20SBS%26PM%204.1.pdf)
-* Antarctica Opportunities
-	* US Antarctic Program Jobs, includes comprehensive list of links to other organizations: [https://www.usap.gov/jobsandopportunities/](https://www.usap.gov/jobsandopportunities/)
-	* ANSMET, The Antarctic Search for Meteorites: [https://caslabs.case.edu/ansmet/](https://caslabs.case.edu/ansmet/)
-	* US Ice Drilling Program: [https://icedrill.org/jobs](https://icedrill.org/jobs)
-	* IRIS/PASSCAL, supports USAP siesmic science: [https://www.passcal.nmt.edu/employment](https://www.passcal.nmt.edu/employment)
-	* UNAVCO, supports USAP GPS science: [https://www.unavco.org](https://www.unavco.org)
-	* Antarctic Heritage Trust: [https://nzaht.org](https://nzaht.org)
-	* McMurdo Dry Valleys LTER: [https://mcm.lternet.edu](https://mcm.lternet.edu)
-	* Palmer LTER: [https://lternet.edu/site/palmer-antarctica-lter/](https://lternet.edu/site/palmer-antarctica-lter/)
-* Additional
-	* American Academy of Underwater Sciences, Scientific Diving: [https://www.aaus.org](https://www.aaus.org) 
-	* University-National Oceanographic Laboratory System (UNOLS), US Research Vessels: [https://www.unols.org](https://www.unols.org)
-	* US Armed Forces Guide to Rigging (TM 3-34.86): [Rigging Techniques, Procedures, and Applications](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tm3_34x86.pdf)
 
 ### Companies & Vendors
 (Not a comprehensive list but a good starting point)

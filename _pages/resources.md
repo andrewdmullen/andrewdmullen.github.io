@@ -17,29 +17,27 @@ Here is a collection of resources and links I have found useful:
 ### Planning & Logistics Checklists
 
 - Field Season Planning
-	- Objects: well defined minimum (threshold), target (basline), and reach goals
+	- Objects: well defined goals -- minimum (threshold), target (basline), and reach
 	- Personnel: well defined roles and responsibilities 
 	- Timeline: calendar timeline, standard daily schedule
-	- Procedures: standard operating procedures for equipment, hazards matrix (hazard, mitigation, trouble shooting, contingency)
+	- Procedures: standard operating procedures for equipment, hazards matrix (hazard identification, mitigation, trouble shooting, contingency)
 	- Equipment: instrumentation, tool kit, camp gear, personal gear
 
 - Field Logistics Checklist
-	- Housing
-	- Food
-	- Guides
-	- Transportation
-	- Equipment: own, purchase, rent
-	- Permits
-	- Safety Protocols
+	- Basic Essentials: transportation, housing, food
+	- Equipment: procurement (own, purchase, rent), shipping
+	- Field Support: service providers, field guides
+	- Adminatrative: contracts, permits, visas
+	- Safety Protocols: emergency plans, medical services
 		 
 - Shipping / Luggage Checklist
-	- Customs - consider regulations, total value, need for carnet - [https://www.atacarnet.com](https://www.atacarnet.com)
-	- Insurance - shipping and damage
-	- Export control - such as ITAR restricted items
-	- Dangerous good - such as batteries
-	- Labeling - "to whom it may concern" letters inside, POC listed in multiple places out, battery or other dangerous good sticker, do not freeze sticker, [FAA battery regulations](https://www.faa.gov/sites/faa.gov/files/hazmat/packsafe/resources/Airline_passengers_and_batteries.pdf)
-	- Tracking - consider use of apple air tags
-	- Airline rules - total luggage volume and weight, [Delta baggage policy](https://www.delta.com/us/en/baggage/overview)
+	- Customs: consider regulations, total value, need for carnet - [https://www.atacarnet.com](https://www.atacarnet.com)
+	- Insurance: shipping and damage
+	- Export control: such as ITAR restricted items
+	- Dangerous good: such as batteries
+	- Labeling: "to whom it may concern" letters inside, POC listed in multiple places out, battery or other dangerous good sticker, do not freeze sticker, [FAA battery regulations](https://www.faa.gov/sites/faa.gov/files/hazmat/packsafe/resources/Airline_passengers_and_batteries.pdf)
+	- Tracking: consider use of apple air tags
+	- Airline rules: total luggage volume and weight, [Delta baggage policy](https://www.delta.com/us/en/baggage/overview)
 
 ### Field Skills
 * Ropes & Rigging

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research engineer with experience developing tools for earth and space science, and a focus on creating new imaging and robotic systems for exploration. I have a background working with interdisciplinary teams to build and deploy instruments in challenging polar and marine environments. 
+Welcome! I am a research engineer with experience developing tools for earth and space science, and a focus on creating new imaging and robotic systems for exploration. I have a background working with interdisciplinary teams to build and deploy instruments in challenging polar and marine environments. 
 
 <!---
 My work uses systems engineering to design instruments which integrate optical, electrical, mechanical, and software components.

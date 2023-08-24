@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a research engineer with experience developing tools for earth and space science, and a focus on creating new imaging and robotic systems for exploration. I have a background working with interdisciplinary teams to build and deploy instruments in challenging polar and marine environments. My work uses systems engineering to design instruments which integrate optical, electrical, mechanical, and software components.
+I am a research engineer with experience developing tools for earth and space science, and a focus on creating new imaging and robotic systems for exploration. I have a background working with interdisciplinary teams to build and deploy instruments in challenging polar and marine environments. 
 
 <!---
+My work uses systems engineering to design instruments which integrate optical, electrical, mechanical, and software components.
+
 Research engineer with a focus on developing imaging and robotic systems for exploration.
 
 My work uses systems engineering to integrate optical, electrical, mechanical, and software components - with the ultimate goal of creating new imaging and robotic tools for exploration.
@@ -74,7 +76,7 @@ I currently work as a Senior Research Engineer at [Cornell University](https://a
 
 ### [Field Work](https://andrewdmullen.github.io/fieldwork/)
 
-* Conducted field research seasons in: Antarctica (x3), the Arctic (x3), the Red Sea (x2), the Caribbean (x2), West Africa (x2), the Gulf of Mexico, and the Pacific
+* Conducted field research seasons in: Antarctica (x3), the Arctic (x3), the Red Sea (x2), the Caribbean (x2), West Africa (x2), the Pacific (x3), and the Gulf of Mexico 
 * Performed research utilizing: scientific diving, research vessels, underwater robotic vehicles, towed ocean payloads, and geophysical instrumentation
 
 

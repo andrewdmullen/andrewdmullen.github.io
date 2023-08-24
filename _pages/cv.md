@@ -4,7 +4,14 @@ title: ""
 permalink: /cv/
 author_profile: true
 ---
+One Page Resume: 
+<a href="http://andrewdmullen.github.io/files/Mullen_Resume_2023-09.pdf">link</a>
 
+Full CV: 
+<a href="http://andrewdmullen.github.io/files/Mullen_CV_March2023.pdf">link</a>
+<br>
+
+<!---
 ## Resume, one page 
 <p>
 One Page Resume: 
@@ -104,6 +111,7 @@ Engineer and/or operational member on the following project grants:
 * 2018-2020 - “Digital Holographic Microscopy on the Icefin Underwater Antarctic Vehicle: Technology & Science Development for Icy Worlds”, NASA Postdoctoral Program fellowship, Lead: AD Mullen, Advisor: BE Schmidt
 * 2014 - “A Novel In Situ Microscope for Studying Benthic Organisms”, Link Ocean Engineering & Instrumentation PhD Fellowship Program, Lead: AD Mullen, Advisor: JS Jaffe
 * 2012-2016 - NSF Graduate Research Fellowship Program (GRFP) grant, Award DGE-1144086, Lead: AD Mullen, Advisor: JS Jaffe
+--->
 
 <!---
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&amp;url=http://andrewdmullen.github.io/files/CV_Mullen_March2023.pdf" height="350" type="application/pdf" target="_blank" />

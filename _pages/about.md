@@ -87,7 +87,7 @@ I worked as a Senior Research Engineer at [Cornell University](https://astro.cor
 
 ### [Outside of Work](https://andrewdmullen.github.io/hobbies/) 
 
-Outside of work I enjoy outdoor and endurance activities including: triathlons (Ironman x2, Half Ironman x1),  backpacking (I am hiking the Pacific Crest Trail in sections and have done ~880 miles, looking forward to doing more!), mountaineering (Chimborazo, Cayambe, Mt. Rainier, Mt. Baker), and surfing.
+Outside of work I enjoy outdoor activities including: triathlons (Ironman x2, Half Ironman x1), backpacking (I have sectioned hiked ~880 miles of the Pacific Crest Trail and am looking forward to doing more!), mountaineering (Chimborazo, Cayambe, Mt. Rainier, Mt. Baker), and surfing.
 
 ## Videos Describing Work
 

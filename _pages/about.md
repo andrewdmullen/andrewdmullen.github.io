@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a research engineer with experience developing tools for earth and space science, and a focus on creating new imaging and robotic systems for exploration. I have a background working with interdisciplinary teams to build and deploy instruments in challenging polar and marine environments. 
+Welcome, I am a research engineer with experience developing imaging and robotic systems for exploration. I have a background working with interdisciplinary teams to build and deploy instruments in a variety of challenging polar and marine environments. 
 
 <!---
 My work uses systems engineering to design instruments which integrate optical, electrical, mechanical, and software components.
@@ -39,12 +39,16 @@ Welcome! I am an engineer who works on developing tools for earth and space expl
 --->
 
 ### Professional
-I currently work as a Senior Research Engineer at [Cornell University](https://astro.cornell.edu/andrew-mullen) in the [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu). Prior to this, I was a [NASA Postdoctoral Program (NPP) Fellow](https://cos.gatech.edu/article/andrew-mullen) at the Georgia Institute of Technology. During my Ph.D. I conducted research at the Scripps Institution of Oceanography in the [Jaffe Laboratory for Underwater Imaging](https://jaffeweb.ucsd.edu).
+I worked as a Senior Research Engineer at [Cornell University](https://astro.cornell.edu/andrew-mullen) in the [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu). Prior to this, I was a [NASA Postdoctoral Program (NPP) Fellow](https://cos.gatech.edu/article/andrew-mullen) at the Georgia Institute of Technology. During my Ph.D. I conducted research at the Scripps Institution of Oceanography in the [Jaffe Laboratory for Underwater Imaging](https://jaffeweb.ucsd.edu).
+
+* Present — Visting Research Scientist, Cornell University
+* 2022-2023 — Senior Research Engineer, Cornell University
+* 2018-2021 — Postdoctoral Fellow, Georgia Institute of Technology & NASA Postdoctoral Program
 
 ### Education
-* Ph.D. in Electrical Engineering, UC San Diego (2018)
-* M.S. in Oceanography, UC San Diego (2015)
-* B.S. in Civil Engineering, University of Notre Dame (2011)
+* 2018 — Ph.D. in Electrical Engineering, UC San Diego
+* 2015 — M.S. in Oceanography, UC San Diego 
+* 2011 — B.S. in Civil Engineering, University of Notre Dame, *magna cum laude*
 
 ### [Scientific Publications](https://andrewdmullen.github.io/publications)
 
@@ -78,9 +82,12 @@ I currently work as a Senior Research Engineer at [Cornell University](https://a
 
 * Conducted field research seasons in: Antarctica (x3), the Arctic (x3), the Red Sea (x2), the Caribbean (x2), West Africa (x2), the Pacific (x3), and the Gulf of Mexico 
 * Performed research utilizing: scientific diving, research vessels, underwater robotic vehicles, towed ocean payloads, and geophysical instrumentation
+* Training: AAUS Scientific Diver (2012, over 150 lifetime dives), Wilderness EMT (training complete, currently finishing testing), Antarctic Field Training (2018, 2019, 2021)
 
 
-[Outside of work](https://andrewdmullen.github.io/hobbies/) I enjoy surfing, backpacking, and triathalons (and in 2022 completed my first Ironman in Arizona!).
+### [Outside of Work](https://andrewdmullen.github.io/hobbies/) 
+
+Outside of work I enjoy outdoor and endurance activities including: triathlons (Ironman x2, Half Ironman x1),  backpacking (I am hiking the Pacific Crest Trail in sections and have done ~880 miles, looking forward to doing more!), mountaineering (Chimborazo, Cayambe, Mt. Rainier, Mt. Baker), and surfing.
 
 ## Videos Describing Work
 

@@ -15,7 +15,7 @@ Outside of work I enjoy outdoor activities and athletics. Below are some picture
 
 ### Backpacking: Pacific Crest Trail
 
-I am working on section hiking the Pacific Crest Trail over time. So far I have had the opportunity to hike ~887 miles backpacking the following sections:
+I am section hiking the Pacific Crest Trail over time. So far I have had the opportunity to hike ~887 miles of the trails ~2650 mile total:
 
 * Southern Washington, Fall 2023: Cascade Locks (Mile 2150) to Chinook Pass, Mt Rainier NP (Mile 2326) — ~176 miles
 * Sierras, Summer 2021: Kennedy Meadows South (Mile 704) to Tahoma, Lake Tahoe (Mile 1121) — ~413 miles

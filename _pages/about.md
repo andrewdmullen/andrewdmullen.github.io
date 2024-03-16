@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, I am a research engineer with experience developing imaging and robotic systems for exploration. I have a background working with interdisciplinary teams to build and deploy instruments in a variety of challenging polar and marine environments. 
+Welcome, I am a research engineer with a focus on developing imaging and robotic systems for exploration. I have a background working with interdisciplinary teams to build and deploy instruments in a variety of challenging polar and marine environments. 
 
 <!---
 My work uses systems engineering to design instruments which integrate optical, electrical, mechanical, and software components.
@@ -39,7 +39,7 @@ Welcome! I am an engineer who works on developing tools for earth and space expl
 --->
 
 ### Professional
-I worked as a Senior Research Engineer at [Cornell University](https://astro.cornell.edu/andrew-mullen) in the [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu). Prior to this, I was a [NASA Postdoctoral Program (NPP) Fellow](https://cos.gatech.edu/article/andrew-mullen) at the Georgia Institute of Technology. During my Ph.D. I conducted research at the Scripps Institution of Oceanography in the [Jaffe Laboratory for Underwater Imaging](https://jaffeweb.ucsd.edu).
+I work at [Cornell University](https://astro.cornell.edu/andrew-mullen) in the [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu). Prior to this, I was a [NASA Postdoctoral Program (NPP) Fellow](https://cos.gatech.edu/article/andrew-mullen) at the Georgia Institute of Technology. During my Ph.D. I conducted research at the Scripps Institution of Oceanography in the [Jaffe Laboratory for Underwater Imaging](https://jaffeweb.ucsd.edu).
 
 * Present — Visting Research Scientist, Cornell University
 * 2022-2023 — Senior Research Engineer, Cornell University

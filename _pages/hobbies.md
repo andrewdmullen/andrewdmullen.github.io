@@ -5,7 +5,7 @@ permalink: /hobbies/
 author_profile: true
 ---
 
-Outside of work I enjoy outdoor activities and athletics. Below are some pictures and a list of some the activities. I am always looking for people to train with or go on trips, if you are interest please reach out!
+Outside of work I enjoy outdoor activities and athletics. Below are some pictures and a list of some the activities. I am always looking for people to train with or go on trips with!
 
 ### Triathlon
 

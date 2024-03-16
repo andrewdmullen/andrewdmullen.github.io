@@ -21,7 +21,7 @@ I am section hiking the Pacific Crest Trail over time. So far I have had the opp
 * Sierras, Summer 2021: Kennedy Meadows South (Mile 704) to Tahoma, Lake Tahoe (Mile 1121) — ~413 miles
 * Southern California, Summer 2021: Campo (Mile 0) to Lake Arrowhead (Mile 298) — ~298 miles
 
-Looking forward to doing more in the future, the full trail is ~2650 miles!
+Looking forward to doing more in the future!
 
 ### Mountaineering
 

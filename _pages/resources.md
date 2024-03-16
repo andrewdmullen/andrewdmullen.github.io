@@ -13,55 +13,15 @@ Here is a collection of resources and links I have found useful:
 * [Packing List - Polar Field Work, Personal Gear](https://andrewdmullen.github.io/PackingList_PolarGear/) 
 * [Packing List - General Field Work, Tool Kit](https://andrewdmullen.github.io/PackingList_FieldTools/)  
 
-		
-### Planning & Logistics Checklists
-
-- Field Season Planning
-	- Objects: well defined goals -- minimum (threshold), target (basline), and reach
-	- Personnel: well defined roles and responsibilities 
-	- Timeline: calendar timeline, standard daily schedule
-	- Procedures: standard operating procedures for equipment, hazards matrix (hazard identification, mitigation, trouble shooting, contingency)
-	- Equipment: instrumentation, tool kit, camp gear, personal gear
-
-- Field Logistics Checklist
-	- Basic Essentials: transportation, housing, food
-	- Equipment: procurement (own, purchase, rent), shipping
-	- Field Support: service providers, field guides
-	- Adminatrative: contracts, permits, visas
-	- Safety Protocols: emergency plans, medical services
-		 
-- Shipping / Luggage Checklist
-	- Customs: consider regulations, total value, need for carnet - [https://www.atacarnet.com](https://www.atacarnet.com)
-	- Insurance: shipping and damage
-	- Export control: such as ITAR restricted items
-	- Dangerous good: such as batteries
-	- Labeling: "to whom it may concern" letters inside, POC listed in multiple places out, battery or other dangerous good sticker, do not freeze sticker, [FAA battery regulations](https://www.faa.gov/sites/faa.gov/files/hazmat/packsafe/resources/Airline_passengers_and_batteries.pdf)
-	- Tracking: consider use of apple air tags
-	- Airline rules: total luggage volume and weight, [Delta baggage policy](https://www.delta.com/us/en/baggage/overview)
-
-### Field Skills
-* Ropes & Rigging
-	* US Armed Forces Guide to Rigging (TM 3-34.86): [Rigging Techniques, Procedures, and Applications](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tm3_34x86.pdf)
-	* Lines & Straps: dynamic line, static line, cam strap, ratchet strap
-	* Knots: Figure 8, Bowline, Alpine Butterfly, Prusik, Truckers Hitch, Double Fisherman Knot, Clove Hitch
-	* Rigging: 4 to 1 pulley system, 3 to 1 Z-pulley, ice anchor, deadman snow anchor
-* Engines
-	* [USAP Field Guide](https://www.usap.gov/USAPgov/travelAndDeployment/documents/USAP-Continental-Field-Manual.pdf): Snowmobiles, Generators, and Renewable Energy Power Systems - page 56-63
-	* Types: 4 stroke (intake, compression, power, and exhaust), 2 stroke (intake/compression, power/exhaust)
-	* Fuels: avgas, mogas, premix, diesel 
-	* Controls: throttle, choke, priming
-	* Components: carburetor, piston, injector, spark plug, crankshaft, belt
-* Communications
-* Navigation
-* First Aid
-* Weather
-
 ### Field Work Resources
-* Field Guides
+* Field Work Guides & Related (free resources)
 	* Polar: [US Antarctic Program - Field Manual](https://www.usap.gov/usapgov/travelAndDeployment/documents/ASC-18-025.pdf),  [Antarctica New Zealand - Field Manual](https://www.adam.antarcticanz.govt.nz/nodes/view/64579), [INTERACT Practical Field Guide](https://eu-interact.org/app/uploads/2019/09/INTERACT-Practical-Field-Guide.pdf)
 	* Diving: [NOAA dive manual](http://www.omao.noaa.gov/sites/default/files/documents/NDSSM%20Final_041217.pdf)
 	* Small Boat Operations: [NOAA small boat manual](http://www.omao.noaa.gov/sites/default/files/documents/2018%200430%20SBS%26PM%204.1.pdf)
 	* Large Research Vessels: [UNOLS Cruise Planning](https://www.unols.org/vessel-schedules/cruise-planning-information)
+	* Wilderness Medicine: [Airie Wilderness Medicine Manual](https://aeriemedicine.com/textbook)
+	* Flying: [FAA - Pilot’s Handbook of Aeronautical Knowledge] (https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)
+	* Ropes & Rigging: [US Armed Forces Guide to Rigging (TM 3-34.86) / Rigging Techniques, Procedures, and Applications](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tm3_34x86.pdf)
 * Organizations
 	* American Academy of Underwater Sciences, Scientific Diving: [https://www.aaus.org](https://www.aaus.org) 
 	* University-National Oceanographic Laboratory System (UNOLS), US Research Vessels: [https://www.unols.org](https://www.unols.org)
@@ -143,7 +103,7 @@ Here is a collection of resources and links I have found useful:
 ## Engineering Resources
 
 ### Engineering Equipment Companies & Vendors
-(Not a comprehensive list but a good starting point)
+(Not a comprehensive list but a good starting point for prototyping etc.)
 
 * Companies & Vendors - General Engineering
 	* Mechanical: McMaster-Carr, Grainger
@@ -198,18 +158,66 @@ Here is a collection of resources and links I have found useful:
 - Machine Learning: metas, PyTorch
 - Robotics: ROS, ArduPilot
 
+### Field Planning & Logistics Checklists
+
+- Field Season Planning
+	- Objectives: well defined goals -- minimum (threshold), target (basline), and reach
+	- Personnel: well defined roles and responsibilities 
+	- Timeline: calendar timeline, standard daily schedule
+	- Procedures: standard operating procedures for equipment, hazards matrix (hazard identification, mitigation, trouble shooting, contingency)
+	- Equipment: instrumentation, tool kit, camp gear, personal gear
+
+- Field Logistics Checklist
+	- Basic Essentials: transportation, housing, food
+	- Equipment: procurement (own, purchase, rent), shipping
+	- Field Support: service providers, field guides
+	- Adminatrative: contracts, permits, visas
+	- Safety Protocols: emergency plans, medical services
+		 
+- Shipping / Luggage Checklist
+	- Customs: consider regulations, total value, need for carnet - [https://www.atacarnet.com](https://www.atacarnet.com)
+	- Insurance: shipping and damage
+	- Export control: such as ITAR restricted items
+	- Dangerous good: such as batteries
+	- Labeling: "to whom it may concern" letters inside, POC listed in multiple places out, battery or other dangerous good sticker, do not freeze sticker, [FAA battery regulations](https://www.faa.gov/sites/faa.gov/files/hazmat/packsafe/resources/Airline_passengers_and_batteries.pdf)
+	- Tracking: consider use of apple air tags
+	- Airline rules: total luggage volume and weight, [Delta baggage policy](https://www.delta.com/us/en/baggage/overview)
+
 ## Outdoor Recreation
-* Pacific Crest Trail 
-	* Ultimate Guide: [https://www.halfwayanywhere.com/pacific-crest-trail/](https://www.halfwayanywhere.com/pacific-crest-trail/) (including gear guides and trail descriptions)
-	* Pacfic Crest Trail Association: [https://www.pcta.org](https://www.pcta.org)
 * Triathlons
 	* General: [https://mymottiv.com/triathlon-training-ironman/](https://mymottiv.com/triathlon-training-ironman/), [https://www.globaltrinetwork.com/](https://www.globaltrinetwork.com/), [https://www.trainingpeaks.com](https://www.trainingpeaks.com)
 	* Heart Rate Training Zones: [https://www.triathlete.com/training/how-to-use-heart-rate-training-zones-for-triathlon/](https://www.triathlete.com/training/how-to-use-heart-rate-training-zones-for-triathlon/), [https://mymottiv.com/heart-rate-training-zones/](https://mymottiv.com/heart-rate-training-zones/), [https://www.8020endurance.com/8020-zone-calculator/](https://www.8020endurance.com/8020-zone-calculator/), [https://www.myprocoach.net/calculators/hr-zones/](https://www.myprocoach.net/calculators/hr-zones/)
 	* Gear Checklist: [https://mymottiv.com/triathlon-checklist/](https://mymottiv.com/triathlon-checklist/)
 	* Total Training Load: [https://help.trainingpeaks.com/hc/en-us/articles/230904648-Suggested-Weekly-TSS-and-Target-CTL](https://help.trainingpeaks.com/hc/en-us/articles/230904648-Suggested-Weekly-TSS-and-Target-CTL)
+* Backpacking / Pacific Crest Trail 
+	* Ultimate Guide: [https://www.halfwayanywhere.com/pacific-crest-trail/](https://www.halfwayanywhere.com/pacific-crest-trail/) (including gear guides and trail descriptions)
+	* Pacfic Crest Trail Association: [https://www.pcta.org](https://www.pcta.org)
+* Mountaineering
+	* Books: "Mountaineering: Freedom of the Hills", "Training for the New Alpanism", "Glacier Mountaineering: An Illustrated Guide To Glacier Travel And Crevasse Rescue"
+	* Clubs: [The Mountaineers](https://www.mountaineers.org), [Mazamas](https://mazamas.org)
+	* Guides & Companies: [American Mountain Guide Association](https://amga.com), [American Alpine Club](https://americanalpineclub.org), [American Alpine Institute](https://www.alpineinstitute.com)
 
 <!---
 To Add 
+
+### Field Skills
+* Ropes & Rigging
+	* US Armed Forces Guide to Rigging (TM 3-34.86): [Rigging Techniques, Procedures, and Applications](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tm3_34x86.pdf)
+	* Lines & Straps: dynamic line, static line, cam strap, ratchet strap
+	* Knots: Figure 8, Bowline, Alpine Butterfly, Prusik, Truckers Hitch, Double Fisherman Knot, Clove Hitch
+	* Rigging: 4 to 1 pulley system, 3 to 1 Z-pulley, ice anchor, deadman snow anchor
+* Engines
+	* [USAP Field Guide](https://www.usap.gov/USAPgov/travelAndDeployment/documents/USAP-Continental-Field-Manual.pdf): Snowmobiles, Generators, and Renewable Energy Power Systems - page 56-63
+	* Types: 4 stroke (intake, compression, power, and exhaust), 2 stroke (intake/compression, power/exhaust)
+	* Fuels: avgas, mogas, premix, diesel 
+	* Controls: throttle, choke, priming
+	* Components: carburetor, piston, injector, spark plug, crankshaft, belt
+* Communications
+* Navigation
+* First Aid
+* Weather
+
+[University of Utah Books](https://www.awls.online/library)
 
 Vendors 
 	- IMU: KVH, Honeywell

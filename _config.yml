@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Andrew Mullen, Ph.D."
   avatar           : "headshot.jpg"
-  bio              : "Senior Research Engineer <br> Cornell University"
-  location         : "Ithaca, NY"
+  bio              : 
+  location         : 
   employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=_MPATb0AAAAJ&hl=en"

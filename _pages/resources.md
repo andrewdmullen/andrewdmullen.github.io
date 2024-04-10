@@ -20,7 +20,7 @@ Here is a collection of resources and links I have found useful:
 	* Small Boat Operations: [NOAA small boat manual](http://www.omao.noaa.gov/sites/default/files/documents/2018%200430%20SBS%26PM%204.1.pdf)
 	* Large Research Vessels: [UNOLS Cruise Planning](https://www.unols.org/vessel-schedules/cruise-planning-information)
 	* Wilderness Medicine: [Airie Wilderness Medicine Manual](https://aeriemedicine.com/textbook)
-	* Flying: [FAA - Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)
+	* Flying: [FAA - Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak), [FAA - Airplane Flying Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook)
 	* Ropes & Rigging: [US Armed Forces Guide to Rigging (TM 3-34.86) / Rigging Techniques, Procedures, and Applications](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tm3_34x86.pdf)
 * Organizations
 	* American Academy of Underwater Sciences, Scientific Diving: [https://www.aaus.org](https://www.aaus.org) 

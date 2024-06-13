@@ -5,13 +5,26 @@ permalink: /hobbies/
 author_profile: true
 ---
 
-Outside of work I enjoy outdoor activities and athletics. Below are some pictures and a list of some the activities.
+Outside of work I enjoy outdoor activities and athletics. Below are some pictures and a list of some the activities I have taken part in.
 
 ### Triathlon
 
 * Ironman Arizona 2022 — Finish 12:47:32 / Swim 1:36:52 / Bike 6:32:35 / Run 4:13:27
 * Half Ironman Santa Cruz 2022 — Finish 5:26:40 / Swim 41:12 / Bike 2:46:00 / Run 1:47:44
 * Ironman New Zealand 2024 — Finish 13:16:48 / Swim 1:46:44 / Bike 6:31:38 / Run 4:39:53
+* Half Ironman Oceanside 2024 — Finish 5:32:22  / Swim 51:27 / Bike 2:57:23 / Run 1:33:17
+
+### Running
+* Mountains 2 Beach Marathon, Ventura California, 2024 — Finish 2:55:42 
+
+### Mountaineering
+
+* Denali, Alaska (20,310 ft, West Butress Route) - June 2024, Guided by Tad McCrea AAI
+* Chimborazo, Ecuador (20,549 ft) - Jan 2024, Guided by Camilo Andrade Andean Face
+* Cayambe, Ecuador (18,996 ft) - Jan 2024, Guided by Camilo Andrade Andean Face
+* Mount Whitney, California (14,505 ft, Non-Techincal) - Summer 2021, Unguided
+* Mount Rainer, Washington (14,411 ft, Disappointment Cleaver Route ) - Summer 2019, Unguided
+* Mount Baker, Washington (10,786 ft, Coleman/Deming Route) - Summer 2019, Unguided
 
 ### Backpacking: Pacific Crest Trail
 
@@ -22,14 +35,6 @@ I am section hiking the Pacific Crest Trail over time. So far I have had the opp
 * Southern California, Summer 2021: Campo (Mile 0) to Lake Arrowhead (Mile 298) — ~298 miles
 
 Looking forward to doing more in the future!
-
-### Mountaineering
-
-* Chimborazo (20,549 ft), Ecuador, Jan 2024
-* Cayambe (18,996 ft), Ecuador, Jan 2024
-* Mount Whitney (14,505 ft), California, Summer 2021 [non-technical]
-* Mount Rainer (14,411 ft), Washington, Summer 2019
-* Mount Baker (10,786 ft), Washington, Summer 2019
 
 
 ## Pictures

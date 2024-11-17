@@ -10,7 +10,9 @@ A list of publications can also be found on my [CV](https://andrewdmullen.github
 
 ## Peer Reviewed Journal Articles
 
-* **"Crevasse refreezing and signatures of retreat observed at Kamb Ice Stream grounding zone", Nature Geoscience (2023)** <br> J. D. Lawrence, P. M. Washam, C. Stevens, C. Hulbe, H. J. Horgan, G. Dunbar, T. Calkin, C. Stewart, N. Robinson, **A. D. Mullen**, M. R. Meister, B. C. Hurwitz, E. Quartini, D. J. G. Dichek, A. Spears & B. E. Schmidt <br>
+* **Recent sedimentology at the grounding zone of the Kamb Ice stream, West Antarctica and implications for ice shelf extent, Quaternary Science Reviews (2024)** <br> T Calkin, GB Dunbar, C Atkins, A Carter, JJ Coenen, S Eaves, CE Ginnane, NR Golledge, DM Harwood, HJ Horgan, BC Hurwitz, C Hulbe, JD Lawrence, R Levy, JW Marschalek, AP Martin, **AD Mullen**, S Neuhaus, E Quartini, BE Schmidt, C Stevens, JC Turnbull, P Vermeesch, PM Washam
+[https://doi.org/10.1016/j.quascirev.2024.108988](https://doi.org/10.1016/j.quascirev.2024.108988)
+* **"Crevasse refreezing and signatures of retreat observed at Kamb Ice Stream grounding zone", Nature Geoscience (2023)** <br> JD Lawrence, PM Washam, C. Stevens, C Hulbe, HJ Horgan, G Dunbar, T Calkin, C Stewart, N Robinson, **A. D. Mullen**, MR Meister, BC Hurwitz, E Quartini, DJG Dichek, A Spears, BE Schmidt <br>
 [https://doi.org/10.1038/s41561-023-01129-y](https://doi.org/10.1038/s41561-023-01129-y) (Open Access)
 
 | <img src="/images/publications/2023_Lawrence_NatGeoscience_Fig01.webp" width="600" height="300" style="display: block; margin: auto;"/>  Fig 1. Integrated ROV observations illuminate ice, ocean and seafloor connections in a recently ungrounded region along the Kamb Ice Stream coast.| <img src="/images/publications/2023_Lawrence_NatGeoscience_Fig03.webp" width="700" height="350" style="display: block; margin: auto;"/> Fig 3. Supercooled water and refreezing in a basal crevasse.|

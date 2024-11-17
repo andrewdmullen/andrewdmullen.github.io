@@ -80,9 +80,9 @@ I worked as a Senior Research Engineer at [Cornell University](https://astro.cor
 
 ### [Field Work](https://andrewdmullen.github.io/fieldwork/)
 
-* Conducted field research seasons in: Antarctica (x3), the Arctic (x3), the Red Sea (x2), the Caribbean (x2), West Africa (x2), the Pacific (x3), and the Gulf of Mexico 
+* Conducted field research seasons in: Antarctica (x3), the Arctic (x4), the Red Sea (x2), the Caribbean (x2), West Africa (x2), the Pacific (x3), and the Gulf of Mexico 
 * Performed research utilizing: scientific diving, research vessels, underwater robotic vehicles, towed ocean payloads, and geophysical instrumentation
-* Training: AAUS Scientific Diver (2012, over 150 lifetime dives), Wilderness EMT (training complete, currently finishing testing), Antarctic Field Training (2018, 2019, 2021)
+* Training: AAUS Scientific Diver (2012, over 150 lifetime dives), Wilderness EMT (2024), Antarctic Field Training (2018, 2019, 2021)
 
 
 ### [Outside of Work](https://andrewdmullen.github.io/hobbies/) 

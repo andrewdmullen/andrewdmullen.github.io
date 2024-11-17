@@ -59,6 +59,10 @@ var addressPoints = [
   "<u>Research</u> <br> Location: Orca Basin Brine Pool <br> Date: Summer 2023 (2 weeks) <br> Project: ROV Study of Brine Pool <br> Member Institution: Cornell University", 
   26.9167, -91.3333
   ],
+   [
+  "<u>Research</u> <br> Location: Milne Fiord <br> Date: Summer 2023 (2 weeks) <br> Project: Oceanographic Survey of Milne Fiord <br> Member Institution: Cornell University", 
+  82.462622, -80.738315
+  ],
 
 
   [

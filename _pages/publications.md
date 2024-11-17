@@ -10,8 +10,12 @@ A list of publications can also be found on my [CV](https://andrewdmullen.github
 
 ## Peer Reviewed Journal Articles
 
-* **Recent sedimentology at the grounding zone of the Kamb Ice stream, West Antarctica and implications for ice shelf extent, Quaternary Science Reviews (2024)** <br> T Calkin, GB Dunbar, C Atkins, A Carter, JJ Coenen, S Eaves, CE Ginnane, NR Golledge, DM Harwood, HJ Horgan, BC Hurwitz, C Hulbe, JD Lawrence, R Levy, JW Marschalek, AP Martin, **AD Mullen**, S Neuhaus, E Quartini, BE Schmidt, C Stevens, JC Turnbull, P Vermeesch, PM Washam
+* **"Recent sedimentology at the grounding zone of the Kamb Ice stream, West Antarctica and implications for ice shelf extent", Quaternary Science Reviews (2024)** <br> T Calkin, GB Dunbar, C Atkins, A Carter, JJ Coenen, S Eaves, CE Ginnane, NR Golledge, DM Harwood, HJ Horgan, BC Hurwitz, C Hulbe, JD Lawrence, R Levy, JW Marschalek, AP Martin, **AD Mullen**, S Neuhaus, E Quartini, BE Schmidt, C Stevens, JC Turnbull, P Vermeesch, PM Washam
 [https://doi.org/10.1016/j.quascirev.2024.108988](https://doi.org/10.1016/j.quascirev.2024.108988)
+
+* **“Direct observations of melting, freezing, and ocean circulation in an ice shelf basal crevasse”, Science Advances (2023)** <br> P Washam, JD Lawrence, CL Stevens, CL Hulbe, HJ Horgan, NJ Robinson, CL Stewart, A Spears, E Quartini, B Hurwitz, MR Meister, **AD Mullen**, DJ Dichek, F Bryson, BE Schmidt,
+[https://doi.org/10.1126/sciadv.adi7638](https://doi.org/10.1126/sciadv.adi7638)
+
 * **"Crevasse refreezing and signatures of retreat observed at Kamb Ice Stream grounding zone", Nature Geoscience (2023)** <br> JD Lawrence, PM Washam, C. Stevens, C Hulbe, HJ Horgan, G Dunbar, T Calkin, C Stewart, N Robinson, **A. D. Mullen**, MR Meister, BC Hurwitz, E Quartini, DJG Dichek, A Spears, BE Schmidt <br>
 [https://doi.org/10.1038/s41561-023-01129-y](https://doi.org/10.1038/s41561-023-01129-y) (Open Access)
 

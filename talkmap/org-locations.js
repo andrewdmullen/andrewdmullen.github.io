@@ -60,7 +60,7 @@ var addressPoints = [
   26.9167, -91.3333
   ],
    [
-  "<u>Research</u> <br> Location: Milne Fiord <br> Date: Summer 2023 (2 weeks) <br> Project: Oceanographic Survey of Milne Fiord <br> Member Institution: Cornell University", 
+  "<u>Research</u> <br> Location: Milne Fiord <br> Date: Summer 2024 (2 weeks) <br> Project: Oceanographic Survey of Milne Fiord <br> Member Institution: Cornell University", 
   82.462622, -80.738315
   ],
 

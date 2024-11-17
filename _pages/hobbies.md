@@ -5,7 +5,7 @@ permalink: /hobbies/
 author_profile: true
 ---
 
-Outside of work I enjoy outdoor activities and athletics. Below are some pictures and a list of some the activities I have taken part in.
+Outside of work I enjoy outdoor activities and athletics --  including running, trialthlons, mountaineering, backpacking, and surfing. Here are a few of the things I have been up to.
 
 ### Triathlon
 

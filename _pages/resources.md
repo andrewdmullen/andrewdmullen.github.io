@@ -99,12 +99,23 @@ Scientific Organizations, Associations, Engineering Companies, Etc.
 	* SIO: [https://scripps.ucsd.edu/postdocs/program](https://scripps.ucsd.edu/postdocs/program)
 	* WHOI: [https://www.whoi.edu/what-we-do/educate/postdoctoral/postdocs-scholar-fellowship-appointments/apo-postdoctoral-scholar/](https://www.whoi.edu/what-we-do/educate/postdoctoral/postdocs-scholar-fellowship-appointments/apo-postdoctoral-scholar/)
 * Assorted Field Schools & Summer Schools
-	* Juneau Icefield Research Program: [https://juneauicefield.org/students/information](https://juneauicefield.org/students/information)
-	* Internatioal Geobiology Course: [https://web.gps.caltech.edu/GBcourse/information.html](https://web.gps.caltech.edu/GBcourse/information.html)
-	* Seamester: [https://www.seamester.com](https://www.seamester.com)
-	* JPL NASA Science Mission Design Schools: [https://www.jpl.nasa.gov/edu/intern/apply/nasa-science-mission-design-schools/](https://www.jpl.nasa.gov/edu/intern/apply/nasa-science-mission-design-schools/) 
-	* UNOLS Chief Scientist Training: [https://www.unols.org/nsf-unols-chief-scientist-training-cruise](https://www.unols.org/nsf-unols-chief-scientist-training-cruise)
-	* Wilderness First Responder: [https://www.wildmed.com/course-type/wilderness-first-responder/](https://www.wildmed.com/course-type/wilderness-first-responder/), [https://soloschools.com](https://soloschools.com), [https://desertmountainmedicine.com](https://desertmountainmedicine.com)
+	* Cryosphere
+		* Juneau Icefield Research Program: [https://juneauicefield.org/students/information](https://juneauicefield.org/students/information)
+		* University of the Arctic (UArctic), a network of universities, colleges, research institutes - [https://www.uarctic.org/](https://www.polar-academy.com/)
+		* Svalbard Summer School - [https://www.polar-academy.com/](https://www.polar-academy.com/)
+	* Ocean
+		* UNOLS Chief Scientist Training: [https://www.unols.org/nsf-unols-chief-scientist-training-cruise](https://www.unols.org/nsf-unols-chief-scientist-training-cruise)
+		* WHOI GFD Shummer School: [https://gfd.whoi.edu](https://gfd.whoi.edu)
+		* UW Friday Harbor Labs: [https://marinebiology.uw.edu/field-stations-ships/friday-harbor-laboratories/](https://marinebiology.uw.edu/field-stations-ships/friday-harbor-laboratories/)
+	* Planetary Science / Astrobiology
+		* JPL NASA Science Mission Design Schools: [https://www.jpl.nasa.gov/edu/intern/apply/nasa-science-mission-design-schools/](https://www.jpl.nasa.gov/edu/intern/apply/nasa-science-mission-design-schools/) 
+		* International Geobiology Course: [https://web.gps.caltech.edu/GBcourse/information.html](https://web.gps.caltech.edu/GBcourse/information.html)
+
+	* Wilderness Medicine 
+		* [https://www.nols.edu/portal/wmi/courses/22323/](https://www.nols.edu/portal/wmi/courses/22323/)
+		* [https://www.wildmed.com/course-type/wilderness-first-responder/](https://www.wildmed.com/course-type/wilderness-first-responder/)
+		* [https://soloschools.com](https://soloschools.com)
+		* [https://desertmountainmedicine.com](https://desertmountainmedicine.com)
 
 ## Engineering Resources
 
@@ -121,7 +132,7 @@ Scientific Organizations, Associations, Engineering Companies, Etc.
 	* Mechanical Fabrication: Xometry, Protolabs
 	* Embedded Computers & Microcontrollers (Low Cost): Latte Panda, Raspberry Pi, NVIDIA, Arduino, Teensy, Pixhawk 
 
-* Companies & Vendors - Ocean Engineering & Science
+* Companies & Vendors - Ocean Engineering & Science (more comprehensive list here: [Oceanography Resources List](https://andrewdmullen.github.io/resources_oceanography/))
 	* Underwater Connectors: SubConn, SeaConn
 	* Underwater Thrusters: Blue Robotics, Tecnadyne
 	* Ocean Acoustics - Navigation / DVL: Nortek, Sonardyne, iXblue, Teledyne, Linkquest
@@ -132,7 +143,7 @@ Scientific Organizations, Associations, Engineering Companies, Etc.
 	* Ocean Eqquipment, General: Teledyne, MacCartney, Ocean Innovations, Shark Marine
 	* Oceanographic Rental Equipment: Ashtead, Acteon / Seatronics, Okeanus
 	
-* Companies & Vendors - Underwater Robotics
+* Companies & Vendors - Underwater Robotics (more comprehensive list here: [Oceanography Resources List](https://andrewdmullen.github.io/resources_oceanography/))
 	* ROV (mini): Video Ray, Boxfish, Seabotix, [SRS](https://www.srsfusion.com/srs-fusion), Blue Robotics
 	* ROV (large): SAAB, Argus, SubAtlantic, Seatronics, Forum, DOER
 	* ROV (rentals & services): [Oceaneering](https://www.oceaneering.com/global-explorer-rov/), [Pelagic Research Services](https://pelagic-services.com/web2/index.php/odysseus-rov-system/)

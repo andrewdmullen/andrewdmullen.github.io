@@ -9,6 +9,10 @@ Here is a collection of resources and links I have found useful:
 
 ## Field Work - Preperation & Planning
 
+### Discipline Resource Lists
+* [Oceanography Resources](https://andrewdmullen.github.io/resources_oceanography/) 
+* [Polar Resources](https://andrewdmullen.github.io/resources_polar/) 
+
 ### Example Packing Lists
 * [Packing List - Polar Field Work, Personal Gear](https://andrewdmullen.github.io/PackingList_PolarGear/) 
 * [Packing List - General Field Work, Tool Kit](https://andrewdmullen.github.io/PackingList_FieldTools/)  

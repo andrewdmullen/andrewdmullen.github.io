@@ -77,12 +77,12 @@ author_profile: true
   - Cyrolist Email Lists - https://lists.cryolist.org/mailman/listinfo/cryolist
 
 - Field Work
-  - Field Guides
-	    - US Antarctic Program, Field Manual - https://www.usap.gov/travelanddeployment/540/
-	    - Antarctica New Zealand, Field Manual - https://www.adam.antarcticanz.govt.nz/nodes/view/64579#idx239804
-	    - INTERACT, Practical Field Guide - https://eu-interact.org/publication/interact-practical-field-guide/
-	    - INTERACT, Fieldwork Planning Handbook - https://eu-interact.org/publication/interact-fieldwork-planning-handbook/
-	    - INTERACT, Communication and Navigation - https://eu-interact.org/app/uploads/2021/09/INTERACT-Communication-and-Navigation-guidebook-21-September-2021.pdf
+	- Field Guides
+		- US Antarctic Program, Field Manual - https://www.usap.gov/travelanddeployment/540/
+		- Antarctica New Zealand, Field Manual - https://www.adam.antarcticanz.govt.nz/nodes/view/64579#idx239804
+		- INTERACT, Practical Field Guide - https://eu-interact.org/publication/interact-practical-field-guide/
+		- INTERACT, Fieldwork Planning Handbook - https://eu-interact.org/publication/interact-fieldwork-planning-handbook/
+		- INTERACT, Communication and Navigation - https://eu-interact.org/app/uploads/2021/09/INTERACT-Communication-and-Navigation-guidebook-21-September-2021.pdf
 
 - Companies & Vendors - Polar Field Equipment
 	* Tents: [Airframes Alaska](https://www.airframesalaska.com) - Arctic Oven, [Rac Tent](https://www.ractent.com), [Weatherhaven](https://www.weatherhaven.com/) - Polarhaven / Endurance, [Ratcliffe-Ellis](http://www.ratcliffe-ellis.com/) - Scott Pyramid Tents

@@ -13,25 +13,25 @@ author_profile: true
   - [Wikipedia List of Ocean Institutions](https://en.wikipedia.org/wiki/List_of_oceanographic_institutions_and_programs?wprov=sfti1#United_States)
 
 - Academic Oceanographic Institutions (USA)
-  - [Scripps Institution of Oceanography](https://scripps.ucsd.edu/) (San Diego CA)
-  - [Woods Hole Oceanographic Institute](https://www.whoi.edu/) (Woods Hole MA)
-  - [University of Washington](https://www.ocean.washington.edu/) & [UW APL](https://apl.uw.edu/departments/opd/home.php) (Seattle WA)
-  - [Lamont-Doherty, Univ. Columbia](https://lamont.columbia.edu/) (New York NY)
-  - [Rosenthali, Univ. Miami](https://www.earth.miami.edu/) (Miami FL)
-  - [Oregon State](https://ceoas.oregonstate.edu/) (Corvallis OR)
-  - [Stanford](https://oceans.stanford.edu/) (Palo Alto & Monterey CA)
-  - [Virginia Institute of Marine Sciences](https://www.vims.edu/) (Gloucester Point VA)
+  - [Scripps Institution of Oceanography](https://scripps.ucsd.edu/) - San Diego CA
+  - [Woods Hole Oceanographic Institute](https://www.whoi.edu/) - Woods Hole MA
+  - [University of Washington](https://www.ocean.washington.edu/) & [UW APL](https://apl.uw.edu/departments/opd/home.php) - Seattle WA
+  - [Lamont-Doherty, Univ. Columbia](https://lamont.columbia.edu/) - New York NY
+  - [Rosenthali, Univ. Miami](https://www.earth.miami.edu/) - Miami FL
+  - [Oregon State](https://ceoas.oregonstate.edu/) - Corvallis OR
+  - [Stanford](https://oceans.stanford.edu/) - Palo Alto & Monterey CA
+  - [Virginia Institute of Marine Sciences](https://www.vims.edu/) - Gloucester Point VA
   - UCSC, UCSB, UCD, Univ. Rutgers, Univ Delaware, Univ. Hawaii, Florida Atlantic University Harbor Branch Oceanographic Institute, and many more
 
 - Non-Profit & Related Oceanographic Organizations
-  - [Monterey Bay Aquiarium Research Institute](https://www.mbari.org/) (Monterey, CA - Packard Foundation)
-  - [Marine Biological Laboratory](https://www.mbl.edu/) (Woods Hole, MA)
-  - [Bigelow Laboratory for Ocean Sciences](https://www.bigelow.org/) (East Boothbay, Maine)
-  - [Ocean Exploration Trust, OET](https://nautiluslive.org) (EV Nautilus) -- [ROV Hercules Streams](https://nautiluslive.org/)
-  - [NOAA Ocean Exploration](https://oceanexplorer.noaa.gov/welcome.html) (RV Okeanus Explorer)  
-  - [Schmidt Ocean Institute](https://schmidtocean.org/) (RV Falkor -  Schmidt) -- [ROV SuBastion Streams](https://schmidtocean.org/technology/live-from-rv-falkor/)
-  - [OceanX](https://oceanx.org/) (RV OceanXplorer - Dalio)
-  - [Tara Oceans](https://fondationtaraocean.org/en/expedition/tara-europa/) (France)
+  - [Monterey Bay Aquiarium Research Institute](https://www.mbari.org/) - Monterey CA, Packard Foundation
+  - [Marine Biological Laboratory](https://www.mbl.edu/) - Woods Hole MA
+  - [Bigelow Laboratory for Ocean Sciences](https://www.bigelow.org/) - East Boothbay Maine
+  - [Ocean Exploration Trust, OET](https://nautiluslive.org) - EV Nautilus -- [ROV Hercules Streams](https://nautiluslive.org/)
+  - [NOAA Ocean Exploration](https://oceanexplorer.noaa.gov/welcome.html) - RV Okeanus Explorer
+  - [Schmidt Ocean Institute](https://schmidtocean.org/) - RV Falkor, Schmidt Foundation -- [ROV SuBastion Streams](https://schmidtocean.org/technology/live-from-rv-falkor/)
+  - [OceanX](https://oceanx.org/) - RV OceanXplorer, Dalio Foundation
+  - [Tara Oceans](https://fondationtaraocean.org/en/expedition/tara-europa/) - France
 
 - Government Labs - Oceanography & Adjacent
   - NOAA Labs - https://research.noaa.gov/labs-programs/, https://www.noaa.gov/education/noaa-in-your-backyard, https://www.fisheries.noaa.gov/about/west-coast-region
@@ -86,11 +86,11 @@ author_profile: true
 - Meetings
 
 	- Meetings, Large General:
-		- [American Geophysical Union](https://www.agu.org/annual-meeting) (Annually in Fall)
-		- [Ocean Sciences](https://www.agu.org/ocean-sciences-meeting) (Even Years)
-		- [Oceans](https://oceansconference.org/) (Annually, Engineering Focus)
-		- [International Coral Reef Society](https://coralreefs.org/conferences-and-meetings/) (ICRS, Every Several Years)
-		- Meetings, Small Specific:
+		- [American Geophysical Union](https://www.agu.org/annual-meeting) - Annually in Fall
+		- [Ocean Sciences](https://www.agu.org/ocean-sciences-meeting) - Even Years
+		- [Oceans](https://oceansconference.org/) - Annually, Engineering Focus
+		- [International Coral Reef Society](https://coralreefs.org/conferences-and-meetings/) (ICRS) - Every Several Years
+	- Meetings, Small Specific:
 		- [Gordon Research Conferences](https://www.grc.org/)
 		- [Ocean Microscale Biophysics](https://www.microscalemeeting.org/)
 		- Many Additional
@@ -269,7 +269,7 @@ author_profile: true
   - Field Work
     - Organizations
       - [American Academy of Underwater Sciences](https://www.aaus.org),  Scientific Diving
-     - [University-National Oceanographic Laboratory System (UNOLS)](https://www.unols.org), US Research Vessels
+      - [University-National Oceanographic Laboratory System (UNOLS)](https://www.unols.org), US Research Vessels
     - Resources
       - Diving - [NOAA Dive Manual](http://www.omao.noaa.gov/sites/default/files/documents/NDSSM%20Final_041217.pdf)
       - Small Boat Operations - [NOAA Small Boat Manual](http://www.omao.noaa.gov/sites/default/files/documents/2018%200430%20SBS%26PM%204.1.pdf)

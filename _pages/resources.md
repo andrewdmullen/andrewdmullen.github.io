@@ -12,6 +12,7 @@ Scientific Organizations, Associations, Engineering Companies, Etc.
 
 * [Oceanography Resources List](https://andrewdmullen.github.io/resources_oceanography/) 
 * [Polar Resources List](https://andrewdmullen.github.io/resources_polar/) 
+* [Planetary Science & Astrobiology Resources List](https://andrewdmullen.github.io/resources_planetary/) 
 
 ## Field Work - Preperation & Planning
 

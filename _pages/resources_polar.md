@@ -85,8 +85,8 @@ author_profile: true
 	    - INTERACT, Communication and Navigation - https://eu-interact.org/app/uploads/2021/09/INTERACT-Communication-and-Navigation-guidebook-21-September-2021.pdf
 
 - Companies & Vendors - Polar Field Equipment
-  - Tents: Airframes Alaska (Arctic Oven), [Rac Tent] (https://www.ractent.com) (Rac-Tent), [Weatherhaven] (https://www.weatherhaven.com/) (Polarhaven, Endurance), Ratcliffe-Ellis (Scott Pyramid Tents)
-  - Sleds: Yukon Expedition Sleds (Arctic Nomad Sleds etc.), Airframes Alaska / Northern Sled works (Siglin Sleds), Ratcliffe-Ellis (Nansen & Komatik Sleds)
-  - Ice Drills: Kovacs Drills, Jiffy Drills
-  - Ground Transportation: Snowmobile, [Pistenbully] (https://www.pistenbully.com/), Hagglund
-  - Air Transportation: Twin Otter (DHC6) - Kenn Borek Air, Basler (DC3) - Kenn Borek Air, LC-130 (Hercules) - New York Air National Guard, 109AW
+	* Tents: [Airframes Alaska](https://www.airframesalaska.com) - Arctic Oven, [Rac Tent](https://www.ractent.com), [Weatherhaven](https://www.weatherhaven.com/) - Polarhaven / Endurance, [Ratcliffe-Ellis](http://www.ratcliffe-ellis.com/) - Scott Pyramid Tents
+	* Sleds: [Yukon Expedition Sleds](https://www.yukonsleds.com) - Arctic Nomad Sleds etc., [Airframes Alaska / Northern Sled works](https://www.airframesalaska.com) - Siglin Sleds, [Ratcliffe-Ellis](http://www.ratcliffe-ellis.com/) - Nansen & Komatik Sleds
+	* Ice Drills: [Kovacs Drills](https://kovacsicedrillingequipment.com), Jiffy Drills
+	* Ground Transportation: Snowmobile, [Pistenbully](https://www.pistenbully.com/), Hagglund
+	* Air Transportation: Twin Otter (DHC6) - [Kenn Borek Air](https://borekair.com/), Basler (DC3) - [Kenn Borek Air](https://borekair.com/), LC-130 (Hercules) - [New York Air National Guard, 109AW](https://en.wikipedia.org/wiki/109th_Airlift_Wing)

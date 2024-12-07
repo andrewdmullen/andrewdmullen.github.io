@@ -21,7 +21,7 @@ Scientific Organizations, Associations, Engineering Companies, Etc.
 
 ### Field Work Resources
 * Field Work Guides & Related (free resources)
-	* Polar: [US Antarctic Program - Field Manual](https://www.usap.gov/usapgov/travelAndDeployment/documents/ASC-18-025.pdf),  [Antarctica New Zealand - Field Manual](https://www.adam.antarcticanz.govt.nz/nodes/view/64579), [INTERACT Practical Field Guide](https://eu-interact.org/app/uploads/2019/09/INTERACT-Practical-Field-Guide.pdf)
+	* Polar: [US Antarctic Program - Field Manual](https://www.usap.gov/usapgov/travelAndDeployment/documents/ASC-18-025.pdf),  [Antarctica New Zealand - Field Manual](https://www.adam.antarcticanz.govt.nz/nodes/view/64579), [INTERACT Practical Field Guide](https://eu-interact.org/app/uploads/2019/09/INTERACT-Practical-Field-Guide.pdf), [INTERACT Fieldwork Planning Handbook](https://eu-interact.org/publication/interact-fieldwork-planning-handbook/), [INTERACT Communication and Navigation](https://eu-interact.org/app/uploads/2021/09/INTERACT-Communication-and-Navigation-guidebook-21-September-2021.pdf)
 	* Diving: [NOAA dive manual](http://www.omao.noaa.gov/sites/default/files/documents/NDSSM%20Final_041217.pdf)
 	* Small Boat Operations: [NOAA small boat manual](http://www.omao.noaa.gov/sites/default/files/documents/2018%200430%20SBS%26PM%204.1.pdf)
 	* Large Research Vessels: [UNOLS Cruise Planning](https://www.unols.org/vessel-schedules/cruise-planning-information)
@@ -89,7 +89,7 @@ Scientific Organizations, Associations, Engineering Companies, Etc.
 	* SIO: [https://scripps.ucsd.edu/undergrad/surf](https://scripps.ucsd.edu/undergrad/surf)
 	* WHOI: [https://www.whoi.edu/what-we-do/educate/undergraduate-programs/summer-student-fellowship/](https://www.whoi.edu/what-we-do/educate/undergraduate-programs/summer-student-fellowship/)
 * Graduate Fellowships
-	* NSF GRFP: [https://www.nsfgrfp.org](https://www.nsfgrfp.org)
+	* NSF GRFP: [https://www.nsfgrfp.org](https://www.nsfgrfp.org) -- [applications examples from Alex Lang](https://www.alexhunterlang.com/nsf-fellowship)
 	* NASA FINNEST: [https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7bEA8742DF-E6E6-67E9-4D56-267EF31C1CDB%7d](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7bEA8742DF-E6E6-67E9-4D56-267EF31C1CDB%7d)
 	* NDSEG: [https://ndseg.org](https://ndseg.org)
 	* Link Foundation Ocean Engineering and Instrumentation Ph.D. Fellowship:[https://linkoe.org](https://linkoe.org)
@@ -140,10 +140,10 @@ Scientific Organizations, Associations, Engineering Companies, Etc.
 	* AUV: Kongsberg, Oceanographic Systems Lab, Teledyne, Bluefin Robotics, MRV
 
 * Companies & Vendors - Polar Field Equipment
-	* Tents: [Airframes Alaska](https://www.airframesalaska.com) (Arctic Oven), [Rac Tent] (https://www.ractent.com) (Rac-Tent), [Weatherhaven] (https://www.weatherhaven.com/) (Polarhaven, Endurance), [Ratcliffe-Ellis](http://www.ratcliffe-ellis.com/) (Scott Pyramid Tents)
-	* Sleds: [Yukon Expedition Sleds](https://www.yukonsleds.com) (Arctic Nomad Sleds etc.), [Airframes Alaska / Northern Sled works](https://www.airframesalaska.com) (Siglin Sleds), [Ratcliffe-Ellis](http://www.ratcliffe-ellis.com/) (Nansen & Komatik Sleds)
+	* Tents: [Airframes Alaska](https://www.airframesalaska.com) - Arctic Oven, [Rac Tent](https://www.ractent.com), [Weatherhaven](https://www.weatherhaven.com/) - Polarhaven / Endurance, [Ratcliffe-Ellis](http://www.ratcliffe-ellis.com/) - Scott Pyramid Tents
+	* Sleds: [Yukon Expedition Sleds](https://www.yukonsleds.com) - Arctic Nomad Sleds etc., [Airframes Alaska / Northern Sled works](https://www.airframesalaska.com) - Siglin Sleds, [Ratcliffe-Ellis](http://www.ratcliffe-ellis.com/) - Nansen & Komatik Sleds
 	* Ice Drills: [Kovacs Drills](https://kovacsicedrillingequipment.com), Jiffy Drills
-	* Ground Transportation: Snowmobile, [Pistenbully] (https://www.pistenbully.com/), Hagglund
+	* Ground Transportation: Snowmobile, [Pistenbully](https://www.pistenbully.com/), Hagglund
 	* Air Transportation: Twin Otter (DHC6) - [Kenn Borek Air](https://borekair.com/), Basler (DC3) - [Kenn Borek Air](https://borekair.com/), LC-130 (Hercules) - [New York Air National Guard, 109AW](https://en.wikipedia.org/wiki/109th_Airlift_Wing)
 
 * Companies & Vendors - General Outdoors

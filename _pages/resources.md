@@ -7,7 +7,7 @@ author_profile: true
 
 Here is a collection of resources and links I have found useful:
 
-## Resource Lists
+## Resource Lists - By Field
 Scientific Organizations, Associations, Engineering Companies, Etc.
 
 * [Oceanography Resources List](https://andrewdmullen.github.io/resources_oceanography/) 

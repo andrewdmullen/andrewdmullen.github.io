@@ -20,7 +20,7 @@ author_profile: true
   - [Rosenthali, Univ. Miami](https://www.earth.miami.edu/) (Miami FL)
   - [Oregon State](https://ceoas.oregonstate.edu/) (Corvallis OR)
   - [Stanford](https://oceans.stanford.edu/) (Palo Alto & Monterey CA)
-  - [Virginia Institute of Marine Sciences](https://www.vims.edu/) (Gloucester Point, VA)
+  - [Virginia Institute of Marine Sciences](https://www.vims.edu/) (Gloucester Point VA)
   - UCSC, UCSB, UCD, Univ. Rutgers, Univ Delaware, Univ. Hawaii, Florida Atlantic University Harbor Branch Oceanographic Institute, and many more
 
 - Non-Profit & Related Oceanographic Organizations
@@ -42,7 +42,6 @@ author_profile: true
   - BOEM - https://www.boem.gov/
 
 - Defense / Military
-
 	- Navy, Civilian
 		- US Naval Research Lab (NRL), Washington DC - https://www.nrl.navy.mil/
 		- Naval Information Warfare Center (NIWC) Pacific, San Diego CA - https://www.niwcpacific.navy.mil/
@@ -67,10 +66,10 @@ author_profile: true
 		- RTI International, non-profit science research institute, North Carolina  - https://www.rti.org
 
 	    
-  - Smaller Organizations - a few examples
-	    - Applied Ocean Sciences, consultants acoustics focus - https://www.appliedoceansciences.com/
-	    -  Wild Beacon Consulting, Science & Sustainibility Consulting - https://www.wildbeaconconsulting.com/
-	    - Blue Latitudes - https://www.bluelatitudesllc.com/
+	- Smaller Organizations - a few examples
+		- Applied Ocean Sciences, consultants acoustics focus - https://www.appliedoceansciences.com/
+		-  Wild Beacon Consulting, Science & Sustainibility Consulting - https://www.wildbeaconconsulting.com/
+		- Blue Latitudes - https://www.bluelatitudesllc.com/
 
 **OCEANOGRAPHY - SCIENTIFIC ASSOCIATIONS ETC.**
 
@@ -231,7 +230,7 @@ author_profile: true
 		- [Pelagic Research Services](https://pelagic-services.com)
 		- [Acteon / Seatronics](https://acteon.com/energy-services/seatronics/)
 		
-		- Research ROVs
+	- Research ROVs
 		- [Jason](https://ndsf.whoi.edu/jason/) (WHOI)
 		- [Hercules](https://nautiluslive.org/tech/rov-hercules) (E/V Nautilus, NOAA)
 		- [Deep Discoverer](https://oceanexplorer.noaa.gov/technology/subs/deep-discoverer/deep-discoverer.html) (R/V Okeanos Explorer, NOAA)

@@ -57,19 +57,28 @@ author_profile: true
 		- Coast Guard - https://www.uscg.mil/
 		- Navy Meteorology & Oceanography Command (METOC) - https://www.metoc.navy.mil/
 
-- Misc Research Organization - Non-profits / Companies etc. With Some Ocean Adjacent Work
+- Misc Research Organization - Non-profits, Consulting, Companies etc. with ocean adjacent work
+	
 	- Large Institutions
-		- ESRI, GIS mapping company - https://www.esri.com/en-us/home 
 		- SRI International, non-profit science research institute, Bay Area - https://www.sri.com/
 		- SWRI, non-profit science research institute, San Antonio - https://www.swri.org/
 		- Battelle, non-profit science research institute, Ohio - https://www.battelle.org/ 
 		- RTI International, non-profit science research institute, North Carolina  - https://www.rti.org
+		- ESRI, GIS mapping company - https://www.esri.com/en-us/home
+		- Many others
 
-	    
-	- Smaller Organizations - a few examples
+	- Smaller Organizations
 		- Applied Ocean Sciences, consultants acoustics focus - https://www.appliedoceansciences.com/
-		-  Wild Beacon Consulting, Science & Sustainibility Consulting - https://www.wildbeaconconsulting.com/
+		- Bay Area Environmental Research Institute, Bay Area - https://baeri.org
+		- Ocean STL Consulting - https://www.oceanstl.com
+		- Wild Beacon Consulting, Science & Sustainibility Consulting - https://www.wildbeaconconsulting.com/
 		- Blue Latitudes - https://www.bluelatitudesllc.com/
+		- Many others
+
+- Research Consortiums / Associations
+	- International Ocean Discovery Program (IODP), ocean drilling program - https://www.iodp.org
+	- University-National Oceanographic Laboratory System (UNOLS), US research vessels - https://www.unols.org
+
 
 **OCEANOGRAPHY - SCIENTIFIC ASSOCIATIONS ETC.**
 
@@ -85,15 +94,16 @@ author_profile: true
 
 - Meetings
 
-	- Meetings, Large General:
+	- Meetings, Large General
 		- [American Geophysical Union](https://www.agu.org/annual-meeting) - Annually in Fall
 		- [Ocean Sciences](https://www.agu.org/ocean-sciences-meeting) - Even Years
 		- [Oceans](https://oceansconference.org/) - Annually, Engineering Focus
 		- [International Coral Reef Society](https://coralreefs.org/conferences-and-meetings/) (ICRS) - Every Several Years
-	- Meetings, Small Specific:
+		- Many others
+	- Meetings, Small Specific
 		- [Gordon Research Conferences](https://www.grc.org/)
 		- [Ocean Microscale Biophysics](https://www.microscalemeeting.org/)
-		- Many Additional
+		- Many others
 
 - Publications
 
@@ -124,6 +134,7 @@ author_profile: true
 		- Waitt Foundation - https://www.waittfoundation.org 
 		- Heising-Simons Foundation - https://www.hsfoundation.org/
 		- Moore Foundation - https://www.moore.org/
+		- Sloan Foundation - https://sloan.org
 		- Many others
 
 
@@ -200,9 +211,13 @@ author_profile: true
 
 	- Ocean Misc
 		- [Del Mar Oceanographic](https://www.delmarocean.com/) - San Diego USA; Wirewalker
+		- [Kraken Robotics](https://www.krakenrobotics.com) - Canada; Batteris, LARS, Towed Platofrom
+		- [Sea Sciences](https://www.seasciences.com) - Massachusetts USA; acrobat lightweight towed science platform
+		- [Hydromea](https://www.hydromea.com) - Switzerland; optical modems
+		- [Deep](https://www.deep.com/products/) - UK; underwater habitats, refurbishing R/P FLIP
 
 - Companies & Vendors - Underwater Robotics
-	- Commercial ROVs - Small, less than ~150 lbs
+	- ROVs - Small, less than ~150 lbs
 		- Brief Overview: https://bluerobotics.com/how-much-does-an-rov-cost/
 		- [Box Fish Robotics](https://www.boxfishrobotics.com/) - New Zealand
 		- [Blue Robotics](https://bluerobotics.com/) - Los Angeles, USA
@@ -216,7 +231,7 @@ author_profile: true
 		- [Subseatech](https://www.subsea-tech.com/) - France
 		- [Video Ray](https://videoray.com/) - Pennsylvania USA
 
-	- Commercial ROVs - Large
+	- ROVs - Large
 		- [Argus](https://www.argus-rs.no) - Norway
 		- [DOER](https://www.doermarine.com/vehicles/rovs) - Alameda USA
 		- [Forum Energy Technologies](https://f-e-t.com/subsea/vehicles/) - Houston USA
@@ -225,12 +240,12 @@ author_profile: true
 		- [SAAB](https://www.saabseaeye.com/solutions/underwater-vehicles) - UK
 		- [SubAtlantic](https://f-e-t.com/subsea/vehicles/observation-class-rovs/) - Houston USA (part of FET)
 
-	- Commercial ROVs - Rentals
+	- ROVs - Rentals
 		- [Oceaneering](https://www.oceaneering.com/)
 		- [Pelagic Research Services](https://pelagic-services.com)
 		- [Acteon / Seatronics](https://acteon.com/energy-services/seatronics/)
 		
-	- Research ROVs
+	- Research ROVs - Large
 		- [Jason](https://ndsf.whoi.edu/jason/) (WHOI)
 		- [Hercules](https://nautiluslive.org/tech/rov-hercules) (E/V Nautilus, NOAA)
 		- [Deep Discoverer](https://oceanexplorer.noaa.gov/technology/subs/deep-discoverer/deep-discoverer.html) (R/V Okeanos Explorer, NOAA)
@@ -240,7 +255,7 @@ author_profile: true
 		- [Argus](https://oceanx.org/oceanxplorer/deep-sea-vehicles) (OceanX)
 		- [Deep Ocean Education](https://deepoceaneducation.org/) - Okeanus, Nautulis, Falkor
 
-	- Commercial AUVs
+	- AUVs
 		- [Bedrock Ocean](https://www.bedrockocean.com/) - Bay Area USA; AUV surveys with custom vehicle
 		- [Ecosub](https://www.ecosub.uk/) - UK; small AUVs
 		- [General Dyanmics - Bluefin Robotics](https://gdmissionsystems.com/underwater-vehicles/bluefin-robotics) - USA; Bluefin UUV
@@ -249,13 +264,16 @@ author_profile: true
 		- [Nautics Robotics](https://nauticusrobotics.com) - Houston USA; electric AUV / ROV, additional product 
 		- [Teledyne - Gavia](https://www.teledynemarine.com/gavia) - Iceland; Gavia, Osprey, SeaRaptor AUVs
 
-	- Commercial Gliders
+	- Human Occupied Vehicles
+		- [Triton Submarines](https://tritonsubs.com) - Florida USA
+
+	- Gliders
 		- [Marine Robotic Vehicles, MRV](https://www.mrvsys.com/) - San Diego USA; Spray Glider, ARGO floats
 		- [Teledyne - Webb](https://www.teledynemarine.com/brands/webb-research/slocum-glider) - USA; Solcum Glider
 		- [Alseamar](https://www.alseamar-alcen.com/products/underwater-glider/seaexplorer) - Sea Explorer Glider
 		- [UW-APL](https://apl.uw.edu/project/project.php?id=seaglider) - Seattle USA; Seaglider
 
-	- Commercial Autonomous Surface Robotics
+	- Autonomous Surface Robotics
 		- [Liquid Robotics](https://www.liquid-robotics.com/) - Hawaii & Virgina USA; Makes 'wave glider' surface vehicle owned by Boeing
 		- [Ocean Aero](https://www.oceanaero.com/) - Mississippi USA; Sail powered surface vehicle, MS
 		- [Sail Drone](https://www.saildrone.com/) - Bay Area USA; Sail powered surface vehicle
@@ -263,6 +281,16 @@ author_profile: true
 		
 	- ROV Software
 		- [GreenSea](https://greenseaiq.com/) - USA; Navigation
+	
+	- Large Offshore Energy Service / Engineering Companies - Wind, Hydrocarbon, Cables, Etc
+		- [Oceaneering](https://www.oceaneering.com/rov-services/) - Global; offshore ROVs etc
+		- [ROV Op](https://www.rovop.com) - Global; offshore ROVs
+		- [Deep Ocean](https://www.deepoceangroup.com)
+		- [DOF Subsea](https://www.dof.com/what-we-do/integrated-subsea-services) - Global; offshore ROVs etc
+		- [SubCom](https://www.subcom.com) - offshore cables
+		- [The Metals Company](https://metals.co) - offshore mining
+		- More such as: Subsea 7, Fugro, Equinor etc.
+		- Many others
 
 **OCEANOGRAPHY - FIELD WORK**
 
@@ -282,8 +310,14 @@ author_profile: true
     - Max Plank, S/Y Eugen Seibold: https://www.mpic.de/4224334/sy-eugen-seibold
     - One Ocean - https://www.oneoceanexpedition.com/
     - Darwin 200 - https://darwin200.com/
+    - Smaller Vessels, Polar - https://ocean-expeditions.com, http://www.pelagic.co.uk, https://www.spiritofsydney.co/, https://www.tecla-sailing.com
 
-  - Marine Field Stations, US
+- Private Expeditions Etc.
+	- Caladan Oceanic / Five Deep - https://caladanoceanic.com, https://fivedeeps.com, https://www.eyos-expeditions.com/
+	- Nekton - https://nektonmission.org
+
+
+- Marine Field Stations, US
     - [National Association of Marine Labs](http://saml.naml.org/) - Comprehensive list of US marine field stations
     - West Coast Examples:
       - [Wrigley Matrine Science Center](https://dornsife.usc.edu/wrigley/research/wrigley-marine-science-center-wmsc/) (Catalina Island, CA - USC)
@@ -313,9 +347,9 @@ author_profile: true
 **OCEANOGRAPHY - JOBS / OPPORTUNITIES**
 
 - Job Boards
-	- https://scrippsbusiness.ucsd.edu/job-board/
-	- https://mtsociety.careerwebsite.com/
-	- https://jobs.schmidtmarine.org/jobs
+	- [Scripps Business Job Board](https://scrippsbusiness.ucsd.edu/job-board/)
+	- [Marine Technology Society Job Board](https://mtsociety.careerwebsite.com/)
+	- [Schmidt Job Board](https://jobs.schmidtmarine.org/jobs)
 	- https://jobs.sciencecareers.org/
 
 
@@ -331,6 +365,17 @@ author_profile: true
   
 - Education
   - UNOLS Chief Scientist Training: https://www.unols.org/nsf-unols-chief-scientist-training-cruise
+  - Early Career Deep-Sea Expedition Leadership Master Class and Fellowship, Crustal Ocean Biosphere Research Accelerator: https://cobra.pubpub.org, https://cobra.bigelow.org/master-class-and-fellowship/
   - Summer Schools etc.: [WHOI GFD Summer School](https://gfd.whoi.edu/) (Woods Hole, MA), [Friday Harbor Labs](https://marinebiology.uw.edu/field-stations-ships/friday-harbor-laboratories/) (San Juan Islands, WA),  
   - Undergraduate at Sea: [Sea Education Association (SEA)](https://sea.edu/), [Seamester](https://www.seamester.com/)
   - Underwater robotics competitions: https://bluerobotics.com/learn/which-underwater-robotics-competition-is-right-for-you/#authors, https://robonation.org/programs/robosub/, https://materovcompetition.org/
+
+<!---
+Need to verify, look closer
+- Recreational Sailing - Crew Boards
+	- https://www.crewseekers.net
+	- https://www.crewbay.com
+	- https://www.workonayacht.com
+	- https://oceannomads.co
+
+--->

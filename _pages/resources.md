@@ -81,7 +81,7 @@ Scientific Organizations, Associations, Engineering Companies, Etc.
 * Website Design: [https://jayrobwilliams.com/posts/2020/06/academic-website/](https://jayrobwilliams.com/posts/2020/06/academic-website/)
 * Website gifs made using "gifski"
 
-### Fellowships, Scholarships, Internships, Field Schools
+## Fellowships, Scholarships, Internships, Field Schools
 * Undergraduate Summer Internships
 	* NSF REU: [https://www.nsf.gov/crssprgm/reu/](https://www.nsf.gov/crssprgm/reu/)
 	* NOAA Hollings Scholarship: [https://www.noaa.gov/office-education/hollings-scholarship](https://www.noaa.gov/office-education/hollings-scholarship)
@@ -106,6 +106,7 @@ Scientific Organizations, Associations, Engineering Companies, Etc.
 		* Svalbard Summer School - [https://www.polar-academy.com/](https://www.polar-academy.com/)
 	* Ocean
 		* UNOLS Chief Scientist Training: [https://www.unols.org/nsf-unols-chief-scientist-training-cruise](https://www.unols.org/nsf-unols-chief-scientist-training-cruise)
+		* Early Career Deep-Sea Expedition Leadership Master Class: [https://cobra.pubpub.org](https://cobra.pubpub.org)
 		* WHOI GFD Shummer School: [https://gfd.whoi.edu](https://gfd.whoi.edu)
 		* UW Friday Harbor Labs: [https://marinebiology.uw.edu/field-stations-ships/friday-harbor-laboratories/](https://marinebiology.uw.edu/field-stations-ships/friday-harbor-laboratories/)
 	* Planetary Science / Astrobiology
@@ -201,6 +202,28 @@ Scientific Organizations, Associations, Engineering Companies, Etc.
 	- Tracking: consider use of apple air tags
 	- Airline rules: total luggage volume and weight, [Delta baggage policy](https://www.delta.com/us/en/baggage/overview)
 
+## Job Resources
+* General
+	* Search Specific Organizations Listed: [Oceanography - Resources List](https://andrewdmullen.github.io/resources_oceanography/), [Polar - Resources List](https://andrewdmullen.github.io/resources_polar/), [Planetary Science & Astrobiology - Resources List](https://andrewdmullen.github.io/resources_planetary/)
+	* Open Salaries - [Levels - Technology Industry](https://www.levels.fyi/),  [OPM - Government GS Pay Scales](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) / [Federal Pay - GS Pay Scales](https://www.federalpay.org/), [UC System - Academia Example](https://ucannualwage.ucop.edu/wage/)
+
+* Job Boards
+	* General
+		* General, Science Job Boards - [AAAS, Science](https://jobs.sciencecareers.org), [USA Jobs](https://www.usajobs.gov)
+		* General, Engineering / Technology Job Boards - [Levels](https://www.levels.fyi/), [IEEE](https://jobs.ieee.org), 
+	* Ocean
+		* Ocean, Job Boards - [Scripps Business](https://scrippsbusiness.ucsd.edu/job-board/), [Marine Technology Society](https://mtsociety.careerwebsite.com/), [Schmidt Marine](https://jobs.schmidtmarine.org/jobs), 
+		* Ocean, Science - Specific Organization Examples - [WHOI](https://careers.whoi.edu/), [MBARI](https://www.mbari.org/about/careers/job-openings/), [OceanX](https://oceanx.org/forms/join-our-team/), [Schmidt Ocean](https://schmidtocean.org/apply/employment/)
+	* Polar
+		* Polar, Job Boards - [US Antarctic Program](https://www.usap.gov/jobsandopportunities/), [APECS Job Board](https://www.apecs.is/career-resources/job-board.html), [Polar Jobs](https://polarjobs.com)
+		* Polar, Specific Organization Examples - [Polar Field](https://www.polarfield.com/jobs), [Battelle Arctic Gateway](https://battellearcticgateway.org/careers-opportunities/), [BAS](https://www.bas.ac.uk/jobs/vacancies/)
+	* Space
+		* Space, Job Boards - [Space Crew, Aerospace Job Board](https://spacecrew.com)
+		* Space, Science - Specific Organization Examples - [NASA](https://www.nasa.gov/careers/), [JPL](https://www.jpl.jobs), [APL](https://www.jhuapl.edu/careers)
+		* Space, Engineering - Specific Organization Examples -  [Blue Origin](https://www.blueorigin.com/careers/search), [SpaceX](https://www.spacex.com/careers/), [Rocket Labs](https://www.rocketlabusa.com/careers/positions/), [Honeybee](https://www.honeybeerobotics.com/about-us/careers/)
+* Additional
+	* Email List Serves - [Cryo List](https://lists.cryolist.org/mailman/listinfo/cryolist)
+
 ## Outdoor Recreation
 * Triathlons
 	* General: [https://mymottiv.com/triathlon-training-ironman/](https://mymottiv.com/triathlon-training-ironman/), [https://www.globaltrinetwork.com/](https://www.globaltrinetwork.com/), [https://www.trainingpeaks.com](https://www.trainingpeaks.com)
@@ -214,6 +237,7 @@ Scientific Organizations, Associations, Engineering Companies, Etc.
 	* Books: "Mountaineering: Freedom of the Hills", "Training for the New Alpanism", "Glacier Mountaineering: An Illustrated Guide To Glacier Travel And Crevasse Rescue"
 	* Clubs: [The Mountaineers](https://www.mountaineers.org), [Mazamas](https://mazamas.org)
 	* Guides & Companies: [American Mountain Guide Association](https://amga.com), [American Alpine Club](https://americanalpineclub.org), [American Alpine Institute](https://www.alpineinstitute.com)
+
 
 <!---
 To Add 

@@ -5,7 +5,6 @@ permalink: /resources_outdoor/
 author_profile: true
 ---
 
-# Outdoor Recreation
 ## Triathlons
 * General: [https://mymottiv.com/triathlon-training-ironman/](https://mymottiv.com/triathlon-training-ironman/), [https://www.globaltrinetwork.com/](https://www.globaltrinetwork.com/), [https://www.trainingpeaks.com](https://www.trainingpeaks.com)
 * Heart Rate Training Zones: [https://www.triathlete.com/training/how-to-use-heart-rate-training-zones-for-triathlon/](https://www.triathlete.com/training/how-to-use-heart-rate-training-zones-for-triathlon/), [https://mymottiv.com/heart-rate-training-zones/](https://mymottiv.com/heart-rate-training-zones/), [https://www.8020endurance.com/8020-zone-calculator/](https://www.8020endurance.com/8020-zone-calculator/), [https://www.myprocoach.net/calculators/hr-zones/](https://www.myprocoach.net/calculators/hr-zones/)

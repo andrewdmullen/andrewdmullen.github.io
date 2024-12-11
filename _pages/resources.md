@@ -4,29 +4,29 @@ title: "Resources & Links"
 permalink: /resources/
 author_profile: true
 ---
-## Resources & Links
-Here is a collection of resources and links I have found useful:
+
+Here is a collection of resources and links I have found useful.
 
 ## Resource Lists - By Field
 Scientific Organizations, Associations, Engineering Companies, Etc.
 
-* [Oceanography - Resources List](https://andrewdmullen.github.io/resources_oceanography/) 
-* [Polar - Resources List](https://andrewdmullen.github.io/resources_polar/) 
-* [Planetary Science & Astrobiology - Resources List](https://andrewdmullen.github.io/resources_planetary/) 
+* [Oceanography - Resources List](https://andrewdmullen.github.io/resources_oceanography/) - Scientific Institutes, Scientific Organizations, Companinies, Etc.
+* [Polar - Resources List](https://andrewdmullen.github.io/resources_polar/) - Scientific Institutes, Scientific Organizations, Companinies, Etc.
+* [Planetary Science & Astrobiology - Resources List](https://andrewdmullen.github.io/resources_planetary/) - Scientific Institutes, Scientific Organizations, Companinies, Etc.
 
 ## Resource Lists - Career / Education 
 Useful educational material and links to resources.
 
-* [Educational - Tutorials, Videos, Books, Etc.](https://andrewdmullen.github.io/resources_educational/)
-* [Fellowships, Scholarships, Internships, Field Schools](https://andrewdmullen.github.io/resources_fellowships)
-* [Jobs - Job Boards & Resources](https://andrewdmullen.github.io/resources_jobs)
+* [Educational](https://andrewdmullen.github.io/resources_educational/) - Online Tutorials, Videos, Books, Etc.
+* [Fellowships, Scholarships, Internships, Field Schools](https://andrewdmullen.github.io/resources_fellowships) - List of Opportunities
+* [Jobs](https://andrewdmullen.github.io/resources_jobs) - Job Boards & Resources
 
 ## Resource Lists - Useful
-* [Engineering - Resources List](https://andrewdmullen.github.io/resources_engineering/) 
-* [Fieldwork - Resources List](https://andrewdmullen.github.io/resources_fieldwork/) 
+* [Engineering - Resources List](https://andrewdmullen.github.io/resources_engineering/) - Companies, Design Tools
+* [Fieldwork - Resources List](https://andrewdmullen.github.io/resources_fieldwork/) - Field Guides, Packing Lists, Check Lists
 
 ## Resource Lists - Fun
-* [Outdoor Recreation - Backpacking, Mountaineering, Triathlon Etc.](https://andrewdmullen.github.io/resources_outdoor/) 
+* [Outdoor Recreation](https://andrewdmullen.github.io/resources_outdoor/) - Backpacking, Mountaineering, Triathlon Etc.
 
 <!---
 To Add 

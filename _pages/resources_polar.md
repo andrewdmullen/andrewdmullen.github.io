@@ -5,9 +5,6 @@ permalink: /resources_polar/
 author_profile: true
 ---
 
-# POLAR RESOURCES
-
-
 ## Academic
 - US Institutions
 	- US Antarctic Program (USAP) - https://www.usap.gov/

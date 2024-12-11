@@ -5,7 +5,6 @@ permalink: /resources_oceanography/
 author_profile: true
 ---
 
-**OCEANOGRAPHY RESOURCES**
 
 ## OCEANOGRAPHY - SCIENTIFIC ORGANIZATIONS
 

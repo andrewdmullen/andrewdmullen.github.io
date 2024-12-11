@@ -43,6 +43,7 @@ author_profile: true
 	- [Imagenex](https://imagenex.com/) - Canada; Very Small Mapping SONAR
 	- [Impact Subsea](https://www.impactsubsea.co.uk/) - UK; SONAR, Ranging, INS, Very Compact
 	- [iXblue](https://www.ixblue.com) - France; USBL, INS, SONAR, High End Systems
+	- [Kongsberg](https://www.kongsberg.com/) - Norway
 	- L3 Harris
 	- [Linkquest](https://www.link-quest.com) - San Diego CA; DVL, ADCP, USBL, Modems
 	- [Norbit](https://norbit.com/) - Norway; Compact Multibeam SONAR

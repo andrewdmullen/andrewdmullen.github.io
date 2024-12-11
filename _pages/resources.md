@@ -10,7 +10,8 @@ Here is a collection of resources and links I have found useful.
 ## Resource Lists - By Field
 Scientific Organizations, Associations, Engineering Companies, Etc.
 
-* [Oceanography - Resources List](https://andrewdmullen.github.io/resources_oceanography/) - Scientific Institutes, Scientific Organizations, Companinies, Etc.
+* [Oceanography - Resources List](https://andrewdmullen.github.io/resources_oceanography/) - Scientific Institutes, Scientific Organizations, Etc.
+* [Ocean Engineering - Resources List](https://andrewdmullen.github.io/resources_oceanengineering/) - Instrument Companies, Robotics Companies, Etc.
 * [Polar - Resources List](https://andrewdmullen.github.io/resources_polar/) - Scientific Institutes, Scientific Organizations, Companinies, Etc.
 * [Planetary Science & Astrobiology - Resources List](https://andrewdmullen.github.io/resources_planetary/) - Scientific Institutes, Scientific Organizations, Companinies, Etc.
 

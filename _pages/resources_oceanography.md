@@ -7,7 +7,7 @@ author_profile: true
 
 **OCEANOGRAPHY RESOURCES**
 
-**OCEANOGRAPHY - SCIENTIFIC ORGANIZATIONS**
+## OCEANOGRAPHY - SCIENTIFIC ORGANIZATIONS
 
 - General List of Oceanographic Institutions:
   - [Wikipedia List of Ocean Institutions](https://en.wikipedia.org/wiki/List_of_oceanographic_institutions_and_programs?wprov=sfti1#United_States)
@@ -80,7 +80,7 @@ author_profile: true
 	- University-National Oceanographic Laboratory System (UNOLS), US research vessels - https://www.unols.org
 
 
-**OCEANOGRAPHY - SCIENTIFIC ASSOCIATIONS ETC.**
+## OCEANOGRAPHY - SCIENTIFIC ASSOCIATIONS ETC.
 
 - Associations
 	- Science
@@ -138,7 +138,7 @@ author_profile: true
 		- Many others
 
 
-**OCEANOGRAPHY - ENGINEERING**
+## OCEANOGRAPHY - ENGINEERING
 
 - Oceanographic Equipment - Directories & Distributors
   - https://www.marinetechnologynews.com/companies/ - Directory
@@ -292,7 +292,7 @@ author_profile: true
 		- More such as: Subsea 7, Fugro, Equinor etc.
 		- Many others
 
-**OCEANOGRAPHY - FIELD WORK**
+## OCEANOGRAPHY - FIELD WORK
 
   - Field Work
     - Organizations
@@ -344,7 +344,7 @@ author_profile: true
         - [Bermuda Institute of Ocean Sciences (BIOS)](https://bios.asu.edu/) (Bermuda - ASU)
         - Great Barrier Reef: Heron Island, Lizard Island, One Tree Island, Orpheus Island Research Station
 
-**OCEANOGRAPHY - JOBS / OPPORTUNITIES**
+## OCEANOGRAPHY - JOBS / OPPORTUNITIES
 
 - Job Boards
 	- [Scripps Business Job Board](https://scrippsbusiness.ucsd.edu/job-board/)
@@ -353,7 +353,7 @@ author_profile: true
 	- https://jobs.sciencecareers.org/
 
 
-**OCEANOGRAPHY - EDUCATION / OPEN SOURCE TOOLS**
+## OCEANOGRAPHY - EDUCATION / OPEN SOURCE TOOLS
 
 - Engineering Tools
   - Under Pressure, Pressure Housing Design: https://www.deepsea.com/under-pressure-design-software/
@@ -377,5 +377,23 @@ Need to verify, look closer
 	- https://www.crewbay.com
 	- https://www.workonayacht.com
 	- https://oceannomads.co
+
+.....
+Double Check
+	* Underwater Connectors: SubConn, SeaConn
+	* Underwater Thrusters: Blue Robotics, Tecnadyne
+	* Ocean Acoustics - Navigation / DVL: Nortek, Sonardyne, iXblue, Teledyne, Linkquest
+	* Ocean Acoustics - Sonar: Blueprint Subsea, Norbit, Imagenex, Tritech, Impact Subsea
+	* Ocean Imaging: Deep Sea Power & Light, Voyis
+	* Ocean Sensors: RBR, SBE Seabird, Turner, Valeport, Hobo, Idronaut, Sequia Scientific, YSI, Unisense
+	* Ocean Samplers: General Oceanics, McLane, Fluidion
+	* Ocean Eqquipment, General: Teledyne, MacCartney, Ocean Innovations, Shark Marine
+	* Oceanographic Rental Equipment: Ashtead, Acteon / Seatronics, Okeanus
+
+	* ROV (mini): Video Ray, Boxfish, Seabotix, [SRS](https://www.srsfusion.com/srs-fusion), Blue Robotics
+	* ROV (large): SAAB, Argus, SubAtlantic, Seatronics, Forum, DOER
+	* ROV (rentals & services): [Oceaneering](https://www.oceaneering.com/global-explorer-rov/), [Pelagic Research Services](https://pelagic-services.com/web2/index.php/odysseus-rov-system/)
+	* ROV (Research Institutions): [Jason (WHOI)](https://ndsf.whoi.edu/jason/), [Hercules (Nautilus / NOAA)](https://nautiluslive.org/tech/rov-hercules), [Doc Ricketts (MBARI)](https://www.mbari.org/technology/rov-doc-ricketts/), [SuBastion (Schmidt Ocean Institute)](https://schmidtocean.org/technology/robotic-platforms/4500-m-remotely-operated-vehicle-rov/), [AutoSub (NOC)](https://noc.ac.uk/facilities/marine-autonomous-robotic-systems/autosubs), [Argus (OceanX)](https://oceanx.org/oceanxplorer/deep-sea-vehicles)
+	* AUV: Kongsberg, Oceanographic Systems Lab, Teledyne, Bluefin Robotics, MRV
 
 --->

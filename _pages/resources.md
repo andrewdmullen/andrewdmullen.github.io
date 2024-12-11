@@ -5,7 +5,9 @@ permalink: /resources/
 author_profile: true
 ---
 
-Here is a collection of resources and links I have found useful.
+Here is a collection of resources and links.
+(Disclaimer - The information here is a continuous work in progress and not meant to be completely comprehensive, but hopefully it is useful.)
+
 
 ## Resource Lists - By Field
 Scientific Organizations, Associations, Engineering Companies, Etc.

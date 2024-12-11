@@ -5,7 +5,7 @@ permalink: /resources_planetary/
 author_profile: true
 ---
 
-# PLANETARY SCIENCE & ASTROBIOLOGY
+### PLANETARY SCIENCE & ASTROBIOLOGY
 
 ## Research Labs & Institutes
 - NASA Astrobiology 

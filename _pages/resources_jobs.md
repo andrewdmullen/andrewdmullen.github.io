@@ -5,8 +5,6 @@ permalink: /resources_jobs/
 author_profile: true
 ---
 
-# Job Resources
-
 ## General
 * Search Specific Organizations Listed: [Oceanography - Resources List](https://andrewdmullen.github.io/resources_oceanography/), [Polar - Resources List](https://andrewdmullen.github.io/resources_polar/), [Planetary Science & Astrobiology - Resources List](https://andrewdmullen.github.io/resources_planetary/)
 * Open Salaries - [Levels - Technology Industry](https://www.levels.fyi/),  [OPM - Government GS Pay Scales](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) / [Federal Pay - GS Pay Scales](https://www.federalpay.org/), [UC System - Academia Example](https://ucannualwage.ucop.edu/wage/)

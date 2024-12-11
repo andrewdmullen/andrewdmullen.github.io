@@ -5,8 +5,6 @@ permalink: /resources_educational/
 author_profile: true
 ---
 
-# Educational
-
 ## Videos 
 * Engineering: [Applied Science](https://www.youtube.com/channel/UCivA7_KLKWo43tFcCkFvydw), [Stuff Made Here](https://www.youtube.com/@StuffMadeHere), [Mark Rober](https://www.youtube.com/@MarkRober)
 * Computers: [PBS Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo), [Ben Eater](youtube.com/@BenEater), [Computerphile](https://www.youtube.com/@Computerphile)

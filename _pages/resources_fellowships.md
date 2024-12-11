@@ -5,8 +5,6 @@ permalink: /resources_fellowships/
 author_profile: true
 ---
 
-# Fellowships, Scholarships, Internships, Field Schools
-
 ## Undergraduate Summer Internships
 * NSF REU: [https://www.nsf.gov/crssprgm/reu/](https://www.nsf.gov/crssprgm/reu/)
 * NOAA Hollings Scholarship: [https://www.noaa.gov/office-education/hollings-scholarship](https://www.noaa.gov/office-education/hollings-scholarship)

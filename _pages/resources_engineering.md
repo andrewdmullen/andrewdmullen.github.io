@@ -5,7 +5,6 @@ permalink: /resources_engineering/
 author_profile: true
 ---
 
-# Engineering Resources
 
 ## Engineering Equipment Companies & Vendors
 (Not a comprehensive list but a good starting point for prototyping etc.)

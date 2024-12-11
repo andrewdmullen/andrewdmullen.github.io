@@ -5,8 +5,6 @@ permalink: /resources_fieldwork/
 author_profile: true
 ---
 
-# Field Work
-
 ## Field Work - Example Packing Lists
 * [Packing List - Polar Field Work, Personal Gear](https://andrewdmullen.github.io/PackingList_PolarGear/) 
 * [Packing List - General Field Work, Tool Kit](https://andrewdmullen.github.io/PackingList_FieldTools/)  

@@ -47,3 +47,11 @@ author_profile: true
 	- Labeling: "to whom it may concern" letters inside, POC listed in multiple places out, battery or other dangerous good sticker, do not freeze sticker, [FAA battery regulations](https://www.faa.gov/sites/faa.gov/files/hazmat/packsafe/resources/Airline_passengers_and_batteries.pdf)
 	- Tracking: consider use of apple air tags
 	- Airline rules: total luggage volume and weight, [Delta baggage policy](https://www.delta.com/us/en/baggage/overview)
+
+<!---
+To Add:
+- https://bystander.ucsd.edu
+- https://www.usgs.gov/human-capital/usgs-sees-a-peer-led-open-source-bystander-intervention-workshop
+- https://stepupprogram.org
+- https://bystander.ucsd.edu/team-resources/
+--->

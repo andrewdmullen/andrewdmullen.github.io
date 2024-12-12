@@ -15,9 +15,9 @@ author_profile: true
 	* General, Engineering / Technology Job Boards - [Levels](https://www.levels.fyi/), [IEEE](https://jobs.ieee.org), 
 * Ocean
 	* Ocean, Job Boards - [Scripps Business](https://scrippsbusiness.ucsd.edu/job-board/), [Marine Technology Society](https://mtsociety.careerwebsite.com/), [Schmidt Marine](https://jobs.schmidtmarine.org/jobs), 
-	* Ocean, Science - Specific Organization Examples - [WHOI](https://careers.whoi.edu/), [MBARI](https://www.mbari.org/about/careers/job-openings/), [OceanX](https://oceanx.org/forms/join-our-team/), [Schmidt Ocean](https://schmidtocean.org/apply/employment/)
+	* Ocean, Science - Specific Organization Examples - [WHOI](https://careers.whoi.edu/), [MBARI](https://www.mbari.org/about/careers/job-openings/), [OceanX](https://oceanx.org/forms/join-our-team/), [Schmidt Ocean](https://schmidtocean.org/apply/employment/), [NOC](https://noc.ac.uk/careers), [AIMS](https://www.aims.gov.au/careers)
 * Polar
-	* Polar, Job Boards - [US Antarctic Program](https://www.usap.gov/jobsandopportunities/), [APECS Job Board](https://www.apecs.is/career-resources/job-board.html), [Polar Jobs](https://polarjobs.com)
+	* Polar, Job Boards - [US Antarctic Program](https://www.usap.gov/jobsandopportunities/), [APECS Job Board](https://www.apecs.is/career-resources/job-board.html), [Polar Jobs](https://polarjobs.com), [British Antarctic Survey](https://www.bas.ac.uk/jobs/vacancies/), [Australia Antarctic Program](https://jobs.antarctica.gov.au/jobs-in-antarctica/), [Antarctica New Zealand](https://www.antarcticanz.govt.nz/jobs)
 	* Polar, Specific Organization Examples - [Polar Field](https://www.polarfield.com/jobs), [Battelle Arctic Gateway](https://battellearcticgateway.org/careers-opportunities/), [BAS](https://www.bas.ac.uk/jobs/vacancies/)
 * Space
 	* Space, Job Boards - [Space Crew, Aerospace Job Board](https://spacecrew.com)
@@ -26,3 +26,10 @@ author_profile: true
 
 ## Additional
 * Email List Serves - [Cryo List](https://lists.cryolist.org/mailman/listinfo/cryolist)
+
+<!---
+BLUETECHWEEK.ORG
+https://startblue.ucsd.edu
+https://tmabluetech.org/about
+
+--->

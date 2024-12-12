@@ -22,6 +22,10 @@ author_profile: true
   - [Virginia Institute of Marine Sciences](https://www.vims.edu/) - Gloucester Point VA
   - UCSC, UCSB, UCD, Univ. Rutgers, Univ Delaware, Univ. Hawaii, Florida Atlantic University Harbor Branch Oceanographic Institute, and many more
 
+- International
+	- [National Oceanography Centre (NOC)](https://noc.ac.uk) - United Kingdom
+	- [Australian Institute of Marine Science (AIMS)](https://www.aims.gov.au) - Australia
+
 - Non-Profit & Related Oceanographic Organizations
   - [Monterey Bay Aquiarium Research Institute](https://www.mbari.org/) - Monterey CA, Packard Foundation
   - [Marine Biological Laboratory](https://www.mbl.edu/) - Woods Hole MA
@@ -121,6 +125,7 @@ author_profile: true
 		- NSF (National Science Foundation) - https://new.nsf.gov/funding, https://www.research.gov/, https://www.nsf.gov/, https://new.nsf.gov/geo/oce 
 		- NASA (National Aeronautics and Space Administration) - https://nspires.nasaprs.com/
 		- ONR (Office of Naval Research) - https://www.onr.navy.mil
+			- ONR Defense University Research Instrumentation Program (DURIP) - https://www.onr.navy.mil/education-outreach/sponsored-research/university-research-initiatives/durip 
 		- NOAA - https://seagrant.noaa.gov/opportunities/funding/, https://coastalscience.noaa.gov/about/funding-opportunities/ 
 		- SBIR (Small Buisness Innovation Research) - https://www.sbir.gov/
 		- DARPA - https://www.darpa.mil/

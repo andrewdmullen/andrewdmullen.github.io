@@ -59,6 +59,7 @@ author_profile: true
 - Space Sattelite Imaging
 	- Planet Labs - https://www.planet.com
 	- Maxar - https://www.maxar.com
+	- Muon Space - https://www.muonspace.com
 	- Many others
 - Planetary Space Craft Optics / Sensing
 	- Impossible Sensing - https://www.impossiblesensing.com/

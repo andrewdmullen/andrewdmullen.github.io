@@ -109,13 +109,23 @@ author_profile: true
 	* Air Transportation: Twin Otter (DHC6) - [Kenn Borek Air](https://borekair.com/), Basler (DC3) - [Kenn Borek Air](https://borekair.com/), LC-130 (Hercules) - [New York Air National Guard, 109AW](https://en.wikipedia.org/wiki/109th_Airlift_Wing)
 
 <!---
-Need to update / review
+
+To Add
 
 - Misc	
-Polar robotics: Icefin, Autosub, Huggin, UC Davis, Orpheus, Nereid
+- Polar robotics: 
+	- Icefin
+	- Autosub
+	- Huggin
+	- UC Davis
+	- Orpheus
+	- Nereid
+	- DFKI Deep Leng https://robotik.dfki-bremen.de/en/research/robot-systems/deepleng
 
-....
-Double Check
+https://polar.ucsd.edu/
+
+.............
+Shoul Already Be Included -- Double Check
 	* Tents: [Airframes Alaska](https://www.airframesalaska.com) - Arctic Oven, [Rac Tent](https://www.ractent.com), [Weatherhaven](https://www.weatherhaven.com/) - Polarhaven / Endurance, [Ratcliffe-Ellis](http://www.ratcliffe-ellis.com/) - Scott Pyramid Tents
 	* Sleds: [Yukon Expedition Sleds](https://www.yukonsleds.com) - Arctic Nomad Sleds etc., [Airframes Alaska / Northern Sled works](https://www.airframesalaska.com) - Siglin Sleds, [Ratcliffe-Ellis](http://www.ratcliffe-ellis.com/) - Nansen & Komatik Sleds
 	* Ice Drills: [Kovacs Drills](https://kovacsicedrillingequipment.com), Jiffy Drills

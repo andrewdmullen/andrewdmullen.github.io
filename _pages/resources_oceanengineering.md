@@ -122,10 +122,12 @@ author_profile: true
 	- [Argus](https://oceanx.org/oceanxplorer/deep-sea-vehicles) (OceanX)
 	- [Deep Ocean Education](https://deepoceaneducation.org/) - Okeanus, Nautulis, Falkor
 
-- ROVs - Rentals
+- ROVs - Rentals etc.
 	- [Oceaneering](https://www.oceaneering.com/)
 	- [Pelagic Research Services](https://pelagic-services.com)
 	- [Acteon / Seatronics](https://acteon.com/energy-services/seatronics/)
+	- [Dockstr](https://www.dockstr.com) - used ROVs resller
+
 
 
 ### Autonomous Systems

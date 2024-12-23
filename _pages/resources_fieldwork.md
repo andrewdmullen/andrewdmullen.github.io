@@ -5,10 +5,6 @@ permalink: /resources_fieldwork/
 author_profile: true
 ---
 
-## Field Work - Example Packing Lists
-* [Packing List - Polar Field Work, Personal Gear](https://andrewdmullen.github.io/PackingList_PolarGear/) 
-* [Packing List - General Field Work, Tool Kit](https://andrewdmullen.github.io/PackingList_FieldTools/)  
-
 ## Field Work - Resources
 * Field Work Guides & Related (free resources)
 	* Polar: [US Antarctic Program - Field Manual](https://www.usap.gov/usapgov/travelAndDeployment/documents/ASC-18-025.pdf),  [Antarctica New Zealand - Field Manual](https://www.adam.antarcticanz.govt.nz/nodes/view/64579), [INTERACT Practical Field Guide](https://eu-interact.org/app/uploads/2019/09/INTERACT-Practical-Field-Guide.pdf), [INTERACT Fieldwork Planning Handbook](https://eu-interact.org/publication/interact-fieldwork-planning-handbook/), [INTERACT Communication and Navigation](https://eu-interact.org/app/uploads/2021/09/INTERACT-Communication-and-Navigation-guidebook-21-September-2021.pdf)

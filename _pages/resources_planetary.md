@@ -11,32 +11,47 @@ author_profile: true
 - [Wikipedia List, Private Spaceflight Companies - Rockets, Stations, Robotics, Etc](https://en.wikipedia.org/wiki/List_of_private_spaceflight_companies)
 - Legacy: ULA, Boeing, Lockheed, Northrop
 - Rockets
-	- [SpaceX](https://www.spacex.com) - Los Angeles CA, WA, TX, FL, etc
-	- [Blue Origins](https://www.blueorigin.com) - Los Angeles CA, WA, TX, FL, etc
-	- [Rocket Labs](https://www.rocketlabusa.com) - Long Beach CA, NZ
-	- [Sierra Space](https://www.sierraspace.com) - Denver CO
-	- [Relativity Space](https://www.relativityspace.com) - Long Beach CA
-	- [Firefly Aerospace](https://fireflyspace.com) - Cedar Park TX
+	- [SpaceX](https://www.spacex.com) - Los Angeles CA, WA, TX, FL, etc; Founded 2002; Employees ~13,000+
+	- [Blue Origins](https://www.blueorigin.com) - Los Angeles CA, WA, TX, FL, etc; Founded 2000; Employees ~11,000+
+	- [Rocket Lab](https://www.rocketlabusa.com) - Long Beach CA, NZ; Founded 2006; Employees ~2,000+
+	- [Sierra Space](https://www.sierraspace.com) - Denver CO; Founded 2021; Employees ~2,000+
+	- [Relativity Space](https://www.relativityspace.com) - Long Beach CA; Founded 2015; Employees ~1,000+
+	- [Firefly Aerospace](https://fireflyspace.com) - Cedar Park TX; Founded 2017; Employees ~750+
 	- [Virgin Galactic](https://www.virgingalactic.com) - Orange County CA, etc
 - Space Robotics / Rovers
-	- [Honeybee Robotics](https://www.honeybeerobotics.com/), Blue Orgin subsidary - Los Angeles CA, Longmont CO 
-	- [Astrobotics](https://www.astrobotic.com/) - Pittsburgh PA
-	- [Intuitive Machines](https://www.intuitivemachines.com/) - Houston TX
-	- [Venturi Astrolab](https://www.astrolab.space) - Los Angeles CA
-	- [Lunar Outpost](https://www.lunaroutpost.com) - Denver CO, Melbourne Australia
-- Space Sattelite Imaging
-	- [Planet Labs](https://www.planet.com) - Bay Area CA
-	- [Muon Space](https://www.muonspace.com) - Bay Area CA
-	- [Maxar Technologies](https://www.maxar.com) - Denver CO
-- Planetary Space Craft Optics / Sensing
+	- [Honeybee Robotics](https://www.honeybeerobotics.com/), Blue Orgin subsidary - Los Angeles CA, Longmont CO; Founded 1983; Employees ~300 
+	- [Astrobotics Technology](https://www.astrobotic.com/) - Pittsburgh PA; Founded 2007; Employees ~130
+	- [Intuitive Machines](https://www.intuitivemachines.com/) - Houston TX; Founded 2013; Employees ~250
+	- [Venturi Astrolab](https://www.astrolab.space) - Los Angeles CA; Founded 2019; Employees ~100
+	- [Lunar Outpost](https://www.lunaroutpost.com) - Denver CO, Melbourne Australia; Founded 2017; Employees ~200
+	- [Motiv Space Systems](https://motivss.com) - Los Angeles CA; Founded 2014; Employees ~50
+	- Oceaneering Space Systems - Houston, TX; Founded 1964
+- Space Sattelites & Imaging
+	- [Planet Labs](https://www.planet.com) - Bay Area CA; Founded 2010; Employees ~1,000
+	- [Muon Space](https://www.muonspace.com) - Bay Area CA; Founded 2021; Employees ~100-150
+	- [Maxar Technologies](https://www.maxar.com) - Denver CO; Founded 2017 (conglomerate); Employees ~4,500+
+	- [Malin Space Science Systems](https://www.msss.com) - San Diego CA; Founded 1990; Employees ~75
+	- Spire Global - San Francisco, CA; Founded 2012; Employees ~500
+	- BlackSky - Seattle, WA; Founded 2014; Employees ~300
+	- Planetary Space Craft Optics / Sensing
 	- [Impossible Sensing](https://www.impossiblesensing.com/) - St. Louis MS
 	- [Photon Systems](https://photonsystems.com/) - Los Angeles CA
 - Additional
-	- [Sierra Nevada Corporation](https://www.sncorp.com) - Nevada
-	- [Ball Aerospace](https://www.ball.com), BAE Systems subsidary - Denver CO
-	- [The Aerospace Corporation](https://aerospace.org) - Los Angeles CA
-- Mining - Planetary Resources, Astroforge etc.
-- Stations - Axiom, Bigelow, etc.
+	- [Sierra Nevada Corporation](https://www.sncorp.com) - Nevada; Founded 1963; Employees ~5,000+
+	- [Ball Aerospace](https://www.ball.com), BAE Systems subsidary - Denver CO; Founded 1956; Employees ~5,000+
+	- [The Aerospace Corporation](https://aerospace.org) - Los Angeles CA; Founded 1960; Employees ~4,500+
+	- Redwire Space - FL, CA more; Founded 2020; Employees ~700+
+- Mining 
+	- [Astroforge](https://www.astroforge.io) - Huntington Beach CA; Founded 2022; Employees ~50
+	- [Offworld](https://www.offworld.ai) - Los Angeles CA; Founded 2016; Employees ~50
+- Stations
+	- [Axiom Space](https://www.axiomspace.com) - Houston TX; Founded 2016; Employees ~1,000
+- Lunar Organizations
+	-  [Open Lunar Foundation](https://www.openlunar.org)
+	-  [Lunar Surface Innovation Consortium (LSIC), JHU](https://lsic.jhuapl.edu)
+	-  [Lunar Exploration Analysis Group (LEAG), LPI](https://www.lpi.usra.edu/leag/)
+	-  [Lunar Surface Innovation Initiative, NASA](https://www.nasa.gov/space-technology-mission-directorate/lunar-surface-innovation-initiative/)
+
 
 ## Research Labs & Institutes
 - NASA Astrobiology 
@@ -49,7 +64,7 @@ author_profile: true
 - Independent Research Centers 
 	- Desert Research Institute - https://www.dri.edu/
 	- Southwest Research Institute - https://www.swri.org/
-- Non-Profit Societies etc.
+- Non-Profits Etc. - Planetary Science & Astrobiology
 	- SETI - https://www.seti.org/
 	- American Astronomical Society - https://dps.aas.org/
 	- Lunar & Planetary Institute (LPI) - https://www.lpi.usra.edu/
@@ -90,7 +105,7 @@ author_profile: true
 - NASA PSTAR, Planetary Science and Technology from Analog Research - https://astrobiology.nasa.gov/research/astrobiology-at-nasa/pstar/
 - NASA ColdTech - https://www1.grc.nasa.gov/space/pesto/investment-areas/coldtech/
 - NASA NIAC, Innovative Advanced Concepts - https://www.nasa.gov/stmd-the-nasa-innovative-advanced-concepts-niac/
-- Many thers
+- Others
 
 	
 ## Misc

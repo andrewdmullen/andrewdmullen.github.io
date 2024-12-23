@@ -12,28 +12,38 @@ Here is a collection of resources and links.
 ## Resource Lists - By Field
 Scientific Organizations, Associations, Engineering Companies, Etc.
 
-* [Oceanography - Resources List](https://andrewdmullen.github.io/resources_oceanography/) - Scientific Institutes, Scientific Organizations, Etc.
-* [Ocean Engineering - Resources List](https://andrewdmullen.github.io/resources_oceanengineering/) - Instrument Companies, Robotics Companies, Etc.
-* [Polar - Resources List](https://andrewdmullen.github.io/resources_polar/) - Scientific Institutes, Scientific Organizations, Companinies, Etc.
-* [Planetary Science & Astrobiology - Resources List](https://andrewdmullen.github.io/resources_planetary/) - Scientific Institutes, Scientific Organizations, Companinies, Etc.
+* [Resources - Oceanography](https://andrewdmullen.github.io/resources_oceanography/) - Scientific Institutes, Scientific Organizations, Etc.
+* [Resources - Ocean Engineering](https://andrewdmullen.github.io/resources_oceanengineering/) - Instrument Companies, Robotics Companies, Etc.
+* [Resources - Polar](https://andrewdmullen.github.io/resources_polar/) - Scientific Institutes, Scientific Organizations, Companinies, Etc.
+* [Resources - Planetary Science & Astrobiology](https://andrewdmullen.github.io/resources_planetary/) - Scientific Institutes, Scientific Organizations, Companinies, Etc.
 
 ## Resource Lists - Career & Education 
 Useful educational material and links to resources.
 
-* [Educational](https://andrewdmullen.github.io/resources_educational/) - Online Tutorials, Videos, Books, Etc.
-* [Fellowships, Scholarships, Internships, Field Schools](https://andrewdmullen.github.io/resources_fellowships) - List of Opportunities
-* [Jobs](https://andrewdmullen.github.io/resources_jobs) - Job Boards & Resources
+* [Resources - Educational](https://andrewdmullen.github.io/resources_educational/) - Online Tutorials, Videos, Books, Etc.
+* [Resources - Fellowships, Scholarships, Internships, Field Schools](https://andrewdmullen.github.io/resources_fellowships) - List of Opportunities
+* [Resources - Jobs](https://andrewdmullen.github.io/resources_jobs) - Job Boards & Resources
 
 ## Resource Lists - Engineering & Field Work
-* [Engineering - Resources List](https://andrewdmullen.github.io/resources_engineering/) - Design Tools, Vendors
-* [Systems Engineering - Guide](https://andrewdmullen.github.io/resources_systemsengineeringguide/) - General Systems Engineering Guide
-* [Fieldwork - Resources List](https://andrewdmullen.github.io/resources_fieldwork/) - Field Guides, Packing Lists, Check Lists
+* [Resources - Engineering](https://andrewdmullen.github.io/resources_engineering/) - Design Tools, Vendors
+* [Resources - Fieldwork](https://andrewdmullen.github.io/resources_fieldwork/) - Field Guides, Packing Lists, Check Lists
+
+## Guides
+* [Guide - Systems Engineering](https://andrewdmullen.github.io/resources_systemsengineeringguide/) - General Systems Engineering Guide
+* [Packing List - Polar Field Work, Personal Gear](https://andrewdmullen.github.io/PackingList_PolarGear/) 
+* [Packing List - General Field Work, Tool Kit](https://andrewdmullen.github.io/PackingList_FieldTools/) 
+
 
 ## Resource Lists - Fun
-* [Outdoor Recreation](https://andrewdmullen.github.io/resources_outdoor/) - Backpacking, Mountaineering, Triathlon Etc.
+* [Resources - Outdoor Recreation](https://andrewdmullen.github.io/resources_outdoor/) - Backpacking, Mountaineering, Triathlon Etc.
 
 <!---
 To Add 
+
+* [Guide - Techincal Writing / Instrumentation Publications]
+* [Guide - Optical System Design]
+* [Guide - Science Project Managment]
+
 
 ### Polar Field Skills
 * Ropes & Rigging

@@ -17,15 +17,16 @@ Scientific Organizations, Associations, Engineering Companies, Etc.
 * [Polar - Resources List](https://andrewdmullen.github.io/resources_polar/) - Scientific Institutes, Scientific Organizations, Companinies, Etc.
 * [Planetary Science & Astrobiology - Resources List](https://andrewdmullen.github.io/resources_planetary/) - Scientific Institutes, Scientific Organizations, Companinies, Etc.
 
-## Resource Lists - Career / Education 
+## Resource Lists - Career & Education 
 Useful educational material and links to resources.
 
 * [Educational](https://andrewdmullen.github.io/resources_educational/) - Online Tutorials, Videos, Books, Etc.
 * [Fellowships, Scholarships, Internships, Field Schools](https://andrewdmullen.github.io/resources_fellowships) - List of Opportunities
 * [Jobs](https://andrewdmullen.github.io/resources_jobs) - Job Boards & Resources
 
-## Resource Lists - Useful
-* [Engineering - Resources List](https://andrewdmullen.github.io/resources_engineering/) - Companies, Design Tools
+## Resource Lists - Engineering & Field Work
+* [Engineering - Resources List](https://andrewdmullen.github.io/resources_engineering/) - Design Tools, Vendors
+* [Systems Engineering - Guide](https://andrewdmullen.github.io/resources_systemsengineeringguide/) - General Systems Engineering Guide
 * [Fieldwork - Resources List](https://andrewdmullen.github.io/resources_fieldwork/) - Field Guides, Packing Lists, Check Lists
 
 ## Resource Lists - Fun

@@ -25,7 +25,7 @@ author_profile: true
 	- [Venturi Astrolab](https://www.astrolab.space) - Los Angeles CA; Founded 2019; Employees ~100
 	- [Lunar Outpost](https://www.lunaroutpost.com) - Denver CO, Melbourne Australia; Founded 2017; Employees ~200
 	- [Motiv Space Systems](https://motivss.com) - Los Angeles CA; Founded 2014; Employees ~50
-	- Oceaneering Space Systems - Houston, TX; Founded 1964
+	- [Oceaneering Space Systems](https://www.oceaneering.com/space-systems/) - Houston, TX; Founded 1964
 - Space Sattelites & Imaging
 	- [Planet Labs](https://www.planet.com) - Bay Area CA; Founded 2010; Employees ~1,000
 	- [Muon Space](https://www.muonspace.com) - Bay Area CA; Founded 2021; Employees ~100-150

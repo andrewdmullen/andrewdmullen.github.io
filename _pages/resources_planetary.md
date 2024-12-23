@@ -11,6 +11,7 @@ author_profile: true
 
 - [Wikipedia List, Private Spaceflight Companies - Rockets, Stations, Robotics, Etc](https://en.wikipedia.org/wiki/List_of_private_spaceflight_companies)
 - Legacy: ULA, Boeing, Lockheed, Northrop
+
 - Rockets
 	- [SpaceX](https://www.spacex.com) - Los Angeles CA, WA, TX, FL, etc; Founded 2002; Employees ~13,000+
 	- [Blue Origins](https://www.blueorigin.com) - Los Angeles CA, WA, TX, FL, etc; Founded 2000; Employees ~11,000+
@@ -19,6 +20,11 @@ author_profile: true
 	- [Sierra Space](https://www.sierraspace.com) - Denver CO; Founded 2021; Employees ~2,000+
 	- [Firefly Aerospace](https://fireflyspace.com) - Cedar Park TX; Founded 2017; Employees ~750+
 	- [Virgin Galactic](https://www.virgingalactic.com) - Orange County CA, etc
+	- [Impulse](https://www.impulsespace.com) - Los Angeles CA; Founded 2021; Employees ~150
+	- [Stoke Space](https://www.stokespace.com) - WA; Founded 2020; Employees ~100
+	- [Spin Launch](https://www.spinlaunch.com) - Long Beach CA; Founded 2014; Employees ~150
+
+	
 - Space Robotics / Rovers
 	- [Honeybee Robotics](https://www.honeybeerobotics.com/), Blue Orgin subsidary - Los Angeles CA, Denver CO; Founded 1983; Employees ~300 
 	- [Venturi Astrolab](https://www.astrolab.space) - Los Angeles CA; Founded 2019; Employees ~100
@@ -27,14 +33,19 @@ author_profile: true
 	- [Intuitive Machines](https://www.intuitivemachines.com/) - Houston TX; Founded 2013; Employees ~250
 	- [Lunar Outpost](https://www.lunaroutpost.com) - Denver CO, Melbourne Australia; Founded 2017; Employees ~200
 	- [Oceaneering Space Systems](https://www.oceaneering.com/space-systems/) - Houston, TX; Founded 1964
+
 - Space Sattelites & Imaging
 	- [Planet Labs](https://www.planet.com) - Bay Area CA; Founded 2010; Employees ~1,000
 	- [Muon Space](https://www.muonspace.com) - Bay Area CA; Founded 2021; Employees ~100-150
 	- [Malin Space Science Systems](https://www.msss.com) - San Diego CA; Founded 1990; Employees ~75
 	- [Maxar Technologies](https://www.maxar.com) - Denver CO; Founded 2017 (conglomerate); Employees ~4,500+
+	- [Loft Orbital](https://www.loftorbital.com) - Bay Area CA, Denver CO; Founded 2017; Employees ~250; standardized satellite platform
+	- [Varda Space Industries](https://www.varda.com) - Los Angeles CA; Founded 2021
 	- Spire Global - San Francisco, CA; Founded 2012; Employees ~500
 	- BlackSky - Seattle, WA; Founded 2014; Employees ~300
-	- Planetary Space Craft Optics / Sensing
+	- Array Labs
+
+- Planetary Space Craft Optics / Sensing
 	- [Impossible Sensing](https://www.impossiblesensing.com/) - St. Louis MS
 	- [Photon Systems](https://photonsystems.com/) - Los Angeles CA
 - Additional
@@ -42,11 +53,14 @@ author_profile: true
 	- [Sierra Nevada Corporation](https://www.sncorp.com) - Nevada; Founded 1963; Employees ~5,000+
 	- [Ball Aerospace](https://www.ball.com), BAE Systems subsidary - Denver CO; Founded 1956; Employees ~5,000+
 	- Redwire Space - FL, CA more; Founded 2020; Employees ~700+
+
 - Mining 
 	- [Astroforge](https://www.astroforge.io) - Huntington Beach CA; Founded 2022; Employees ~50
 	- [Offworld](https://www.offworld.ai) - Los Angeles CA; Founded 2016; Employees ~50
 - Stations
 	- [Axiom Space](https://www.axiomspace.com) - Houston TX; Founded 2016; Employees ~1,000
+	- [Vast Space](https://www.vastspace.com) - Long Beach CA; Founded 2021; Employees ~600
+
 - Lunar Organizations
 	-  [Open Lunar Foundation](https://www.openlunar.org)
 	-  [Lunar Surface Innovation Consortium (LSIC), JHU](https://lsic.jhuapl.edu)

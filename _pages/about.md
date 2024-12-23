@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, I am a research engineer with a focus on developing imaging, sensing and robotic systems for exploration. I have over a decade of experience on NASA and NSF-funded ocean and planetary science projects. My background includes work managing projects from instrument design and fabrication through logistics and field deployment — with missions ranging from Antarctic ice shelves, to deep-sea brine pools, to tropical coral reefs.
+Welcome, I am a research engineer with a focus on developing imaging, sensing and robotic systems for exploration. I have over a decade of experience on NASA and NSF-funded ocean and planetary science projects. My background includes work managing full projects lifecycle from instrument design and fabrication through logistics and field deployment — with missions ranging from Antarctic ice shelves, to deep-sea brine pools, to tropical coral reefs.
 
 <!---
 Welcome, I am a research engineer with a focus on developing imaging, sensing and robotic systems for exploration. I have a background working with interdisciplinary teams to build and deploy instruments in a variety of challenging polar and marine environments -- from Antarctic ice shelves to deep sea brine pools.
@@ -82,9 +82,9 @@ I worked as a Senior Research Engineer at [Cornell University](https://astro.cor
 
 ### Technical Skills
 * **Computing**: data analysis, image processing, computer vision [*Python*, *Matlab*]
+* **Optical**: imaging system design, computational imaging, microscopy, holography
 * **Electrical**: PCB design,  implementation of embedded computers and micro-controllers [*Eagle*, *Python*]
 * **Mechanical**: mechanical design, pressure housing design [*Solid Works*]
-* **Optical**: imaging systems, microscopy, holography, computational imaging
 * **Fluidic**: particle tracking velocimetry observations, fluid dynamics, water sampling systems
 
 ### [Field Work](https://andrewdmullen.github.io/fieldwork/)

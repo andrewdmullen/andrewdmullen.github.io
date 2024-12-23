@@ -7,9 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, I am a research engineer with a focus on developing imaging and robotic systems for exploration. I have a background working with interdisciplinary teams to build and deploy instruments in a variety of challenging polar and marine environments. 
+Welcome, I am a research engineer with a focus on developing imaging, sensing and robotic systems for exploration. I have over a decade of experience on NASA and NSF-funded ocean and planetary science projects. My background includes work managing projects from instrument design and fabrication through logistics and field deployment — with missions ranging from Antarctic ice shelves, to deep-sea brine pools, to tropical coral reefs.
 
 <!---
+Welcome, I am a research engineer with a focus on developing imaging, sensing and robotic systems for exploration. I have a background working with interdisciplinary teams to build and deploy instruments in a variety of challenging polar and marine environments -- from Antarctic ice shelves to deep sea brine pools.
+
+
+I am a research engineer with over ten years of experience developing imaging and robotic systems for NASA and NSF-funded ocean and planetary science projects. My work has focused on building tools for scientific exploration using a systems engineering approach to integrate optical, mechanical, electrical, and software elements. I have experience managing projects from instrument design and fabrication through logistics and field deployment — with missions ranging from Antarctic ice shelves to deep-sea brine pools.
+
+My work has focused on building tools using a systems engineering approach to integrate optical, mechanical, electrical, and software elements.
+
 My work uses systems engineering to design instruments which integrate optical, electrical, mechanical, and software components.
 
 Research engineer with a focus on developing imaging and robotic systems for exploration.
@@ -41,9 +48,10 @@ Welcome! I am an engineer who works on developing tools for earth and space expl
 ### Professional
 I worked as a Senior Research Engineer at [Cornell University](https://astro.cornell.edu/andrew-mullen) in the [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu). Prior to this, I was a [NASA Postdoctoral Program (NPP) Fellow](https://cos.gatech.edu/article/andrew-mullen) at the Georgia Institute of Technology. During my Ph.D. I conducted research at the Scripps Institution of Oceanography in the [Jaffe Laboratory for Underwater Imaging](https://jaffeweb.ucsd.edu).
 
-* Present — Visting Research Scientist, Cornell University
+* 2024 - Present — Visting Research Scientist, Cornell University
 * 2022-2023 — Senior Research Engineer, Cornell University
 * 2018-2021 — Postdoctoral Fellow, Georgia Institute of Technology & NASA Postdoctoral Program
+* 2019, Summer — Visiting Researcher, NASA JPL
 
 ### Education
 * 2018 — Ph.D. in Electrical Engineering, UC San Diego
@@ -52,42 +60,48 @@ I worked as a Senior Research Engineer at [Cornell University](https://astro.cor
 
 ### [Scientific Publications](https://andrewdmullen.github.io/publications)
 
-* Peer Reviewed Journals: *Nature*, *Nature Geoscience*, *Nature Communications*, *Planetary Science Journal*, *Earth and Space Science*, *Sustainibility*  
+* Peer Reviewed Journals: *Nature*, *Nature Geoscience*, *Nature Communications*, *Science Advances*, *Planetary Science Journal*, *Earth and Space Science*, *Sustainability*  
 * Conference Papers: *Optical Society of America*, *IEEE Oceanic Engineering Society*, *American Institute of Aeronautics and Astronautics*
 
 ### [Media Coverage](https://andrewdmullen.github.io/media)
 
-* Outlets Including: *New York Times*, *BBC*, *Washington Post*, *Wall Street Journal*, *PBS*, *Scientific American*, *Popular Mechanics*
+* **Outlets Including**: *New York Times*, *BBC*, *Washington Post*, *Wall Street Journal*, *PBS*, *Scientific American*, *Popular Mechanics*
 
 ### Funding & Awards
 
-* Fellowships: *NASA Postdoctoral Program (NPP)*, *NSF Graduate Research Fellowship Program (GRFP)*, *Link Ocean Engineering Ph.D. Fellowship*, *NOAA Hollings Scholarship*
-* Awards & Honors: *Microscopy Today Innovation Award*, *Antarctic Service Medal*
-* Performed engineering and operations work on projects funded by: *NSF Office of Polar Programs*, *NASA Astrobiology Program*, *NASA Planetary Science and Technology from Analog Research (PSTAR) Grants*
+* **Fellowships**: *NASA Postdoctoral Program (NPP)*, *NSF Graduate Research Fellowship Program (GRFP)*, *Link Ocean Engineering Ph.D. Fellowship*, *NOAA Hollings Scholarship*
+* **Awards & Honors**: *Microscopy Today Innovation Award*, *Antarctic Service Medal*
+* **Performed engineering and operations work on projects funded by**: *NSF Office of Polar Programs*, *NASA Astrobiology Program*, *NASA Planetary Science and Technology from Analog Research (PSTAR) Grants*
 
 ### [Project Examples](https://andrewdmullen.github.io/projects/) 
 
-* **Underwater Imaging Systems**: Jointly led the development of a custom submersible diver operated microscope, an underwater particle imaging velocimetry system, and a submersible digital holographic microscope - all used in ocean environments.
-* **Underwater Robotics**: Member of the operations and development team of Icefin a custom underwater robot designed for polar exploration. Led the design and fabrication of a custom instrument package for ROV exploration of deep sea brine pools.
+* **Imaging Systems**: Jointly led the development of a custom submersible diver operated microscope, an underwater particle imaging velocimetry system, and a submersible digital holographic microscope - all used in ocean environments.
+* **Sensor Packages**: Led the design and fabrication of a custom multi-sensor instrument package for ROV exploration of deep sea brine pools.
+* **Robotics**: Member of the operations and development team of Icefin a custom underwater robot designed for polar exploration. 
 * **Ocean Worlds Exploration**: Co-led development of conceptual life detection payloads and concept missions to explore "ocean worlds" in our solar system such as Europa.
 
 ### Technical Skills
-* Computing: data analysis, image processing, computer vision [*Python*, *Matlab*]
-* Electrical: PCB design,  implementation of embedded computers and micro-controllers [*Eagle*, *Python*]
-* Mechanical: mechanical design, pressure housing design [*Solid Works*]
-* Optical: imaging systems, microscopy, holography, computational imaging
-* Fluidic: particle tracking velocimetry observations, fluid dynamics, water sampling systems
+* **Computing**: data analysis, image processing, computer vision [*Python*, *Matlab*]
+* **Electrical**: PCB design,  implementation of embedded computers and micro-controllers [*Eagle*, *Python*]
+* **Mechanical**: mechanical design, pressure housing design [*Solid Works*]
+* **Optical**: imaging systems, microscopy, holography, computational imaging
+* **Fluidic**: particle tracking velocimetry observations, fluid dynamics, water sampling systems
 
 ### [Field Work](https://andrewdmullen.github.io/fieldwork/)
 
-* Conducted field research seasons in: Antarctica (x3), the Arctic (x4), the Red Sea (x2), the Caribbean (x2), West Africa (x2), the Pacific (x3), and the Gulf of Mexico 
-* Performed research utilizing: scientific diving, research vessels, underwater robotic vehicles, towed ocean payloads, and geophysical instrumentation
-* Training: AAUS Scientific Diver (2012, over 150 lifetime dives), Wilderness EMT (2024), Antarctic Field Training (2018, 2019, 2021)
+* **Field Research Seasons**: Antarctica (x3), Arctic (x4), Red Sea (x2), Caribbean (x2), West Africa (x2), Pacific (x3), Gulf of Mexico 
+* **Research Utilizing**: scientific diving, research vessels, underwater robotic vehicles, towed ocean payloads, and geophysical instrumentation
+* **Training**: AAUS Scientific Diver (2012, over 150 lifetime dives), Wilderness EMT (2024), Antarctic Field Training (2018, 2019, 2021)
 
 
 ### [Outside of Work](https://andrewdmullen.github.io/hobbies/) 
 
-Outside of work I enjoy outdoor activities including: triathlons (Ironman x2, Half Ironman x2), backpacking (I have sectioned hiked ~880 miles of the Pacific Crest Trail and am looking forward to doing more!), mountaineering (Denali, Chimborazo, Cayambe, Mt. Rainier, Mt. Baker), trail running, and surfing.
+Outside of work I enjoy outdoor activities including
+
+* Triathlons: Ironman x2, Half Ironman x2
+* Mountaineering: Denali, Chimborazo, Cayambe, Mt. Rainier, Mt. Baker
+* Backpacking: Sectioned hiked ~880 miles of the Pacific Crest Trail and am looking forward to doing more!
+* Trail running, and surfing.
 
 ## Videos Describing Work
 

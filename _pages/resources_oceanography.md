@@ -8,10 +8,10 @@ author_profile: true
 
 ## OCEANOGRAPHY - SCIENTIFIC ORGANIZATIONS
 
-- General List of Oceanographic Institutions:
+### General List of Oceanographic Institutions:
   - [Wikipedia List of Ocean Institutions](https://en.wikipedia.org/wiki/List_of_oceanographic_institutions_and_programs?wprov=sfti1#United_States)
 
-- Academic Oceanographic Institutions (USA)
+### Academic Oceanographic Institutions (USA)
   - [Scripps Institution of Oceanography](https://scripps.ucsd.edu/) - San Diego CA
   - [Woods Hole Oceanographic Institute](https://www.whoi.edu/) - Woods Hole MA
   - [University of Washington](https://www.ocean.washington.edu/) & [UW APL](https://apl.uw.edu/departments/opd/home.php) - Seattle WA
@@ -22,65 +22,85 @@ author_profile: true
   - [Virginia Institute of Marine Sciences](https://www.vims.edu/) - Gloucester Point VA
   - UCSC, UCSB, UCD, Univ. Rutgers, Univ Delaware, Univ. Hawaii, Florida Atlantic University Harbor Branch Oceanographic Institute, and many more
 
-- International
-	- [National Oceanography Centre (NOC)](https://noc.ac.uk) - United Kingdom
-	- [Australian Institute of Marine Science (AIMS)](https://www.aims.gov.au) - Australia
-
-- Non-Profit & Related Oceanographic Organizations
+### Non-Profit & Related Oceanographic Organizations
+- Labs / Institutes
   - [Monterey Bay Aquiarium Research Institute](https://www.mbari.org/) - Monterey CA, Packard Foundation
   - [Marine Biological Laboratory](https://www.mbl.edu/) - Woods Hole MA
   - [Bigelow Laboratory for Ocean Sciences](https://www.bigelow.org/) - East Boothbay Maine
+- Ship Based
   - [Ocean Exploration Trust, OET](https://nautiluslive.org) - EV Nautilus -- [ROV Hercules Streams](https://nautiluslive.org/)
   - [NOAA Ocean Exploration](https://oceanexplorer.noaa.gov/welcome.html) - RV Okeanus Explorer
   - [Schmidt Ocean Institute](https://schmidtocean.org/) - RV Falkor, Schmidt Foundation -- [ROV SuBastion Streams](https://schmidtocean.org/technology/live-from-rv-falkor/)
   - [OceanX](https://oceanx.org/) - RV OceanXplorer, Dalio Foundation
   - [Tara Oceans](https://fondationtaraocean.org/en/expedition/tara-europa/) - France
+  - [Nekton](https://nektonmission.org) - UK
 
-- Government Labs - Oceanography & Adjacent
+
+### Government Labs - Oceanography & Adjacent
+- USA
   - NOAA Labs - https://research.noaa.gov/labs-programs/, https://www.noaa.gov/education/noaa-in-your-backyard, https://www.fisheries.noaa.gov/about/west-coast-region
-  - NASA Centers - https://science.nasa.gov/about-us/nasa-centers/, https://www.nasa.gov/centers-and-facilities/, https://en.wikipedia.org/wiki/NASA_facilities
-  - Department of Energy (DOE) National Labs - https://www.energy.gov/national-laboratories, https://en.wikipedia.org/wiki/United_States_Department_of_Energy_National_Laboratories
-  - EPA Regional Offices - https://www.epa.gov/aboutepa/regional-and-geographic-offices
-  - USGS - https://www.usgs.gov/
-  - BOEM - https://www.boem.gov/
+  - [NASA Centers](https://www.nasa.gov/centers-and-facilities/) - [NASA Science About](https://science.nasa.gov/about-us/nasa-centers/), [Wiki List](https://en.wikipedia.org/wiki/NASA_facilities) - JPL CA, Ames CA, Johnson TX, Stennis MS, Marshall AL, Kennedy FL, Glenn OH, Goddard DC, Langely VA 
+  - [Department of Energy (DOE) National Labs](https://www.energy.gov/national-laboratories) - Lawrence Berkley CA, Lawrence Livermore CA, Los Alamos NM, etc - [Wiki List](https://en.wikipedia.org/wiki/United_States_Department_of_Energy_National_Laboratories)
+  - [EPA Regional Offices](https://www.epa.gov/aboutepa/regional-and-geographic-offices)
+  - [United States Geological Survey (USGS)](https://www.usgs.gov/)
+  - [Bureau of Ocean Energy Management (BOEM)](https://www.boem.gov/)
 
-- Defense / Military
-	- Navy, Civilian
-		- US Naval Research Lab (NRL), Washington DC - https://www.nrl.navy.mil/
-		- Naval Information Warfare Center (NIWC) Pacific, San Diego CA - https://www.niwcpacific.navy.mil/
-		- Naval Information Warfare Center (NIWC) Atlantic, Charleston SC - https://www.niwcatlantic.navy.mil/
-		- Office of naval Research (ONR) - https://www.onr.navy.mil/
-		
-	- US Army Corps of Engineers, Civilian
-		- Coastal & Hydraulics Lab - https://www.erdc.usace.army.mil/Locations/CHL/
-		- Cold Regions Research and Engineering Laboratory (CRREL) - https://www.erdc.usace.army.mil/Locations/CRREL/
+- International
+	- [National Oceanography Centre (NOC)](https://noc.ac.uk) - United Kingdom
+	- [Australian Institute of Marine Science (AIMS)](https://www.aims.gov.au) - Australia
 
-	- Defense, Commissioned
-		- NOAA Corps - https://www.omao.noaa.gov/noaa-corps
-		- Coast Guard - https://www.uscg.mil/
-		- Navy Meteorology & Oceanography Command (METOC) - https://www.metoc.navy.mil/
+### Defense / Military
 
-- Misc Research Organization - Non-profits, Consulting, Companies etc. with ocean adjacent work
+- Navy, Civilian
+	- [Office of naval Research (ONR)](https://www.onr.navy.mil/)
+	- [US Naval Research Lab](https://www.nrl.navy.mil/) - Washington DC
+	- [Naval Information Warfare Center (NIWC) Pacific](https://www.niwcpacific.navy.mil/) - San Diego CA
+	- [Naval Information Warfare Center (NIWC) Atlantic](https://www.niwcatlantic.navy.mil/) - Charleston SC
 	
-	- Large Institutions
-		- SRI International, non-profit science research institute, Bay Area - https://www.sri.com/
-		- SWRI, non-profit science research institute, San Antonio - https://www.swri.org/
-		- Battelle, non-profit science research institute, Ohio - https://www.battelle.org/ 
-		- RTI International, non-profit science research institute, North Carolina  - https://www.rti.org
-		- ESRI, GIS mapping company - https://www.esri.com/en-us/home
-		- Many others
+- US Army Corps of Engineers, Civilian
+	- [Engineer Research and Development Center](https://www.erdc.usace.army.mil/Locations/)
+	- [Coastal & Hydraulics Lab](https://www.erdc.usace.army.mil/Locations/CHL/) - Vicksburg MS, Duck NC
+	- [Cold Regions Research and Engineering Laboratory (CRREL)](https://www.erdc.usace.army.mil/Locations/CRREL/) - Hanover NH
 
-	- Smaller Organizations
-		- Applied Ocean Sciences, consultants acoustics focus - https://www.appliedoceansciences.com/
-		- Bay Area Environmental Research Institute, Bay Area - https://baeri.org
-		- Ocean STL Consulting - https://www.oceanstl.com
-		- Wild Beacon Consulting, Science & Sustainibility Consulting - https://www.wildbeaconconsulting.com/
-		- Blue Latitudes - https://www.bluelatitudesllc.com/
-		- Many others
+- Defense, Commissioned
+	- [NOAA Corps](https://www.omao.noaa.gov/noaa-corps)
+	- [Coast Guard](https://www.uscg.mil/)
+	- [Navy Meteorology & Oceanography Command (METOC)](https://www.metoc.navy.mil/)
+
+### Education & Expeditions
+
+ - Sailing Based Science / Education
+    - [SEA, Sea Education Association](https://sea.edu/)
+    - [Seamester](https://www.seamester.com/)
+    - [Tara Oceans](https://fondationtaraocean.org/)
+    - [Max Plank, S/Y Eugen Seibold](https://www.mpic.de/4224334/sy-eugen-seibold)
+    - [One Ocean](https://www.oneoceanexpedition.com/)
+    - [Darwin 200](https://darwin200.com/)
+
+### R&D Organization - Non-profits, Consulting, Companies etc. with ocean adjacent work
+- Large Institutions, Non-Profit
+	- [SRI International](https://www.sri.com/) (Stanford Research Institute) - Bay Area CA
+	- [Southwest Research Institute (SWRI)](https://www.swri.org/) - San Antonio
+	- [Battelle](https://www.battelle.org/) - Columbus, Ohio  
+	- [RTI International](https://www.rti.org) - Research Triangle Park, NC
+	- [Desert Research Institute (DRI)](https://www.dri.edu/) - Reno / Las Vegas NV
+- Companies
+	- [ESRI](https://www.esri.com/en-us/home). GIS mapping - Redlands CA
+	- [Google X](https://x.company) - Bay Area CA
+	- [IBM Research](https://research.ibm.com)
+	- [Microsoft Research](https://www.microsoft.com/en-us/research/)
+
+- Smaller Organizations
+	- [Applied Ocean Sciences](https://www.appliedoceansciences.com/), consultants acoustics focus - DC / Remote
+	- [Bay Area Environmental Research Institute](https://baeri.org) - Bay Area CA
+	- [Ocean STL Consulting](https://www.oceanstl.com) 
+	- [Wild Beacon Consulting, Science & Sustainibility Consulting](https://www.wildbeaconconsulting.com/) - San Diego CA
+	- [Blue Latitudes](https://www.bluelatitudesllc.com/) - San Diego CA
+	- Many others
 
 - Research Consortiums / Associations
-	- International Ocean Discovery Program (IODP), ocean drilling program - https://www.iodp.org
-	- University-National Oceanographic Laboratory System (UNOLS), US research vessels - https://www.unols.org
+	- [International Ocean Discovery Program (IODP)](https://www.iodp.org)
+	- [University-National Oceanographic Laboratory System (UNOLS)](https://www.unols.org), US research vessels
 
 
 ## OCEANOGRAPHY - SCIENTIFIC ASSOCIATIONS ETC.
@@ -143,55 +163,46 @@ author_profile: true
 
 ## OCEANOGRAPHY - FIELD WORK
 
-  - Field Work
-    - Organizations
-      - [American Academy of Underwater Sciences](https://www.aaus.org),  Scientific Diving
-      - [University-National Oceanographic Laboratory System (UNOLS)](https://www.unols.org), US Research Vessels
-    - Resources
-      - Diving - [NOAA Dive Manual](http://www.omao.noaa.gov/sites/default/files/documents/NDSSM%20Final_041217.pdf)
-      - Small Boat Operations - [NOAA Small Boat Manual](http://www.omao.noaa.gov/sites/default/files/documents/2018%200430%20SBS%26PM%204.1.pdf)
-      - Large Research Vessels - [UNOLS Cruise Planning](https://www.unols.org/vessel-schedules/cruise-planning-information)
+### Field Work
+- Organizations
+  - [American Academy of Underwater Sciences](https://www.aaus.org),  Scientific Diving
+  - [University-National Oceanographic Laboratory System (UNOLS)](https://www.unols.org), US Research Vessels
+- Resources
+  - Diving - [NOAA Dive Manual](http://www.omao.noaa.gov/sites/default/files/documents/NDSSM%20Final_041217.pdf)
+  - Small Boat Operations - [NOAA Small Boat Manual](http://www.omao.noaa.gov/sites/default/files/documents/2018%200430%20SBS%26PM%204.1.pdf)
+  - Large Research Vessels - [UNOLS Cruise Planning](https://www.unols.org/vessel-schedules/cruise-planning-information)
 
-  - Sailing Based Science / Education
-    - SEA, Sea Education Association - https://sea.edu/
-    - Seamester - https://www.seamester.com/
-    - Tara Oceans - https://fondationtaraocean.org/
-    - Max Plank, S/Y Eugen Seibold: https://www.mpic.de/4224334/sy-eugen-seibold
-    - One Ocean - https://www.oneoceanexpedition.com/
-    - Darwin 200 - https://darwin200.com/
-    - Smaller Vessels, Polar - https://ocean-expeditions.com, http://www.pelagic.co.uk, https://www.spiritofsydney.co/, https://www.tecla-sailing.com
+### Marine Field Stations
+- [National Association of Marine Labs](http://saml.naml.org/) - Comprehensive list of US marine field stations
+- West Coast Examples:
+  - [Wrigley Matrine Science Center](https://dornsife.usc.edu/wrigley/research/wrigley-marine-science-center-wmsc/) (Catalina Island, CA - USC)
+  - [Hopkins Marine Station](https://www.google.com/search?client=safari&rls=en&q=hopkins+marine+station&ie=UTF-8&oe=UTF-8) (Monterey Bay, CA - Stanford)
+  - [Bodega Marine Laboratory](https://marinescience.ucdavis.edu/bml/about) (Bodega Bay, CA - UC Davis)
+  - [Hatfield Marine Science Center](https://hmsc.oregonstate.edu/) (Newport, OR - OSU)
+  - [Friday Harbor Labs](https://fhl.uw.edu/) (San Juan Islands, WA - UW)
+- Gulf Coast Examples:
+  - [Louisiana Universities Marine Consortium (LUMCON)](https://lumcon.edu/) (Chauvin, LA)
+  - [Florida State University Coastal and Marine Laboratory](https://marinelab.fsu.edu/) (St. Teresa, FL)
+  - [Dauphin Island Sea Lab](https://www.disl.edu/) (Dauphin Island, AL)
+  - [Skidaway Institute of Oceanography](https://www.skio.uga.edu/) (Savannah, GA - University of Georgia)
+- East Coast Examples:
+  - [Broad Key Research Station](https://marine-biology-ecology.earth.miami.edu/research-themes/centers-and-labs/broad-key-research-station/index.html) (Florida Keys, FL - University of Miami)
+  - [Shoals Marine Laboratory](https://www.shoalsmarinelaboratory.org/) (Appledore Island, ME - NHU & Cornell)
+
+- Marine Field Stations, International
+  - [Organization of Biological Field Stations](https://www.obfs.org) - Inyternational list of field stations, not comprehensive
+  - Examples:
+    - [Interuniversity Insitute for Marine Science](https://iui-eilat.huji.ac.il/Default.aspx) (Eilat, Israel)
+    - [Smithsonian Tropical Research Institute, STRI](https://stri.si.edu/) (Panama)
+    - [Gump Station](https://www.moorea.berkeley.edu) (Moorea Tahiti)
+    - [Palmyra](https://www.parcresearch.org/)
+    - [Bermuda Institute of Ocean Sciences (BIOS)](https://bios.asu.edu/) (Bermuda - ASU)
+    - Great Barrier Reef: Heron Island, Lizard Island, One Tree Island, Orpheus Island Research Station
 
 - Private Expeditions Etc.
+	- [EYOS Expeditions](https://www.eyos-expeditions.com)
 	- Caladan Oceanic / Five Deep - https://caladanoceanic.com, https://fivedeeps.com, https://www.eyos-expeditions.com/
-	- Nekton - https://nektonmission.org
-
-
-- Marine Field Stations, US
-    - [National Association of Marine Labs](http://saml.naml.org/) - Comprehensive list of US marine field stations
-    - West Coast Examples:
-      - [Wrigley Matrine Science Center](https://dornsife.usc.edu/wrigley/research/wrigley-marine-science-center-wmsc/) (Catalina Island, CA - USC)
-      - [Hopkins Marine Station](https://www.google.com/search?client=safari&rls=en&q=hopkins+marine+station&ie=UTF-8&oe=UTF-8) (Monterey Bay, CA - Stanford)
-      - [Bodega Marine Laboratory](https://marinescience.ucdavis.edu/bml/about) (Bodega Bay, CA - UC Davis)
-      - [Hatfield Marine Science Center](https://hmsc.oregonstate.edu/) (Newport, OR - OSU)
-      - [Friday Harbor Labs](https://fhl.uw.edu/) (San Juan Islands, WA - UW)
-    - Gulf Coast Examples:
-      - [Louisiana Universities Marine Consortium (LUMCON)](https://lumcon.edu/) (Chauvin, LA)
-      - [Florida State University Coastal and Marine Laboratory](https://marinelab.fsu.edu/) (St. Teresa, FL)
-      - [Dauphin Island Sea Lab](https://www.disl.edu/) (Dauphin Island, AL)
-      - [Skidaway Institute of Oceanography](https://www.skio.uga.edu/) (Savannah, GA - University of Georgia)
-    - East Coast Examples:
-      - [Broad Key Research Station](https://marine-biology-ecology.earth.miami.edu/research-themes/centers-and-labs/broad-key-research-station/index.html) (Florida Keys, FL - University of Miami)
-      - [Shoals Marine Laboratory](https://www.shoalsmarinelaboratory.org/) (Appledore Island, ME - NHU & Cornell)
-
-  - Marine Field Stations, International
-      - [Organization of Biological Field Stations](https://www.obfs.org) - Inyternational list of field stations, not comprehensive
-      - Examples:
-        - [Interuniversity Insitute for Marine Science](https://iui-eilat.huji.ac.il/Default.aspx) (Eilat, Israel)
-        - [Smithsonian Tropical Research Institute, STRI](https://stri.si.edu/) (Panama)
-        - [Gump Station](https://www.moorea.berkeley.edu) (Moorea Tahiti)
-        - [Palmyra](https://www.parcresearch.org/)
-        - [Bermuda Institute of Ocean Sciences (BIOS)](https://bios.asu.edu/) (Bermuda - ASU)
-        - Great Barrier Reef: Heron Island, Lizard Island, One Tree Island, Orpheus Island Research Station
+	- Smaller Vessels, Polar - https://ocean-expeditions.com, http://www.pelagic.co.uk, https://www.spiritofsydney.co/, https://www.tecla-sailing.com
 
 ## OCEANOGRAPHY - JOBS / OPPORTUNITIES
 
@@ -213,8 +224,8 @@ author_profile: true
   - Blue Robotics, ROV Tutorials: https://bluerobotics.com/learn/
   
 - Education
-  - UNOLS Chief Scientist Training: https://www.unols.org/nsf-unols-chief-scientist-training-cruise
-  - Early Career Deep-Sea Expedition Leadership Master Class and Fellowship, Crustal Ocean Biosphere Research Accelerator: https://cobra.pubpub.org, https://cobra.bigelow.org/master-class-and-fellowship/
+  - [UNOLS Chief Scientist Training](https://www.unols.org/nsf-unols-chief-scientist-training-cruise)
+  - [Early Career Deep-Sea Expedition Leadership Master Class and Fellowship, Crustal Ocean Biosphere Research Accelerator](https://cobra.pubpub.org), [additional link](https://cobra.bigelow.org/master-class-and-fellowship/)
   - Summer Schools etc.: [WHOI GFD Summer School](https://gfd.whoi.edu/) (Woods Hole, MA), [Friday Harbor Labs](https://marinebiology.uw.edu/field-stations-ships/friday-harbor-laboratories/) (San Juan Islands, WA),  
   - Undergraduate at Sea: [Sea Education Association (SEA)](https://sea.edu/), [Seamester](https://www.seamester.com/)
   - Underwater robotics competitions: https://bluerobotics.com/learn/which-underwater-robotics-competition-is-right-for-you/#authors, https://robonation.org/programs/robosub/, https://materovcompetition.org/

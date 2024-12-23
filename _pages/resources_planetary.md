@@ -7,14 +7,42 @@ author_profile: true
 
 ### PLANETARY SCIENCE & ASTROBIOLOGY
 
+## Space Industry
+- [Wikipedia List, Private Spaceflight Companies - Rockets, Stations, Robotics, Etc](https://en.wikipedia.org/wiki/List_of_private_spaceflight_companies)
+- Legacy: ULA, Boeing, Lockheed, Northrop
+- Rockets
+	- [SpaceX](https://www.spacex.com) - Los Angeles CA, WA, TX, FL, etc
+	- [Blue Origins](https://www.blueorigin.com) - Los Angeles CA, WA, TX, FL, etc
+	- [Rocket Labs](https://www.rocketlabusa.com) - Long Beach CA, NZ
+	- [Sierra Space](https://www.sierraspace.com) - Denver CO
+	- [Relativity Space](https://www.relativityspace.com) - Long Beach CA
+	- [Firefly Aerospace](https://fireflyspace.com) - Cedar Park TX
+	- [Virgin Galactic](https://www.virgingalactic.com) - Orange County CA, etc
+- Space Robotics / Rovers
+	- [Honeybee Robotics](https://www.honeybeerobotics.com/), Blue Orgin subsidary - Los Angeles CA, Longmont CO 
+	- [Astrobotics](https://www.astrobotic.com/) - Pittsburgh PA
+	- [Intuitive Machines](https://www.intuitivemachines.com/) - Houston TX
+	- [Venturi Astrolab](https://www.astrolab.space) - Los Angeles CA
+	- [Lunar Outpost](https://www.lunaroutpost.com) - Denver CO, Melbourne Australia
+- Space Sattelite Imaging
+	- [Planet Labs](https://www.planet.com) - Bay Area CA
+	- [Muon Space](https://www.muonspace.com) - Bay Area CA
+	- [Maxar Technologies](https://www.maxar.com) - Denver CO
+- Planetary Space Craft Optics / Sensing
+	- [Impossible Sensing](https://www.impossiblesensing.com/) - St. Louis MS
+	- [Photon Systems](https://photonsystems.com/) - Los Angeles CA
+- Additional
+	- [Sierra Nevada Corporation](https://www.sncorp.com) - Nevada
+	- [Ball Aerospace](https://www.ball.com), BAE Systems subsidary - Denver CO
+	- [The Aerospace Corporation](https://aerospace.org) - Los Angeles CA
+- Mining - Planetary Resources, Astroforge etc.
+- Stations - Axiom, Bigelow, etc.
+
 ## Research Labs & Institutes
 - NASA Astrobiology 
 	- https://astrobiology.nasa.gov/research/astrobiology-at-nasa/
-- NASA Centers
-	- Ames - https://www.nasa.gov/ames/
-	- Johnson Space Center - https://www.nasa.gov/johnson/
-	- Godard SFC - https://www.nasa.gov/goddard/
-	- Others
+- [NASA Centers](https://www.nasa.gov/centers-and-facilities/) 
+	- [NASA Science About](https://science.nasa.gov/about-us/nasa-centers/), [Wiki List](https://en.wikipedia.org/wiki/NASA_facilities) - Ames CA, Johnson TX, Stennis MS, Marshall AL, Kennedy FL, Glenn OH, Goddard DC, Langely VA 
 - Academic Research Centers
 	- Jet Propulsion Lab, Cal Tech - https://www.jpl.nasa.gov/
 	- Applied Physics Lab, Johns Hopkins - https://www.jhuapl.edu/
@@ -45,29 +73,6 @@ author_profile: true
 
 ## Publications
 - Astrobiology, AGU Earth & Space, Icarus, Planetary Science Journal, and others
-
-## Space Industry
-- [Wikipedia List, Private Spaceflight Companies - Rockets, Stations, Robotics, Etc](https://en.wikipedia.org/wiki/List_of_private_spaceflight_companies)
-- Rockets - SpaceX, Blue Origins, Rocket Labs, Sierra Space, Relativity Space etc.
-- Mining - Planetary Resources, Astroforge etc.
-- Stations - Axiom, Bigelow, etc.
-- Space Robotics
-	- Honeybee Robotics - https://www.honeybeerobotics.com/
-	- Astrobotics - https://www.astrobotic.com/
-	- Intuitive Machines - https://www.intuitivemachines.com/
-	- Many others
-- Space Sattelite Imaging
-	- Planet Labs - https://www.planet.com
-	- Maxar - https://www.maxar.com
-	- Muon Space - https://www.muonspace.com
-	- Many others
-- Planetary Space Craft Optics / Sensing
-	- Impossible Sensing - https://www.impossiblesensing.com/
-	- Photon Systems - https://photonsystems.com/
-	- Many others
-- Research
-	- The Aerospace Corporation - https://aerospace.org
-
 
 ## Fieldwork
 - Planetary Analogs

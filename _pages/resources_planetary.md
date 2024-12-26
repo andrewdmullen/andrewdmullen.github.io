@@ -10,7 +10,19 @@ author_profile: true
 (Updated Jan 2024)
 
 - [Wikipedia List, Private Spaceflight Companies - Rockets, Stations, Robotics, Etc](https://en.wikipedia.org/wiki/List_of_private_spaceflight_companies)
-- Legacy: ULA, Boeing, Lockheed, Northrop
+- Legacy / Defense
+	- ULA - Boeing & Lockheed Martin; Founded 2006; Employees ~2,700
+	- Boeing - Founded 1916; Employees ~170,000
+	- Lockheed Martin - Founded 1926 (merger 1995); Employees ~120,000
+	- Northrop Grumman - Founded 1939; Employees ~100,000
+	- RTX - Founded 1922; Employees ~185,000 (Owns: Raytheon, Collins Aerospace, Pratt & Whitney)
+	- General Dynamics - Founded 1952; Employees ~110,000
+	- L3Harris - Founded 1895 (merger 2019); Employees ~50,000
+	- Leidos - Founded 1969; Employees ~47,000
+	- BAE Systems - Founded 1977 (merger 1999); Employees ~40,000
+	- General Atomics - Founded 1955; Employees ~15,000
+	- Aerojet Rocketdyne (L3 Harris subsidiary)- Founded 1915; Employees ~10,000
+	- Anduril - Founded 2017; Emplyees ~3,500
 
 - Rockets
 	- [SpaceX](https://www.spacex.com) - Los Angeles CA, WA, TX, FL, etc; Founded 2002; Employees ~13,000+
@@ -20,7 +32,7 @@ author_profile: true
 	- [Sierra Space](https://www.sierraspace.com) - Denver CO; Founded 2021; Employees ~2,000+
 	- [Firefly Aerospace](https://fireflyspace.com) - Cedar Park TX; Founded 2017; Employees ~750+
 	- [Virgin Galactic](https://www.virgingalactic.com) - Orange County CA, etc
-	- [Impulse](https://www.impulsespace.com) - Los Angeles CA; Founded 2021; Employees ~150
+	- [Impulse Space](https://www.impulsespace.com) - Los Angeles CA; Founded 2021; Employees ~150
 	- [Stoke Space](https://www.stokespace.com) - WA; Founded 2020; Employees ~100
 	- [Spin Launch](https://www.spinlaunch.com) - Long Beach CA; Founded 2014; Employees ~150
 
@@ -43,7 +55,7 @@ author_profile: true
 	- [Varda Space Industries](https://www.varda.com) - Los Angeles CA; Founded 2021
 	- Spire Global - San Francisco, CA; Founded 2012; Employees ~500
 	- BlackSky - Seattle, WA; Founded 2014; Employees ~300
-	- Array Labs
+	- Array Labs - Bay Area CA; Founded 2021
 
 - Planetary Space Craft Optics / Sensing
 	- [Impossible Sensing](https://www.impossiblesensing.com/) - St. Louis MS

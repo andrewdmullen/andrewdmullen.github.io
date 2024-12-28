@@ -60,8 +60,8 @@ I worked as a Senior Research Engineer at [Cornell University](https://astro.cor
 
 ### [Scientific Publications](https://andrewdmullen.github.io/publications)
 
-* Peer Reviewed Journals: *Nature*, *Nature Geoscience*, *Nature Communications*, *Science Advances*, *Planetary Science Journal*, *Earth and Space Science*, *Sustainability*  
-* Conference Papers: *Optical Society of America*, *IEEE Oceanic Engineering Society*, *American Institute of Aeronautics and Astronautics*
+* **Peer Reviewed Journals**: *Nature*, *Nature Geoscience*, *Nature Communications*, *Science Advances*, *Planetary Science Journal*, *Earth and Space Science*, *Sustainability*  
+* **Conference Papers**: *Optical Society of America*, *IEEE Oceanic Engineering Society*, *American Institute of Aeronautics and Astronautics*
 
 ### [Media Coverage](https://andrewdmullen.github.io/media)
 
@@ -77,12 +77,12 @@ I worked as a Senior Research Engineer at [Cornell University](https://astro.cor
 
 * **Imaging Systems**: Jointly led the development of a custom submersible diver operated microscope, an underwater particle imaging velocimetry system, and a submersible digital holographic microscope - all used in ocean environments.
 * **Sensor Packages**: Led the design and fabrication of a custom multi-sensor instrument package for ROV exploration of deep sea brine pools.
-* **Robotics**: Member of the operations and development team of Icefin a custom underwater robot designed for polar exploration. 
+* **Robotics**: Member of the operations and development team of 'Icefin' a custom underwater robot designed for polar exploration, performed three expeditions to Antarctica on the robot team.
 * **Ocean Worlds Exploration**: Co-led development of conceptual life detection payloads and concept missions to explore "ocean worlds" in our solar system such as Europa.
 
 ### Technical Skills
 * **Computing**: data analysis, image processing, computer vision [*Python*, *Matlab*]
-* **Optical**: imaging system design, computational imaging, microscopy, holography
+* **Optical**: imaging system design, computational imaging, microscopy, holography [*Zemax*]
 * **Electrical**: PCB design,  implementation of embedded computers and micro-controllers [*Eagle*, *Python*]
 * **Mechanical**: mechanical design, pressure housing design [*Solid Works*]
 * **Fluidic**: particle tracking velocimetry observations, fluid dynamics, water sampling systems

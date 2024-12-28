@@ -34,6 +34,8 @@ author_profile: true
   - [OceanX](https://oceanx.org/) - RV OceanXplorer, Dalio Foundation
   - [Tara Oceans](https://fondationtaraocean.org/en/expedition/tara-europa/) - France
   - [Nekton](https://nektonmission.org) - UK
+  - [REV Ocean](https://www.revocean.org) - Norway
+  - [Pisces VI Submarine](https://piscessub.com) - Canary Islands
 
 
 ### Government Labs - Oceanography & Adjacent
@@ -101,6 +103,8 @@ author_profile: true
 - Research Consortiums / Associations
 	- [International Ocean Discovery Program (IODP)](https://www.iodp.org)
 	- [University-National Oceanographic Laboratory System (UNOLS)](https://www.unols.org), US research vessels
+	- [Partnership for Observation of the Global Ocean (POGO)](https://pogo-ocean.org)
+	- [Biomolecular Ocean Observing Network (OBON)](https://obon-ocean.org)
 
 
 ## OCEANOGRAPHY - SCIENTIFIC ASSOCIATIONS ETC.

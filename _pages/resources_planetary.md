@@ -4,10 +4,9 @@ title: "Resources - Planetary"
 permalink: /resources_planetary/
 author_profile: true
 ---
-
+Updated Jan 2024 - Focus on Space Industry and Planetery / Astrobiology Science
 
 ## Space Industry
-(Updated Jan 2024)
 
 - [Wikipedia List, Private Spaceflight Companies - Rockets, Stations, Robotics, Etc](https://en.wikipedia.org/wiki/List_of_private_spaceflight_companies)
 - Legacy / Defense

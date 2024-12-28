@@ -12,10 +12,11 @@ Here is a collection of resources and links.
 ## Resource Lists - By Field
 Scientific Organizations, Associations, Engineering Companies, Etc.
 
+* [Resources - Space, Planetary Science & Astrobiology](https://andrewdmullen.github.io/resources_planetary/) - Space Companies, Scientific Institutes, Scientific Organizations, Companinies, Etc.
+* [Resources - Ocean Engineering](https://andrewdmullen.github.io/resources_oceanengineering/) - Robotics Companies, Instrument Companies, Etc.
 * [Resources - Oceanography](https://andrewdmullen.github.io/resources_oceanography/) - Scientific Institutes, Scientific Organizations, Etc.
-* [Resources - Ocean Engineering](https://andrewdmullen.github.io/resources_oceanengineering/) - Instrument Companies, Robotics Companies, Etc.
 * [Resources - Polar](https://andrewdmullen.github.io/resources_polar/) - Scientific Institutes, Scientific Organizations, Companinies, Etc.
-* [Resources - Space, Planetary Science & Astrobiology](https://andrewdmullen.github.io/resources_planetary/) - Scientific Institutes, Scientific Organizations, Companinies, Etc.
+
 
 ## Resource Lists - Career & Education 
 Useful educational material and links to resources.

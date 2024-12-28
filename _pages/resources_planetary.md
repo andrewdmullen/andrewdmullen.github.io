@@ -49,6 +49,7 @@ Updated Jan 2024 - Focus on Space Industry and Planetery / Astrobiology Science
 	- [Planet Labs](https://www.planet.com) - Bay Area CA; Founded 2010; Employees ~1,000
 	- [Muon Space](https://www.muonspace.com) - Bay Area CA; Founded 2021; Employees ~100-150
 	- [Malin Space Science Systems](https://www.msss.com) - San Diego CA; Founded 1990; Employees ~75
+	- [Terran Orbital](https://terranorbital.com) - Irvine CA; Founded 2013; Employees ~500
 	- [Maxar Technologies](https://www.maxar.com) - Denver CO; Founded 2017 (conglomerate); Employees ~4,500+
 	- [Loft Orbital](https://www.loftorbital.com) - Bay Area CA, Denver CO; Founded 2017; Employees ~250; standardized satellite platform
 	- [Varda Space Industries](https://www.varda.com) - Los Angeles CA; Founded 2021

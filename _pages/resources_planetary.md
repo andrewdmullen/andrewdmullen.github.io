@@ -33,6 +33,7 @@ Updated Jan 2024 - Focus on Space Industry and Planetery / Astrobiology Science
 	- [Virgin Galactic](https://www.virgingalactic.com) - Orange County CA, etc
 	- [Impulse Space](https://www.impulsespace.com) - Los Angeles CA; Founded 2021; Employees ~150
 	- [Stoke Space](https://www.stokespace.com) - WA; Founded 2020; Employees ~100
+	- [Ursa Major](https://www.ursamajor.com) - Colorado
 	- [Spin Launch](https://www.spinlaunch.com) - Long Beach CA; Founded 2014; Employees ~150
 
 	
@@ -40,10 +41,13 @@ Updated Jan 2024 - Focus on Space Industry and Planetery / Astrobiology Science
 	- [Honeybee Robotics](https://www.honeybeerobotics.com/), Blue Orgin subsidary - Los Angeles CA, Denver CO; Founded 1983; Employees ~300 
 	- [Venturi Astrolab](https://www.astrolab.space) - Los Angeles CA; Founded 2019; Employees ~100
 	- [Motiv Space Systems](https://motivss.com) - Los Angeles CA; Founded 2014; Employees ~50
-	- [Astrobotics Technology](https://www.astrobotic.com/) - Pittsburgh PA; Founded 2007; Employees ~130
+	- [Second Order Effects](https://soeffects.com) - Los Angeles CA
+	- [Astrobotic Technology](https://www.astrobotic.com/) - Pittsburgh PA; Founded 2007; Employees ~130
 	- [Intuitive Machines](https://www.intuitivemachines.com/) - Houston TX; Founded 2013; Employees ~250
 	- [Lunar Outpost](https://www.lunaroutpost.com) - Denver CO, Melbourne Australia; Founded 2017; Employees ~200
 	- [Oceaneering Space Systems](https://www.oceaneering.com/space-systems/) - Houston, TX; Founded 1964
+	- [MDA Space](https://mda.space) - Canada, Houston TX
+
 
 - Space Sattelites & Imaging
 	- [Planet Labs](https://www.planet.com) - Bay Area CA; Founded 2010; Employees ~1,000
@@ -105,12 +109,13 @@ Updated Jan 2024 - Focus on Space Industry and Planetery / Astrobiology Science
 - Astrobiology Summer School, International Geobiology Course - https://web.gps.caltech.edu/GBcourse/information.html
 - Education, Mission Design Schools - JPL NASA Science  https://www.jpl.nasa.gov/edu/intern/apply/nasa-science-mission-design-schools/
 
-## Conferences / Meetings
+## Conferences / Meetings / Organizations
 - AbSciConn - https://www.agu.org/abscicon
 - AbGradCon - https://www.abgradcon.org/
 - Lunar and Planetary Science Conference (LPSC) - https://www.hou.usra.edu/meetings/lpsc2024/
 - Outer Planetary Assessment Group (OPAG) - https://www.lpi.usra.edu/opag/
 - AIAA ASCEND - https://www.ascend.events/
+- Network for Ocean Worlds - https://oceanworlds.space
 - Others
 
 ## Publications
@@ -134,6 +139,9 @@ Updated Jan 2024 - Focus on Space Industry and Planetery / Astrobiology Science
 - NASA NIAC, Innovative Advanced Concepts - https://www.nasa.gov/stmd-the-nasa-innovative-advanced-concepts-niac/
 - Others
 
+## Key Documents
+- Planetary Science and Astrobiology Decadal Survey 2023-2032 - https://www.nationalacademies.org/our-work/planetary-science-and-astrobiology-decadal-survey-2023-2032
+- Moon to Mars Architecture - https://www.nasa.gov/moontomarsarchitecture/, https://www.nasa.gov/moontomarsarchitecture-whitepapers/
 	
 ## Misc
 - Planetary Science, List of Institutions / Societies / Etc. - https://www.boulder.swri.edu/~bottke/departments.html

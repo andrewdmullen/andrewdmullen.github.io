@@ -14,6 +14,7 @@ author_profile: true
 	* Wilderness Medicine: [Airie Wilderness Medicine Manual](https://aeriemedicine.com/textbook)
 	* Flying: [FAA - Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak), [FAA - Airplane Flying Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook)
 	* Ropes & Rigging: [US Armed Forces Guide to Rigging (TM 3-34.86) / Rigging Techniques, Procedures, and Applications](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tm3_34x86.pdf)
+	* NASA ISS Behavior Model: [International Space Station Human Behavior & Performance Competency Model Volume II](https://ntrs.nasa.gov/citations/20080018551)
 	
 * Organizations
 	* American Academy of Underwater Sciences, Scientific Diving: [https://www.aaus.org](https://www.aaus.org) 

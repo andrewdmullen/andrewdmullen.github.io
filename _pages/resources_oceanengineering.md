@@ -164,6 +164,9 @@ Updated Jan 2024
 	- [Inspired Energy](https://www.inspired-energy.com/) - Batteries
 	- [Vicor](https://www.vicorpower.com/) - Power Regulation
 
+- Housings
+	- [Robotic Ocean](https://www.roboticocean.com/) - San Diego CA
+
 - Oceanographic Equipment, General / Distributors / Rental
 	- [Ashtead](https://www.ashtead-technology.com/equipment/) - Texas & Louisian USA, International; ROV & Oceanographic Equipment - Wide Rental Selection
 	- [Acteon / Seatronics](https://acteon.com/equipment-sales-rental/) - Houston USA, International; ROV Equipment - Wide Rental Selection

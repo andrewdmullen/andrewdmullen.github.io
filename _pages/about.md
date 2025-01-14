@@ -65,7 +65,7 @@ I worked as a Senior Research Engineer at [Cornell University](https://astro.cor
 
 ### [Media Coverage](https://andrewdmullen.github.io/media)
 
-* **Outlets Including**: *New York Times*, *BBC*, *Washington Post*, *Wall Street Journal*, *PBS*, *Scientific American*, *Popular Mechanics*
+* **Outlets Including**: *New York Times*, *BBC*, *Washington Post*, *Wall Street Journal*, *PBS*, *Scientific American*, *Popular Mechanics*, and more
 
 ### Funding & Awards
 

@@ -38,7 +38,7 @@ author_profile: true
 - When
 	- Constrained Time Windows: constrained operational timelines -- e.g. time limitations during diving, robotic work
 	- Long Durations: extended duration -- e.g. extended field seasons, extend single missions
-	- Unpredictable Environment: weather, delays -- adapt to environment such e.g. waves, wind, storms, travel delays 
+	- Unpredictable Environment: weather, delays -- adapt to environment such e.g. waves, wind, storms, travel delays
 
 ## Field Work - Logistics Checklists
 

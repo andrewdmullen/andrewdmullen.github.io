@@ -135,7 +135,7 @@ author_profile: true
 	- Total luggage volume and weight, [Delta baggage policy](https://www.delta.com/us/en/baggage/overview)
 
 
-## 3) Best Practices
+## 3) Team Meetings
 
 ### Pre-Trip - Team Meeting
 - Behavior Standards
@@ -167,21 +167,23 @@ author_profile: true
 	- Role Review
 
 
-### Within Season - Meetings
+### Within Season - Team Meetings
 
-- Structured Mission Pre-Briefs
+- Structured Mission / Daily Pre-Briefs
 	- Obectives
 	- Who: Role Assignment 
 	- What: Equipment, Operations
 	- Where: Location
 	- When: Timeline
 	
-- Structured Mission De-Briefs
+- Structured Mission / Daily De-Briefs
 	- Issue Identification 
 	- Success / Failures
 	- Lessons
 	- Adjustments to Protocols 
 
+
+## 4) Best Practices
 	
 ### Skills / Techinques
 

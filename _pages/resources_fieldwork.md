@@ -40,6 +40,37 @@ author_profile: true
 	- Long Durations: extended duration -- e.g. extended field seasons, extend single missions
 	- Unpredictable Environment: weather, delays -- adapt to environment such e.g. waves, wind, storms, travel delays
 
+
+## Field Work - Planning, High Level 
+
+- Who - Team List
+	- Personnel: team members, collaborators
+	- Roles: individual roles and responsibilities 
+
+- When - Calendar
+	- Pre-Deployment: preperation timline, milestones
+	- Field Season: calendar timeline, milestones
+	- Daily Schedule: standard daily operational schedule
+
+- Where - Map
+	- Research Site: field sites, map, complexities
+	- Living Location: accomodations, resources
+	
+- What - Objectives List
+	- Minimum: threshold for season success
+	- Target: basline
+	- Reach: nice to have
+
+- What - Equipment List
+	- Techincal: instrumentation list, tool kit list
+	- List: camp gear, personal gear
+		
+- What - Operating Procedures 
+	- Standard Operating Procedures: SOPs for equipment, operational checklists (functional tests, status checks)
+	- Hazard Plan: hazard identification matrix (proabability, impact), mitigation, trouble shooting, contingency
+	- Science: data management plan, data quality control plan, note taking & documentation
+
+
 ## Field Work - Logistics Checklists
 
 ### Pre-Trip Logistics - High Level
@@ -99,32 +130,6 @@ author_profile: true
 	- Carrier: airline baggage tracking apps, courier documentation
 - Airline Rules 
 	- Total luggage volume and weight, [Delta baggage policy](https://www.delta.com/us/en/baggage/overview)
-
-
-## Field Work - Planning
- 
-### Planning - High Level 
-- What
-	- Objectives 
-		- Minimum: threshold for season success
-		- Target: basline
-		- Reach: nice to have
-	- Operations 
-		- Standard Operating Procedures: SOPs for equipment, operational checklists (functional tests, status checks)
-		- Hazard Plan: hazard identification matrix (proabability, impact), mitigation, trouble shooting, contingency
-		- Science: data management plan, data quality control plan, note taking & documentation
-	- Equipment
-		- Techincal: instrumentation list, tool kit list
-		- List: camp gear, personal gear
-- Who
-	- Personnel: team members
-	- Roles: well defined roles and responsibilities 
-- When 
-	- Pre-Deployment Preperations
-	- Season Calendar Timeline
-	- Standard Daily Schedule
-- Where
-	-  Location Details
 
 
 ## Field Work - Best Practices

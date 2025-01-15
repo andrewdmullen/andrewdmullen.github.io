@@ -21,27 +21,10 @@ author_profile: true
 	* American Academy of Underwater Sciences, Scientific Diving: [https://www.aaus.org](https://www.aaus.org) 
 	* University-National Oceanographic Laboratory System (UNOLS), US Research Vessels: [https://www.unols.org](https://www.unols.org)
 
-## Field Work - Identify Complexities & Challenges
 
-- Who
-	- Interdisciplinary Teams: science, engineering, operations, logistics -- coordinate members, contribute in multiple roles
-	- International Teams: institutions, countries, cultures, operating protocols -- coordinate stakeholders, work across cultures
+## 1) Planning 
 
-- What
-	- Technical Equipment: instrumentation, robotics, vehicles, personal equipment -- e.g. science sensors, ROVs, boats, scuba gear
-	- Technical Operations: multi-operator teams, techincal skill set -- e.g. deploy, position, monitor, control, coordinate across teams
-
-- Where
-	- Harsh Environment: temperature, weather, wind, current, terrain -- e.g. polar, crevassed icefield, at sea, underwater
-	- Isolated / Confined Environment: living conditions, travel challenges, resource constraints -- e.g. field camp, aboards ship
-
-- When
-	- Constrained Time Windows: constrained operational timelines -- e.g. time limitations during diving, robotic work
-	- Long Durations: extended duration -- e.g. extended field seasons, extend single missions
-	- Unpredictable Environment: weather, delays -- adapt to environment such e.g. waves, wind, storms, travel delays
-
-
-## Field Work - Planning, High Level 
+### High Level Plan
 
 - Who - Team List
 	- Personnel: team members, collaborators
@@ -71,7 +54,27 @@ author_profile: true
 	- Science: data management plan, data quality control plan, note taking & documentation
 
 
-## Field Work - Logistics Checklists
+### Identify Complexities & Challenges
+
+- Who
+	- Interdisciplinary Teams: science, engineering, operations, logistics -- coordinate members, contribute in multiple roles
+	- International Teams: institutions, countries, cultures, operating protocols -- coordinate stakeholders, work across cultures
+
+- What
+	- Technical Equipment: instrumentation, robotics, vehicles, personal equipment -- e.g. science sensors, ROVs, boats, scuba gear
+	- Technical Operations: multi-operator teams, techincal skill set -- e.g. deploy, position, monitor, control, coordinate across teams
+
+- Where
+	- Harsh Environment: temperature, weather, wind, current, terrain -- e.g. polar, crevassed icefield, at sea, underwater
+	- Isolated / Confined Environment: living conditions, travel challenges, resource constraints -- e.g. field camp, aboards ship
+
+- When
+	- Constrained Time Windows: constrained operational timelines -- e.g. time limitations during diving, robotic work
+	- Long Durations: extended duration -- e.g. extended field seasons, extend single missions
+	- Unpredictable Environment: weather, delays -- adapt to environment such e.g. waves, wind, storms, travel delays
+
+
+## 2) Logistics Checklists
 
 ### Pre-Trip Logistics - High Level
 - Personnel
@@ -132,7 +135,7 @@ author_profile: true
 	- Total luggage volume and weight, [Delta baggage policy](https://www.delta.com/us/en/baggage/overview)
 
 
-## Field Work - Best Practices
+## 3) Best Practices
 
 ### Pre-Trip - Team Meeting
 - Behavior Standards

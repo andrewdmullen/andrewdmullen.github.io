@@ -164,7 +164,7 @@ author_profile: true
 	- Role Review
 
 
-### Within Trip - Meetings
+### Within Season - Meetings
 
 - Structured Mission Pre-Briefs
 	- Obectives

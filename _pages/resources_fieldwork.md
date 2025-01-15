@@ -22,7 +22,7 @@ author_profile: true
 	* University-National Oceanographic Laboratory System (UNOLS), US Research Vessels: [https://www.unols.org](https://www.unols.org)
 
 
-## 1) Planning 
+## 1) Fieldwork: Planning 
 
 ### High Level Plan
 
@@ -74,7 +74,7 @@ author_profile: true
 	- Unpredictable Environment: weather, delays -- adapt to environment such e.g. waves, wind, storms, travel delays
 
 
-## 2) Logistics Checklists
+## 2) Fieldwork: Logistics Checklists
 
 ### Pre-Trip Logistics - High Level
 - Personnel
@@ -135,9 +135,9 @@ author_profile: true
 	- Total luggage volume and weight, [Delta baggage policy](https://www.delta.com/us/en/baggage/overview)
 
 
-## 3) Team Meetings
+## 3) Fieldwork: Team Meetings
 
-### Pre-Trip - Team Meeting
+### Team Meeting - Pre-Trip
 - Behavior Standards
 	- Behavior: respect, communication, professionalism
 	- Conflict Resolution: descalation, communication, mediators
@@ -167,23 +167,24 @@ author_profile: true
 	- Role Review
 
 
-### Within Season - Team Meetings
+### Team Meetings - Regular Within Season
+Daily or based on specific missions
 
-- Structured Mission / Daily Pre-Briefs
+- Structured Pre-Briefs
 	- Obectives
 	- Who: Role Assignment 
 	- What: Equipment, Operations
 	- Where: Location
 	- When: Timeline
 	
-- Structured Mission / Daily De-Briefs
+- Structured De-Briefs
 	- Issue Identification 
 	- Success / Failures
 	- Lessons
 	- Adjustments to Protocols 
 
 
-## 4) Best Practices
+## 4) Fieldwork: Best Practices
 	
 ### Skills / Techinques
 

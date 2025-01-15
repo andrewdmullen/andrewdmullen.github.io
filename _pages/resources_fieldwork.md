@@ -21,30 +21,158 @@ author_profile: true
 	* American Academy of Underwater Sciences, Scientific Diving: [https://www.aaus.org](https://www.aaus.org) 
 	* University-National Oceanographic Laboratory System (UNOLS), US Research Vessels: [https://www.unols.org](https://www.unols.org)
 
-## Field Work - Planning & Logistics Checklists
+## Field Work - Logistics Checklists
 
-- Field Season Planning
-	- Objectives: well defined goals -- minimum (threshold), target (basline), and reach
-	- Personnel: well defined roles and responsibilities 
-	- Timeline: calendar timeline, standard daily schedule
-	- Procedures: standard operating procedures for equipment, hazards matrix (hazard identification, mitigation, trouble shooting, contingency)
-	- Equipment: instrumentation, tool kit, camp gear, personal gear
+### Pre-Trip Logistics - High Level
+- Personnel
+	- Travel: flights, itinerary
+	- Transportation, Local: vehicle rental, fuel, navigtaion
+	- Housing: hotel, apartment
+	- Food: food availibility, cooking, dietary restrictions
 
-- Field Logistics Checklist
-	- Basic Essentials: transportation, housing, food
-	- Equipment: procurement (own, purchase, rent), shipping
-	- Field Support: service providers, field guides
-	- Adminatrative: contracts, permits, visas
-	- Safety Protocols: emergency plans, medical services
+- Equipment
+	- Lists: operations / science, team / camp, personal / clothing
+	- Procurement: own, purchase, rent 
+	- Preparation: maintinence, calibration, training
+	- Shipping: packing case, shipping
+
+- Field Support 
+	- Service Providers: contractors, rental equipment, food, etc.
+	- Field Guides: safety, navigation, etc.
+	- Health & Safety: local medical resources, evacuation resources
+
+- Adminstrative
+	- Contracts: with vendors
+	- Permits: local agencies
+	- Visas: international travel
+	- Insurance: equipment, health, travel, evacuation
+	- Trip Registration: organization (company, university), government (state department)
+	- Local Laws & Regulations: check for issues
+
+- Health & Safety 
+	- Personal Health: pre-deployment health checks, vaccinations, underlying conditions (allergies, injuries), medications, insurance, emergency contacts
+	- Emergency Plans: local medical services, telemdicine, evacuation, medical kits
+	- Communications: communication devices (radio, sattelite), contacts, check in plans
+	- Weather & Environment Reports: weather report service, environment hazards and update service
+
+- Training
+	- Equipment Operation: science and engineering equipment, camp equipment, vehicles, clothing and personal gear
+	- Safety Training: terrain navigation, use of safety equipment 
 		 
-- Shipping / Luggage Checklist
-	- Customs: consider regulations, total value, need for carnet - [https://www.atacarnet.com](https://www.atacarnet.com)
-	- Insurance: shipping and damage
-	- Export control: such as ITAR restricted items
-	- Dangerous good: such as batteries
-	- Labeling: "to whom it may concern" letters inside, POC listed in multiple places out, battery or other dangerous good sticker, do not freeze sticker, [FAA battery regulations](https://www.faa.gov/sites/faa.gov/files/hazmat/packsafe/resources/Airline_passengers_and_batteries.pdf)
-	- Tracking: consider use of apple air tags
-	- Airline rules: total luggage volume and weight, [Delta baggage policy](https://www.delta.com/us/en/baggage/overview)
+### Pre-Trip Logistics - Shipping / Luggage
+- Customs
+	- Consider: regulations, total equipment value, 
+	- Carnet: considreneed for carnet - [https://www.atacarnet.com](https://www.atacarnet.com)
+- Insurance
+	- Shipping Insurance: coverage, valuation
+- Export Control 
+	- ITAR & EAR: review regulation
+	- Documentation: have necessary documentation
+- Dangerous Good
+	- Identify: batteries [FAA battery regulations](https://www.faa.gov/sites/faa.gov/files/hazmat/packsafe/resources/Airline_passengers_and_batteries.pdf), chemicals, etc.
+	- Documentation: hazardous label, bring documentation
+- Documentation
+	- Letter: "to whom it may concern" letters inside
+	- External: POC listed in multiple places out, battery or other dangerous good sticker, do not freeze sticker
+	- Official: insurance, export, dangerous goods, carnet etc.
+- Tracking
+	- Techonlogy: consider use of apple air tags
+	- Carrier: airline baggage tracking apps, courier documentation
+- Airline Rules 
+	- Total luggage volume and weight, [Delta baggage policy](https://www.delta.com/us/en/baggage/overview)
+
+
+## Field Work - Planning
+
+### Planning - Identify Complexities
+- Who: interdisciplinary teams, international teams
+- What: technical equipment, technical operations
+- Where: harsh environment, remote location, resource constraints
+- When: constrained operational timelines, extended duration
+
+ 
+### Planning - High Level 
+- What
+	- Objectives 
+		- Minimum: threshold for season success
+		- Target: basline
+		- Reach: nice to have
+	- Operations 
+		- Standard Operating Procedures: SOPs for equipment, operational checklists (functional tests, status checks)
+		- Hazard Plan: hazard identification matrix (proabability, impact), mitigation, trouble shooting, contingency
+		- Science: data management plan, data quality control plan, note taking & documentation
+	- Equipment
+		- Techincal: instrumentation list, tool kit list
+		- List: camp gear, personal gear
+- Who
+	- Personnel: team members
+	- Roles: well defined roles and responsibilities 
+- When 
+	- Pre-Deployment Preperations
+	- Season Calendar Timeline
+	- Standard Daily Schedule
+- Where
+	-  Location Details
+
+
+## Field Work - Best Practices
+
+### Pre-Trip - Team Meeting
+- Behavior Standards
+	- Behavior: respect, communication, professionalism
+	- Conflict Resolution: descalation, communication, mediators
+	- Reporting Mechanisms: anaymous independent
+	- Local: customs, laws, traditions
+
+- Risk Assessment
+	- Individual: allergies, under medical conditions
+	- Health: diseases, cleanliness
+	- Environment: terrain, weather, wildlife, disasters 
+	- Injury Hazards: equipment, manual tasks, vehicle accidents
+	- Security: crime, politcal instability 
+
+- Emergency Plans
+	- Medical facilities: location, contacts, resources
+	- Evacuation: resources
+	
+- Communications
+	- Communication Devices: radio, cell phone, sattelite phone
+	- Contacts: all team members, local partners, emergency services, emergency contacts 
+	- Procedures: check in and out, status updates
+	- Communication Channels: points of contact
+
+- Season Plan Review
+	- Operations Review: who, what, where, when
+	- Logistics Review
+	- Role Review
+
+
+### Within Trip
+
+- Structured Mission Pre-Brief
+	- Obectives
+	- Who: Role Assignment 
+	- What: Equipment, Operations
+	- Where: Location
+	- When: Timeline
+	
+- Structured Mission De-Brief
+	- Issue Identification 
+	- Success / Failures
+	- Lessons
+	- Adjustments to Protocols 
+	 
+### Pnuemonics
+- Decision Making
+	- FORDEC: Facts, Options, Risk / Reward, Decide, Execute, Check Results
+	- STAR: Stop, Think, Act, Reassess
+	- ABCDE: Assess, Balance Options, Communicate, Decide, Execute
+
+- Equipment
+	- FACTS: Food, Aid, Clothes, Tools, Shelter
+
+- Routine Issue Checks
+	- PEST: Personal (mental / physical), Equipment (personal / team), Surrounding (environment), Teammates & Time
 
 <!---
 To Add:

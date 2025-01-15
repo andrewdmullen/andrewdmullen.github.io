@@ -47,7 +47,7 @@ author_profile: true
 	- Personnel: team members, collaborators
 	- Roles: individual roles and responsibilities 
 
-- When - Calendar
+- When - Timeline
 	- Pre-Deployment: preperation timline, milestones
 	- Field Season: calendar timeline, milestones
 	- Daily Schedule: standard daily operational schedule
@@ -164,20 +164,38 @@ author_profile: true
 	- Role Review
 
 
-### Within Trip
+### Within Trip - Meetings
 
-- Structured Mission Pre-Brief
+- Structured Mission Pre-Briefs
 	- Obectives
 	- Who: Role Assignment 
 	- What: Equipment, Operations
 	- Where: Location
 	- When: Timeline
 	
-- Structured Mission De-Brief
+- Structured Mission De-Briefs
 	- Issue Identification 
 	- Success / Failures
 	- Lessons
 	- Adjustments to Protocols 
+
+	
+### Skills / Techinques
+
+- Communication
+	- Standardized Communication Protocols
+	- Standardized Language and Naming
+	- Closed Loop Communications / Positive Confirmation
+	- Point and Call Out
+	- Go/No-Go Check / Teamwide Confirmation
+	- Scheduled Checkins - Personnel & Equipment
+	- Feedback Loops
+	- Quantify Status (eg. 1-10)
+
+- Operations
+	- Pre-Deployment Functional Test
+	- Pre-Deployment Checklist
+	- Scheduled Status Checks
 	 
 ### Misc Pnuemonics
 - Decision Making
@@ -185,11 +203,14 @@ author_profile: true
 	- STAR: Stop, Think, Act, Reassess
 	- ABCDE: Assess, Balance Options, Communicate, Decide, Execute
 
-- Equipment
+- Personal Equipment
 	- FACTS: Food, Aid, Clothes, Tools, Shelter
 
 - Routine Issue Checks
 	- PEST: Personal (mental / physical), Equipment (personal / team), Surrounding (environment), Teammates & Time
+
+- Preperation
+	- Plan, Prepare, Practice Perform
 
 <!---
 To Add:

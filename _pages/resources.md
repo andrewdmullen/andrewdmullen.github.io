@@ -21,7 +21,7 @@ Scientific Organizations, Associations, Engineering Companies, Etc.
 ## Resource Lists - Career & Education 
 Useful educational material and links to resources.
 
-* [Resources - Educational](https://andrewdmullen.github.io/resources_educational/) - Online Tutorials, Videos, Books, Etc.
+* [Resources - Educational](https://andrewdmullen.github.io/resources_educational/) - Engineering / Computing / Science  -  Online Tutorials, Videos, Books, Etc.
 * [Resources - Fellowships, Scholarships, Internships, Field Schools](https://andrewdmullen.github.io/resources_fellowships) - List of Opportunities
 * [Resources - Jobs](https://andrewdmullen.github.io/resources_jobs) - Job Boards & Resources
 

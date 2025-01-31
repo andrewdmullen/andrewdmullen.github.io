@@ -4,9 +4,9 @@ title: ""
 permalink: /cv/
 author_profile: true
 ---
-### One Page Resume: <a href="http://andrewdmullen.github.io/files/Mullen_Resume_2025.pdf">link</a>
+### One Page Industry Resume: <a href="http://andrewdmullen.github.io/files/Mullen_Resume.pdf">link</a>
 
-### Full CV: <a href="http://andrewdmullen.github.io/files/Mullen_CV_2025.pdf">link</a>
+### Full Comprehensive CV: <a href="http://andrewdmullen.github.io/files/Mullen_CV.pdf">link</a>
 <br>
 
 <!---

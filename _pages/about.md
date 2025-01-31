@@ -46,7 +46,7 @@ Welcome! I am an engineer who works on developing tools for earth and space expl
 --->
 
 ### Professional
-I worked as a Senior Research Engineer at [Cornell University](https://astro.cornell.edu/andrew-mullen) in the [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu). Prior to this, I was a [NASA Postdoctoral Program (NPP) Fellow](https://cos.gatech.edu/article/andrew-mullen) at the Georgia Institute of Technology. During my Ph.D. I conducted research at the Scripps Institution of Oceanography in the [Jaffe Laboratory for Underwater Imaging](https://jaffeweb.ucsd.edu).
+My positions have included Senior Research Engineer / Visting Research Scientist  in the [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu) at [Cornell University](https://astro.cornell.edu/andrew-mullen), [NASA Postdoctoral Program (NPP) Fellow](https://cos.gatech.edu/article/andrew-mullen) at Georgia Tech, and Ph.D. Fellow in the [Jaffe Laboratory for Underwater Imaging](https://jaffeweb.ucsd.edu) at the Scripps Institution of Oceanography, UCSD.
 
 * 2024 - Present — Visting Research Scientist, Cornell University
 * 2022-2023 — Senior Research Engineer, Cornell University
@@ -81,7 +81,7 @@ I worked as a Senior Research Engineer at [Cornell University](https://astro.cor
 * **Ocean Worlds Exploration**: Co-led development of conceptual life detection payloads and concept missions to explore "ocean worlds" in our solar system such as Europa.
 
 ### Technical Skills
-* **Computing**: data analysis, image processing, computer vision [*Python*, *Matlab*]
+* **Computing**: computer vision, image processing, data analysis, signal processing [*Python*, *OpenCV*, *Matlab*]
 * **Optical**: imaging system design, computational imaging, microscopy, holography [*Zemax*]
 * **Electrical**: PCB design,  implementation of embedded computers and micro-controllers [*Eagle*, *Python*]
 * **Mechanical**: mechanical design, pressure housing design [*Solid Works*]

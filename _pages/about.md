@@ -48,15 +48,29 @@ Welcome! I am an engineer who works on developing tools for earth and space expl
 ### Professional
 My positions have included Senior Research Engineer / Visting Research Scientist  in the [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu) at [Cornell University](https://astro.cornell.edu/andrew-mullen), [NASA Postdoctoral Program (NPP) Fellow](https://cos.gatech.edu/article/andrew-mullen) at Georgia Tech, and Ph.D. Fellow in the [Jaffe Laboratory for Underwater Imaging](https://jaffeweb.ucsd.edu) at the Scripps Institution of Oceanography, UCSD.
 
-* 2024 - Present — Visting Research Scientist, Cornell University
-* 2022-2023 — Senior Research Engineer, Cornell University
-* 2018-2021 — Postdoctoral Fellow, Georgia Institute of Technology & NASA Postdoctoral Program
+* 2022-2024 — Senior Engineer / Visting Scientist, Cornell University
+* 2018-2021 — Postdoctoral Fellow,  NASA & Georgia Tech
 * 2019, Summer — Visiting Researcher, NASA JPL
 
 ### Education
 * 2018 — Ph.D. in Electrical Engineering, UC San Diego
 * 2015 — M.S. in Oceanography, UC San Diego 
 * 2011 — B.S. in Civil Engineering, University of Notre Dame, *magna cum laude*
+
+### [Project Examples](https://andrewdmullen.github.io/projects/) 
+
+* **Imaging Systems**: Jointly led the development of a custom submersible diver operated microscope, an underwater particle imaging velocimetry system, and a submersible digital holographic microscope - all used in ocean environments.
+* **Sensor Packages**: Led the design and fabrication of a custom multi-sensor instrument package for ROV exploration of deep sea brine pools.
+* **Robotics**: Member of the operations and development team of 'Icefin' a custom underwater robot designed for polar exploration, performed three expeditions to Antarctica on the robot team.
+* **Ocean Worlds Exploration**: Co-led development of conceptual life detection payloads and concept missions to explore "ocean worlds" in our solar system such as Europa.
+
+### Technical Skills
+* **Computing**: computer vision, image processing, data analysis, signal processing [*Python*, *OpenCV*, *Matlab*]
+* **Optical**: imaging system design, computational imaging, microscopy, holography [*Zemax*]
+* **Electrical**: PCB design,  implementation of embedded computers and micro-controllers [*Eagle*, *Python*]
+* **Mechanical**: mechanical design, pressure housing design [*Solid Works*]
+* **Fluidic**: particle tracking velocimetry observations, fluid dynamics, water sampling systems
+
 
 ### [Scientific Publications](https://andrewdmullen.github.io/publications)
 
@@ -73,19 +87,6 @@ My positions have included Senior Research Engineer / Visting Research Scientist
 * **Awards & Honors**: *Microscopy Today Innovation Award*, *Antarctic Service Medal*
 * **Performed engineering and operations work on projects funded by**: *NSF Office of Polar Programs*, *NASA Astrobiology Program*, *NASA Planetary Science and Technology from Analog Research (PSTAR) Grants*
 
-### [Project Examples](https://andrewdmullen.github.io/projects/) 
-
-* **Imaging Systems**: Jointly led the development of a custom submersible diver operated microscope, an underwater particle imaging velocimetry system, and a submersible digital holographic microscope - all used in ocean environments.
-* **Sensor Packages**: Led the design and fabrication of a custom multi-sensor instrument package for ROV exploration of deep sea brine pools.
-* **Robotics**: Member of the operations and development team of 'Icefin' a custom underwater robot designed for polar exploration, performed three expeditions to Antarctica on the robot team.
-* **Ocean Worlds Exploration**: Co-led development of conceptual life detection payloads and concept missions to explore "ocean worlds" in our solar system such as Europa.
-
-### Technical Skills
-* **Computing**: computer vision, image processing, data analysis, signal processing [*Python*, *OpenCV*, *Matlab*]
-* **Optical**: imaging system design, computational imaging, microscopy, holography [*Zemax*]
-* **Electrical**: PCB design,  implementation of embedded computers and micro-controllers [*Eagle*, *Python*]
-* **Mechanical**: mechanical design, pressure housing design [*Solid Works*]
-* **Fluidic**: particle tracking velocimetry observations, fluid dynamics, water sampling systems
 
 ### [Field Work](https://andrewdmullen.github.io/fieldwork/)
 

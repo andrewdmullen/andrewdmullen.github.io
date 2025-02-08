@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, I am a research engineer with over a decade of experience advancing imaging, sensing, and robotics on NASA and NSF projects. My skill set combines optics and computer vision with embedded systems engineering to develop tools for exploration and perception in challenging environments. My background includes work managing full project lifecycles from instrument design and fabrication through logistics and field deployment — with missions ranging from Antarctic ice shelves, to deep-sea brine pools, to tropical coral reefs.
+Welcome, I am a research engineer with over a decade of experience advancing imaging, sensing, and robotics on NASA and NSF projects. I have worked extensively in systems engineering, developing robotic payloads that integrate optics, computer vision, electronics, and mechanical systems. My experience spans full project lifecycles, from instrument design and fabrication to logistics and field deployment -- with missions ranging from Antarctic ice shelves, to deep-sea brine pools, to tropical coral reefs.
 
 <!---
+Welcome, I am a research engineer with over a decade of experience advancing imaging, sensing, and robotics on NASA and NSF projects. My skill set combines optics and computer vision with embedded systems engineering to develop tools for exploration in challenging environments. My background includes work managing full project lifecycles from instrument design and fabrication through logistics and field deployment — with missions ranging from Antarctic ice shelves, to deep-sea brine pools, to tropical coral reefs.
+
+
 Welcome, I am a research engineer with a focus on developing imaging, sensing and robotic systems for exploration. I have a background working with interdisciplinary teams to build and deploy instruments in a variety of challenging polar and marine environments -- from Antarctic ice shelves to deep sea brine pools.
 
 

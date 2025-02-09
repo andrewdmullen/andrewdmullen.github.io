@@ -13,25 +13,18 @@ author_profile: true
 <img src="/images/projects/Icefin - Screenshot - Icefin deployment at Thwaites Glacier.png" width="400" height="200" style="display: block; margin: auto;"/>
 --->
 
-* *Description*: Icefin is a modular underwater robot (130 kg, 23 cm diameter, 3.5 m length)  designed for under-ice exploration. It is a tool for polar research, as well as a NASA funded project advancing technologies for future exploration of ocean worlds such as Europa. The robot integrates perception (sonar, imaging), ocean sensors (CTD, DO), navigation (IMU, ADCP), onboard battery power, and 5 DOF thruster actuation. - [Icefin Homepage](https://schmidt.astro.cornell.edu/icefin/?playlist=1769ca3&video=6f76132), [Thwaites 'Melt' Project](https://schmidt.astro.cornell.edu/thwaites-melt/) 
+* *Description*: Icefin is a modular underwater robot designed for under-ice exploration, and capable of being deployed through narrow holes drilled through glaciers. It is a tool for polar research, as well as a NASA funded project advancing technologies for future exploration of ocean worlds such as Europa. - [Icefin Homepage](https://schmidt.astro.cornell.edu/icefin/?playlist=1769ca3&video=6f76132), [Thwaites 'Melt' Project](https://schmidt.astro.cornell.edu/thwaites-melt/) 
 
-* *Contributions*: As an engineer on the Icefin team, I collaborated with interdisciplinary teams (3 to 9 members) to test, develop, and deploy robot. Executed 50+ sub-ice robotic missions (~8 hours each, surveys up to 2km+ long and 800m+ deep). Conducted techincal vehicle deployments through narrow holes (~35cm) drilled through up to 600m of glacier ice. Developed standard operating procedures, checklist protocols, and hazard assessments.
-
-* *Field Seasons*: Conducted three field seasons in Antarctica, working on five projects (totaling 38+ weeks). Operated in harsh weather (-25°C to 0°C), at remote resource-constrained tent camps (up to 1300 km from station), accessed by planes, for up to 5 weeks at a time.
+* *Contributions*: As an engineer on the Icefin team, I contributed to system testing and development, as well as extensive field operations and logistics. I conducted three field seasons in Antarctica, working on five projects:
 	* 2018-19: Ross Ice Shelf & Europa Underwater Probe (RISEUP)
 	* 2019-20: International Thwaites Glacier Collaboration (ITGC)
 	* 2021-22: HiPSMI - Ocean Supercooling Study, Scott Base Bathymetric Survey, Kamb  Ice Stream
 	
 * *Outcomes*: The Icefin team collected ocean data in previously inaccesible regions beneath Antarctic glaciers. Surveys revealed key processes impacting ice melt, providing critical data for modeling sea level rise. Concurrently, deployments beneath ice shelves demonstrated important capabilities for future ocean worlds exploration.
-
 * *Co-Authored Publications*: [Schmidt et al. Nature 2023](https://doi.org/10.1038/s41586-022-05691-0), [Davis et al. Nature 2023](https://doi.org/10.1038/s41586-022-05586-0), [Lawrence et al. Nature Geoscience 2023](https://doi.org/10.1038/s41561-023-01129-y), [Meister et al. IEEE Global OCEANS 2020](https://doi.org/10.1109/ieeeconf38699.2020.9389361)
-
 * *Media*: [BBC](https://www.bbc.com/news/science-environment-64640796), [New York Times](https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html), [Washington Post](https://www.washingtonpost.com/climate-environment/2023/02/15/glacier-ice-melt-ocean-warming/), [Wall Street Journal](https://www.wsj.com/story/take-a-plunge-under-antarcticas-ice-with-robots-f25b99d5), [more](http://andrewdmullen.github.io/media/)
 
-* *Collaborators*: Worked with international partners including the British Antarctic Survey (BAS), Antarctica New Zealand (ANZ), International Thwaites Glacier Collaboration (ITGC).
 
-* *Funding*: Contributed to projects with $5.6M+ NASA/NSF funding led by PI B.E. Schmidt, including NASA Planetary Science and Technology from Analog Research (PSTAR) grant 'Ross Ice Shelf and Europa Underwater Probe (RISEUP)' and NSF International Thwaites Glacier Collaboration.  
-<br><br>
 	
 ## Vertical Entry Robot for Navigating Europa (VERNE)
 
@@ -41,27 +34,24 @@ author_profile: true
 <img src="/images/publications/ASCEND_Bryson_2020_Fig4_LowRes.png" width="70" height="35" style="display: block; margin: auto;"/> *Vertical Entry Robot for Navigating Europa (VERNE) Mission and System Design* <br>  Fig 4. VERNE vehicle conceptual design.|
 --->
 
-* *Description*: Europa is a moon of Jupiter with a thick ice shell overlying a large liquid ocean. VERNE is a NASA funded concept study for a mission to melt through the ice shell of Europa in order to search for life in its interior.
+* *Description*: Europa is a moon of Jupiter with a thick ice shell overlying a large liquid ocean. VERNE is a NASA funded mission concept to melt through the ice shell of Europa in order to search for life in its interior.
 
-* *Contributions*: Co-led a team of 21 scientists and engineers developing a conceptual life detection science payload for the VERNE melt probe. Team surveyed state-of-the-art technologies for life detection (microscopic imaging, raman spectroscopy, mass spectrometry, nanopore genomic sequencing, ion-selective electrodes) and sample handling. Evaluated techniques from ocean, earth, and space science.
+* *Contributions*: Co-led a team of 21 scientists and engineers developing a conceptual life detection science payload for the VERNE melt probe. Team surveyed state-of-the-art life detection technologies from ocean, earth, and space science. 
 	
-* *Outcomes*: The team developed 'Subsurface Science and Search for Life in Ocean Worlds' (SSSLOW) a concept payload, with a novel architecture that performs sequential measurements on liquid samples with increasing detail. Defined critical science objectives, leveraged existing technological capabilities, and identified areas for needing further development. The team also developed a melt probe probe design and sub-surface mission architecture. 
+* *Outcomes*: The team developed a conceptual Europa sub-surface life detection package, integrating multiple scientific instruments. Defined critical science objectives, leveraged existing technological capabilities, and identified areas for needing further development. The team also developed a melt probe probe design and sub-surface mission architecture. 
 
-* *Co-Authored Publications*: [Lawrence (co-lead), Mullen (co-lead), et al. Planetary Science Journal 2023](https://doi.org/10.3847/PSJ/aca6ed), [Bryson et al. AIAA ASCEND 2020](https://doi.org/10.2514/6.2020-4061), Bryson et al. Earth and Space Science 2023
-
-* *Funding*: Work funded by $2M NASA Scientific Exploration Subsurface Access Mechanism for Europa (SESAME) grant led by PI BE Schmidt.
+* *Co-Authored Publications*: [Lawrence (co-lead), Mullen (co-lead), et al. Planetary Science Journal 2023](https://doi.org/10.3847/PSJ/aca6ed), [Bryson et al. AIAA ASCEND 2020](https://doi.org/10.2514/6.2020-4061), Bryson et al. Earth and Space Science (accepted)
 <br><br>
-
    
 ## Submersible Digital Holographic Microscope (DHM)
 
 | <img src="/images/projects/DHM/DHM_Deployment.jpeg" width="800" height="400" style="display: block; margin: auto;"/> <br> DHM Antarctic deployment. | <img src="/images/projects/DHM/DHM_System.png" width="1000" height="500" style="display: block; margin: auto;"/> <br> DHM system design.| <img src="/images/projects/DHM/DHM_Lab.png" width="1000" height="500" style="display: block; margin: auto;"/> <br> *Euglena* motility observations in lab experiment.| 
 
-* *Description*: This project developed a submersible DHM for the Icefin ROV. Holography is a computational imaging technique used to record a three dimensional volume. The submersible DHM uses this approach at small scale to observe microbial motility in the ocean. This is a proof of technology for future life detection missions to ocean worlds, and builds on existing DHM work from JPL. 
+* *Description*: Holography is a computational imaging technique used to record a three dimensional volume. The submersible DHM uses this approach at small scale to observe microbial motility in the ocean. This is a proof of technology for future life detection missions to ocean worlds, and builds on existing DHM work from JPL.
 
-* *Contribution*: Concieved project, led collaboration between Georgia Tech & NASA JPL, and secured funding ($160k+ NASA NPP proposal, 15 page competitive grant). Led development of instrument including compact microscopic optics (camera, laser, lenses), electromechanics (pressure vessel, embedded computing), and image processing software (Python/OpenCV, particle tracking). Integrated DHM with Icefin robot, deployed system in Antarctica, and analyzed data.
+* *Contribution*: Concieved and led collaboration with Georgia Tech & NASA JPL developing a submersible DHM for the Icefin ROV. Led development of instrument including compact microscopic optics, sumbersible housings, embedded electronics, and image processing software. Deployed system in Antarctica, and analyzed data.
 
-* *Outcomes*: DHM achivied high resolution (<1 µm) underwater, while having a compact form factor (~35 cm length x 16 cm diameter) allowing integration with Icefin. Deployed in sub-ice Antarctic waters (1.8 °C water, 400 m) as an analog for future “ocean world” exploration. Observed in situ microbial motility as a life detection signature. 
+* *Outcomes*: DHM successfully observed microbial motility in sub-ice Antarctic waters which serve as an analog for future “ocean world” exploration.
 
 * *Publication*: journal paper *in prep*, presented at AGU AbSciCon 2022 
 
@@ -69,31 +59,25 @@ author_profile: true
 
 | <img src="/images/projects/OAST/OAST_01.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> | <img src="/images/projects/OAST/OAST_02.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> |
 
-* *Description*: The OAST project is a NASA Astrobiology funded effort to study extreme salty environments on Earth as an analog for other planets. The Orca Basin cruise conducted underwater robotic investigations of the hypersaline Orca Basin brine pool (salinity >7x ocean water, 2400m depth). - [OAST Homepage](https://schmidt.astro.cornell.edu/pingo-starr/)
+* *Description*: The OAST project is a NASA Astrobiology funded effort to study extreme salty environments on Earth as an analog for other planets. The Orca Basin cruise conducted underwater robotic investigations of the hypersaline Orca Basin brine pool, which has a salinity of greater than 7x ocean water and is at a depth of over 2,000m in the Gulf of Mexico. - [OAST Homepage](https://schmidt.astro.cornell.edu/pingo-starr/)
 
-* *Contributions*: Led team which developed a custom instrument package for a robotic vehicle (5-person team, 6-month build). Engineered real-time data visualization (Python), electromechanical systems (pressure vessel, embedded computing, power), and integration of 8 sensors (sonar, chemical, physical, sampling). Initiated commercial ROV partnership with Oceaneering Inc. and integrated $200k+ payload with ROV Global Explorer (3400 lbs, 9'x5'x4').
-	* 2023: Orca Basin – Conducted 14 Day Research Cruise (RV Point Sur) coordinated with 13-person team science-engineering team to conduct 10 dives into brine pool.
+* *Contributions*: Led team which developed a custom physical-chemical instrument package for remotely operated vehicle (ROV). Served as ROV Instrumentation Lead on research cruise. 
 
-* *Outcomes*: Team conducted first-of-their-kind ROV dives into a hypersaline brine pool. Mapped distinct fine scale physical-chemical layering in Orca Basin, and collected precise water samples using real-time sensor data for extremophile research.
+* *Outcomes*: Team collected detailed physical-chemical-bio survey of Orca Basin brine pool over the course of 10 ROV dives. ROV and instrument packaged profiled full depth of brine pool.
 
-* *Funding*: Work funded by $7.1M NASA NASA Astrobiology Program grant led by PI BE Schmidt.
 <br> <br>
 
 ## Pingo Sub Terranean Aquifer Reconnaissance and Reconstruction (PINGO STARR)
 
 | <img src="/images/projects/Pingo/Pingo_01.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> | <img src="/images/projects/Pingo/Pingo_2023_01.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> | <img src="/images/projects/Pingo/Pingo_2023_02.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> |
 
-* *Description*: Pingos are ice cored hills which exist on earth and potentially other planetary bodies. This project investigated Pingos with several geophiscal instrumentation (ground penetrating radar - GPR, capacitavely coupled resistivity - CCR, and transient electromagnetics - TEM). - [Pingo STARR Homepage](https://schmidt.astro.cornell.edu/pingo-starr/)
+* *Description*: Pingos are ice cored hills which exist on earth and potentially other planetary bodies. This NASA PSTAR (Planetary Science and Technology from Analog Research) project is investigating Pingos with ground penetrating radar, conductivity, and magnetotelluric techniques. - [Pingo STARR Homepage](https://schmidt.astro.cornell.edu/pingo-starr/)
 
-* *Contributions*: Lead Field Engineer on two field season surveying Pingos in the Arctic. Adapted geophysical instrumentation for mobile operation in Arctic tundra, developed instrument sled systems, and outfitted snowmobiles with scientific equipment. Operated in remote Arctic tundra, in harsh weather (-30°C to -10°C), working outdoors for ~8-10 hours at a time, collaborating with a team of 5-9 members.
-	* 2021: Deadhorse, Alaskan Arctic – 3 Weeks, 4 Pingo Surveys 
-	* 2023: Tuktoyaktuk, Canadian Arctic – 2 Weeks, 9 Pingo Surveys
+* *Contributions*: Lead Field Engineer on two field season surveying Pingos in the Arctic.
 
-* *Outcomes*: Surveys demonstrated instrumentation capabilities for future planetary exploration. Results revealed pingo permafrost structure significantly more varied and complex than previously documented. 
+* *Outcomes*: Team utilized of geophysical instruments to provide new measurements of Pingo subsurface structure, with data anylsis is still ongoing.
 
 * *Presentations*: [LPI 2021](https://www.hou.usra.edu/meetings/terrestrialanalogs2021/pdf/8061.pdf), journal publications *in prep*
-
-* *Funding*: Work funded by $2.4M NASA PSTAR (Planetary Science and Technology from Analog Research) grant led by PI BE Schmidt.
 <br> <br>
 
 

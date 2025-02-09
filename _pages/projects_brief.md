@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /projects/
+permalink: /projects_brief/
 author_profile: true
 ---
 # Research Engineer & Post Doctoral Fellow

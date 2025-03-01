@@ -36,10 +36,13 @@ I am section hiking the Pacific Crest Trail over time. So far I have had the opp
 
 Looking forward to doing more in the future!
 
+<<<<<<< HEAD
 ### Diving
 
 AAUS Scientific Diver, PADI Rescue / Advanced / Open Water Diver, 150+ lifetime dives. Have had the privalge to enjoy science and recreational dives in places including: Red Sea, Little Cayman, Maui, La Jolla, Great Barrier Reef, Palau, and Galapagos.
 
+=======
+>>>>>>> origin/master
 
 ## Pictures
 

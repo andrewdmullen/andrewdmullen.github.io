@@ -4,11 +4,8 @@ title: ""
 permalink: /projects/
 author_profile: true
 ---
-<<<<<<< HEAD
 # Cornell Sr. Research Engineer & NASA Post Doctoral Fellow
-=======
-# Research Engineer & Post Doctoral Fellow
->>>>>>> origin/master
+
 ## Icefin Robot 
 
 | <img src="/images/projects/Icefin/Icefin - Image of Icefin under the sea ice near McMurdo Station (Rob Robbins, USAP Driver).jpg" width="400" height="200" style="display: block; margin: auto;"/>| <img src="/images/projects/Icefin/Icefin - Screenshot - Icefin deployment at Thwaites Glacier.png" width="400" height="200" style="display: block; margin: auto;"/>|
@@ -36,7 +33,6 @@ author_profile: true
 
 * *Funding*: Contributed to projects with $5.6M+ NASA/NSF funding led by PI B.E. Schmidt, including NASA Planetary Science and Technology from Analog Research (PSTAR) grant 'Ross Ice Shelf and Europa Underwater Probe (RISEUP)' and NSF International Thwaites Glacier Collaboration.  
 <br><br>
-<<<<<<< HEAD
 
 ## Submersible Digital Holographic Microscope (DHM)
 
@@ -65,8 +61,6 @@ author_profile: true
 * *Funding*: Work funded by $7.1M NASA NASA Astrobiology Program grant led by PI BE Schmidt.
 <br> <br>
 
-=======
->>>>>>> origin/master
 	
 ## Vertical Entry Robot for Navigating Europa (VERNE)
 

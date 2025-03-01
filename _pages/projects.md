@@ -4,7 +4,7 @@ title: ""
 permalink: /projects/
 author_profile: true
 ---
-# Research Engineer & Post Doctoral Fellow
+# Cornell Sr. Research Engineer & NASA Post Doctoral Fellow
 ## Icefin Robot 
 
 | <img src="/images/projects/Icefin/Icefin - Image of Icefin under the sea ice near McMurdo Station (Rob Robbins, USAP Driver).jpg" width="400" height="200" style="display: block; margin: auto;"/>| <img src="/images/projects/Icefin/Icefin - Screenshot - Icefin deployment at Thwaites Glacier.png" width="400" height="200" style="display: block; margin: auto;"/>|
@@ -32,6 +32,34 @@ author_profile: true
 
 * *Funding*: Contributed to projects with $5.6M+ NASA/NSF funding led by PI B.E. Schmidt, including NASA Planetary Science and Technology from Analog Research (PSTAR) grant 'Ross Ice Shelf and Europa Underwater Probe (RISEUP)' and NSF International Thwaites Glacier Collaboration.  
 <br><br>
+
+## Submersible Digital Holographic Microscope (DHM)
+
+| <img src="/images/projects/DHM/DHM_Deployment.jpeg" width="800" height="400" style="display: block; margin: auto;"/> <br> DHM Antarctic deployment. | <img src="/images/projects/DHM/DHM_System.png" width="1000" height="500" style="display: block; margin: auto;"/> <br> DHM system design.| <img src="/images/projects/DHM/DHM_Lab.png" width="1000" height="500" style="display: block; margin: auto;"/> <br> *Euglena* motility observations in lab experiment.| 
+
+* *Description*: This project developed a submersible DHM for the Icefin ROV. Holography is a computational imaging technique used to record a three dimensional volume. The submersible DHM uses this approach at small scale to observe microbial motility in the ocean. This is a proof of technology for future life detection missions to ocean worlds, and builds on existing DHM work from JPL. 
+
+* *Contribution*: Concieved project, led collaboration between Georgia Tech & NASA JPL, and secured funding ($160k+ NASA NPP proposal, 15 page competitive grant). Led development of instrument including compact microscopic optics (camera, laser, lenses), electromechanics (pressure vessel, embedded computing), and image processing software (Python/OpenCV, particle tracking). Integrated DHM with Icefin robot, deployed system in Antarctica, and analyzed data.
+
+* *Outcomes*: DHM achivied high resolution (<1 µm) underwater, while having a compact form factor (~35 cm length x 16 cm diameter) allowing integration with Icefin. Deployed in sub-ice Antarctic waters (1.8 °C water, 400 m) as an analog for future “ocean world” exploration. Observed in situ microbial motility as a life detection signature. 
+
+* *Publication*: journal paper *in prep*, presented at AGU AbSciCon 2022 
+
+## Oceans Across Space & Time (OAST)
+
+| <img src="/images/projects/OAST/OAST_01.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> | <img src="/images/projects/OAST/OAST_02.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> |
+| <img src="/images/projects/OAST/SEASALT_WebsiteImage.png" width="1000" height="500" style="display: block; margin: auto;"/> | <img src="/images/projects/OAST/OAST_02.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> |
+
+* *Description*: The OAST project is a NASA Astrobiology funded effort to study extreme salty environments on Earth as an analog for other planets. The Orca Basin cruise conducted underwater robotic investigations of the hypersaline Orca Basin brine pool (salinity >7x ocean water, 2400m depth). - [OAST Homepage](https://schmidt.astro.cornell.edu/pingo-starr/)
+
+* *Contributions*: Led team which developed a custom instrument package for a robotic vehicle (5-person team, 6-month build). Engineered real-time data visualization (Python), electromechanical systems (pressure vessel, embedded computing, power), and integration of 8 sensors (sonar, chemical, physical, sampling). Initiated commercial ROV partnership with Oceaneering Inc. and integrated $200k+ payload with ROV Global Explorer (3400 lbs, 9'x5'x4').
+	* 2023: Orca Basin – Conducted 14 Day Research Cruise (RV Point Sur) coordinated with 13-person team science-engineering team to conduct 10 dives into brine pool.
+
+* *Outcomes*: Team conducted first-of-their-kind ROV dives into a hypersaline brine pool. Mapped distinct fine scale physical-chemical layering in Orca Basin, and collected precise water samples using real-time sensor data for extremophile research.
+
+* *Funding*: Work funded by $7.1M NASA NASA Astrobiology Program grant led by PI BE Schmidt.
+<br> <br>
+
 	
 ## Vertical Entry Robot for Navigating Europa (VERNE)
 
@@ -52,32 +80,6 @@ author_profile: true
 * *Funding*: Work funded by $2M NASA Scientific Exploration Subsurface Access Mechanism for Europa (SESAME) grant led by PI BE Schmidt.
 <br><br>
 
-   
-## Submersible Digital Holographic Microscope (DHM)
-
-| <img src="/images/projects/DHM/DHM_Deployment.jpeg" width="800" height="400" style="display: block; margin: auto;"/> <br> DHM Antarctic deployment. | <img src="/images/projects/DHM/DHM_System.png" width="1000" height="500" style="display: block; margin: auto;"/> <br> DHM system design.| <img src="/images/projects/DHM/DHM_Lab.png" width="1000" height="500" style="display: block; margin: auto;"/> <br> *Euglena* motility observations in lab experiment.| 
-
-* *Description*: This project developed a submersible DHM for the Icefin ROV. Holography is a computational imaging technique used to record a three dimensional volume. The submersible DHM uses this approach at small scale to observe microbial motility in the ocean. This is a proof of technology for future life detection missions to ocean worlds, and builds on existing DHM work from JPL. 
-
-* *Contribution*: Concieved project, led collaboration between Georgia Tech & NASA JPL, and secured funding ($160k+ NASA NPP proposal, 15 page competitive grant). Led development of instrument including compact microscopic optics (camera, laser, lenses), electromechanics (pressure vessel, embedded computing), and image processing software (Python/OpenCV, particle tracking). Integrated DHM with Icefin robot, deployed system in Antarctica, and analyzed data.
-
-* *Outcomes*: DHM achivied high resolution (<1 µm) underwater, while having a compact form factor (~35 cm length x 16 cm diameter) allowing integration with Icefin. Deployed in sub-ice Antarctic waters (1.8 °C water, 400 m) as an analog for future “ocean world” exploration. Observed in situ microbial motility as a life detection signature. 
-
-* *Publication*: journal paper *in prep*, presented at AGU AbSciCon 2022 
-
-## Oceans Across Space & Time (OAST)
-
-| <img src="/images/projects/OAST/OAST_01.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> | <img src="/images/projects/OAST/OAST_02.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> |
-
-* *Description*: The OAST project is a NASA Astrobiology funded effort to study extreme salty environments on Earth as an analog for other planets. The Orca Basin cruise conducted underwater robotic investigations of the hypersaline Orca Basin brine pool (salinity >7x ocean water, 2400m depth). - [OAST Homepage](https://schmidt.astro.cornell.edu/pingo-starr/)
-
-* *Contributions*: Led team which developed a custom instrument package for a robotic vehicle (5-person team, 6-month build). Engineered real-time data visualization (Python), electromechanical systems (pressure vessel, embedded computing, power), and integration of 8 sensors (sonar, chemical, physical, sampling). Initiated commercial ROV partnership with Oceaneering Inc. and integrated $200k+ payload with ROV Global Explorer (3400 lbs, 9'x5'x4').
-	* 2023: Orca Basin – Conducted 14 Day Research Cruise (RV Point Sur) coordinated with 13-person team science-engineering team to conduct 10 dives into brine pool.
-
-* *Outcomes*: Team conducted first-of-their-kind ROV dives into a hypersaline brine pool. Mapped distinct fine scale physical-chemical layering in Orca Basin, and collected precise water samples using real-time sensor data for extremophile research.
-
-* *Funding*: Work funded by $7.1M NASA NASA Astrobiology Program grant led by PI BE Schmidt.
-<br> <br>
 
 ## Pingo Sub Terranean Aquifer Reconnaissance and Reconstruction (PINGO STARR)
 

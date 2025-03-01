@@ -49,7 +49,8 @@ author_profile: true
 ## Oceans Across Space & Time (OAST)
 
 | <img src="/images/projects/OAST/OAST_01.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> | <img src="/images/projects/OAST/OAST_02.jpeg" width="1000" height="500" style="display: block; margin: auto;"/> |
-| <img src="/images/projects/OAST/SEASALT_WebsiteImage.jpg" width="1000" height="500" style="display: block; margin: auto;"/> 
+<br> 
+<img src="/images/projects/OAST/SEASALT_WebsiteImage.jpg" width="1000" height="500" style="display: block; margin: auto;"/> 
 
 * *Description*: The OAST project is a NASA Astrobiology funded effort to study extreme salty environments on Earth as an analog for other planets. The Orca Basin cruise conducted underwater robotic investigations of the hypersaline Orca Basin brine pool (salinity >7x ocean water, 2400m depth). - [OAST Homepage](https://schmidt.astro.cornell.edu/pingo-starr/)
 
